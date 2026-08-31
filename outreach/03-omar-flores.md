@@ -12,7 +12,7 @@ Starting with the useful part, because you're in as a guest student and I don't 
 
 I went looking anyway, and the thing that made me write this wasn't the résumé. It was your AI post — "I could have shared the certificates right away, but I wanted to first do something meaningful with what I learned," and then you actually built the pathway analysis and scored both curricula on the same framework. Nobody asked you to do that. That's the exact thing I'm drafting for, and it's very hard to fake.
 
-Then everything else: O4FLO live and taking pre-orders, two and a half years in. CTO of TeesHees running the tech for a 12-person team. Analyst work for the President's Office. Three years with Big Brothers Big Sisters. And Boston, for Cradles to Crayons, with Boston.com writing up why.
+Then everything else: two and a half years of O4FLO (I went to the site — it wasn't loading when I last checked, so tell me if it's moved). CTO of TeesHees running the tech for a 12-person team. Analyst work for the President's Office. Three years with Big Brothers Big Sisters. And Boston, for Cradles to Crayons, with Boston.com writing up why.
 
 Also — and I don't think you can be told this too often — you are a personal trainer at a gym named after the professor about to teach you. I'd genuinely open with that on Wednesday.
 

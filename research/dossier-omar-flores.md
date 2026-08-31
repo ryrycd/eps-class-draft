@@ -37,7 +37,7 @@ He hits the rubric harder than almost anyone in the pool, and every marker is in
 | Rubric signal | Evidence |
 |---|---|
 | Work nobody assigned him | The AI Pathway Analysis. He declined to post the easy credential and built something instead. |
-| Shipped and still exists | o4flo.com, live and taking pre-orders |
+| Shipped and still exists | o4flo.com — **live and taking pre-orders as of the Aug research pass; returning 404 on 8/31** (domain resolves; Google's index still shows the pre-order page). Likely temporarily paused — recheck before citing "live" to him |
 | Multi-year sustained commitment | O4FLO 2.5 yrs · Big Brothers Big Sisters ~3 yrs · President's Office 1 yr · ONE 1.25 yrs |
 | Unglamorous work done well | Gym floor maintenance, 22 personal-training clients, archival record organisation |
 | Built under real constraint | First-gen, Langley Park → San Miguel → Episcopal → Babson on a Blank scholarship |

@@ -5,7 +5,7 @@
 
 > **Split out of `dossier-remaining-brag-sheet-players.md`** so every player has an individual file, as the brief asked. Content is the compact treatment; `CORRECTIONS-AND-VERIFICATIONS.md` and `DEEP-PASS-UPDATES.md` override where they conflict.
 
-**Finance, Babson Class of 2028 — a rising sophomore in a senior-heavy room. Guest student. New York, NY. He/Him.**
+**Finance, Babson Class of 2028 (Expected May 2028, résumé-verified) — a 3rd-year in a senior-heavy room, one of the youngest on the board. Guest student. New York, NY. He/Him.** *(Corrected 8/31: earlier version said "rising sophomore," which conflicts with his May 2028 graduation date — he entered Fall 2024 and starts junior year Fall 2026.)*
 - [STATED, résumé] **Rudin Management**, Residential Leasing Intern, summer 2025 — Excel dashboards tracking vacancy loss across 150+ units in Yardi; cost models by repair category; compliance tracking for NYC Local Laws 6/11/31 across 30+ renovations; 10+ competitor property tours with written analysis; updated 700+ units' rentable square footage.
 - [STATED, résumé] **CFO of his FME startup** — monthly statements, $3,000+ budget, supervised 4+ sales associates, 15%+ revenue growth, ran Square and Shopify. **Babson Admission Ambassador** (Jan 2025 – current) — tours twice weekly for groups up to 40, 750+ visitors. **Peer Mentor.** Babson Leadership Academy Fellow. St. John Episcopal Hospital population health intern. Weill Cornell summer apprentice.
 - [STATED, brag sheet] **Bass singer and trumpet player, performances up to Carnegie Hall.** Principal Trumpet, Babson Music Collective — organised and led weekly sectionals.

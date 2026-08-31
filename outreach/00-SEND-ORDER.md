@@ -1,8 +1,61 @@
 # OUTREACH — CANONICAL SEND ORDER (v3, post-audit)
 **Draft: Wed Sept 2, 3:00 PM.** This file is the single source of truth for order. Where a message file's own header disagrees, **this file wins.** ★ = dark pool (no brag sheet).
 
+## ⚡ SCOPE — "how many people am I actually contacting?"
+- **Minimum: Wave 1 = 8 people** (everyone 8.5+). If you only have two hours, it's these.
+- **The real plan: Waves 1–2 = 18 people by Tuesday morning** (everyone ≥7.9 — every plausible R1–R3 pick of yours).
+- **Waves 3–4 (19–42): cheap upside, ~45 min total** using the connect notes. 43 players / 48 slots means nearly everyone gets drafted — a Wave-4 "yes" still protects your Round 4. Send as time allows Tuesday.
+
 ## Channel
 LinkedIn DM for everyone. Babson email (`first-initial + lastname + 1 @babson.edu`, e.g. `tlukman1@babson.edu`) as a Tuesday second touch if they go quiet.
+
+## 📍 Where each message physically lives (headers inside those files may still show v2 numbering — ignore the numbers, this table is the map)
+| Send # | Person | Message file |
+|---|---|---|
+| 1 | Jeda | `01-jeda-wannasin.md` |
+| 2 | AJ Bulow | `02-aj-bulow.md` |
+| 3 | Omar Flores | `03-omar-flores.md` |
+| 4 | Brock Alpher | `04-brock-alpher.md` |
+| 5 | Matthew Ong | `05-matthew-ong.md` |
+| 6 | Tiffany Lukman | `06-tiffany-lukman.md` |
+| 7 | Will Marra | `06-11-wave-2.md` §12 |
+| 8 | Kelly Morgan | `06-11-wave-2.md` §09 |
+| 9 | David Chen | `06-11-wave-2.md` §08 |
+| 10 | Tarynea Aggarwal | `06-11-wave-2.md` §07 |
+| 11 | Zahaan Sabuwala | `12-20-wave-3.md` §19 |
+| 12 | Harini Kesamneni | `28-39-wave-4.md` §38 **(rewritten 8/31 — now a Wave 2 message)** |
+| 13 | Jack Gramer | `12-20-wave-3.md` §26 |
+| 14 | Mia Mumby | `06-11-wave-2.md` §13 |
+| 15 | Adi Oberoi | `06-11-wave-2.md` §10 |
+| 16 | Aaron Wu | `24-aaron-wu.md` (+ add-on line in `12-20-wave-3.md` §24) |
+| 17 | Omar Saad | `06-11-wave-2.md` §14 |
+| 18 | Anvesha Gupta | `06-11-wave-2.md` §11 |
+| 19 | Yifei You | `28-39-wave-4.md` §29 |
+| 20 | Anshul Shah | `21-27-missing-messages.md` §21 |
+| 21 | Aryaman Gupta | `12-20-wave-3.md` §18 |
+| 22 | Ansh Barmecha | `12-20-wave-3.md` §25 |
+| 23 | Tony Shi | `28-39-wave-4.md` §28 |
+| 24 | Zeynep Celiktas | `12-20-wave-3.md` §16 |
+| 25 | Selim Saab | `28-39-wave-4.md` §32 |
+| 26 | Cade Collins | `12-20-wave-3.md` §20 |
+| 27 | Eduardo Camilo | `21-27-missing-messages.md` §27 |
+| 28 | Mads Syversen | `12-20-wave-3.md` §23 |
+| 29 | Ziad El Hout | `21-27-missing-messages.md` §Ziad (**written 8/31 — was missing**) |
+| 30 | Yukt Agarwal | `12-20-wave-3.md` §17 |
+| 31 | Al Nickerson | `28-39-wave-4.md` §30 |
+| 32 | Devi Gupta | `12-20-wave-3.md` §22 |
+| 33 | Louise Vitienes | `12-20-wave-3.md` §15 |
+| 34 | Arnav Aggarwal | `28-39-wave-4.md` §33 |
+| 35 | Henrique Nagem | `21-27-missing-messages.md` §Henrique (**written 8/31 — was missing**) |
+| 36 | Ilan Mayo | `21-27-missing-messages.md` §Ilan (**written 8/31 — was missing**) |
+| 37 | Sophia Montague | `28-39-wave-4.md` §31 |
+| 38 | Laura Lu | `21-27-missing-messages.md` §39 |
+| 39 | Sudhish Thati | `21-27-missing-messages.md` §35 |
+| 40 | Aaryan Mehra | `28-39-wave-4.md` §34 |
+| 41 | Yohaan Tibrewala | `21-27-missing-messages.md` §36 |
+| 42 | Hesham Babukhan | `21-27-missing-messages.md` §37 |
+
+*Three full messages (Ilan Mayo, Henrique Nagem, Ziad El Hout) did not exist until 8/31 — the old wave-4 "NOT CONTACTING" block had absorbed them, contradicting this send order. They're written now (`21-27-missing-messages.md`), and the wave-4 block correctly lists only Rohan Nagpaul.*
 
 ## ⚠️ The lockout rule — get this right or they will notice
 The roster has **13 guest students**, but only **7 of them actually failed to post**: **AJ Bulow · Eduardo Camilo · Omar Flores · Omar Saad · Anshul Shah · Sudhish Thati · Aaron Wu.** Those seven get the "you never got Canvas access" framing.

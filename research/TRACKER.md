@@ -1,65 +1,69 @@
 # TRACKER — update as replies arrive
-> **⚠️ SCORES BELOW ARE SUPERSEDED.** The authoritative ranking is `MASTER-BOARD.md`, rebuilt after the final deep pass; `FINAL-RECALIBRATION.md` explains every change. Nine people moved. Use this file for the reply log and the intelligence table, and take scores from the master board.
+> **SYNCED 8/31 to `MASTER-BOARD.md` (FINAL v3) — scores and order below now match the authoritative board exactly.** Older copies of this file carried v2 scores (Will 8.1, Kelly 8.5, Tarynea 8.7, Aaron 7.5, Zahaan 7.6, Harini 7.3, etc.) — those are dead. Use this file for the reply log and the intelligence table.
 
-**Draft: Wed Sept 2, 3:00 PM, Olin 120. Rules of Engagement: Wed Sept 2, 9–10 AM, Blank Center Televideo Rm 021.**
+**Draft: Wed Sept 2, 3:00 PM, Olin 120. Rules of Engagement: Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Center Televideo Rm 021.**
 
 **Commit key:** `HARD` = explicit "yes, I'll join if you draft me" · `SOFT` = positive but vague · `COLD` = no / committed elsewhere · `—` = no reply
-★ = dark pool (no brag sheet, invisible to rivals)
+★ = dark pool (no brag sheet, invisible to rivals) · 🌟 = hidden gem (high desire, low scarcity)
 
-## PRIORITY TARGETS — send first
-| # | Name | ★ | Des | Scar | Sent | Replied | Commit | Who else asked | Fall bandwidth | The one thing to ask |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | **Jeda Wannasin** | | 9.3 | 5 | ☐ | ☐ | — | | | Is GISSCO the family business? Fall load? |
-| 2 | **Omar Flores** | ★ | 9.3 | 2 | ☐ | ☐ | — | | | Brand + President's Office + training = how full? |
-| 3 | **Brock Alpher** | ★ | 9.2 | 3 | ☐ | ☐ | — | | | SneakerSoul is full-time — what's left for class? |
-| 4 | **Matthew Ong** | ★ | 9.0 | **1** | ☐ | ☐ | — | | | Will he take airtime in a graded discussion? |
-| 5 | **AJ Bulow** | ★ | 9.0 | **1** | ☐ | ☐ | — | | | **What's actually his at SonRC?** Olin load + handball |
-| 6 | **Tiffany Lukman** | ★ | 9.0 | 2 | ☐ | ☐ | — | | | Why no brag sheet? Two ventures — bandwidth? |
-| 7 | **Tarynea Aggarwal** | | 8.7 | 8 | ☐ | ☐ | — | | | Non-credit = lower exit cost. Fall load? |
-| 8 | **David Chen** | ★ | 8.6 | 2 | ☐ | ☐ | — | | | Show me COR live — users, revenue? |
-| 9 | **Kelly Morgan** | | 8.5 | 4 | ☐ | ☐ | — | | | How did she land 5 local partnerships? |
-| 10 | **Adi Oberoi** | | 8.4 | 7 | ☐ | ☐ | — | | | **Has Nandika already asked him?** ← ask day one |
-| 11 | **Anvesha Gupta** | ★ | 8.2 | **1** | ☐ | ☐ | — | | | Madad NGO — still running it? |
-| 12 | **Will Marra** | | 8.1 | 5 | ☐ | ☐ | — | | | Which of 4 ventures are live this fall? |
-| 13 | **Mia Mumby** | | 8.0 | 4 | ☐ | ☐ | — | | | BEST FC sold in 2022 — what's her role now? |
-| 14 | **Omar Saad** | ★ | 8.0 | **1** | ☐ | ☐ | — | | | The app — downloads? What's next? |
-
-## SECOND WAVE
-| # | Name | ★ | Des | Scar | Sent | Replied | Commit | Who else asked | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| 15 | Louise Vitienes | | 7.8 | 3 | ☐ | ☐ | — | | Family owns Agrifeed; non-credit junior |
-| 16 | Zeynep Celiktas | ★ | 7.8 | 2 | ☐ | ☐ | — | | **Debate hook** |
-| 17 | Yukt Agarwal | | 7.6 | 3 | ☐ | ☐ | — | | Water recycling system |
-| 18 | Aryaman Gupta | ★ | 7.6 | 2 | ☐ | ☐ | — | | Did he build the RenovaTerra site? |
-| 19 | Zahaan Sabuwala | | 7.6 | 6 | ☐ | ☐ | — | | Protein Plus verified in press |
-| 20 | Cade Collins | | 7.6 | 5 | ☐ | ☐ | — | | Is Bigfoot still operating? |
-| 21 | Anshul Shah | ★ | 7.5 | 3 | ☐ | ☐ | — | | Ask for a hustle story |
-| 22 | Devi Gupta | | 7.5 | 5 | ☐ | ☐ | — | | Zero-plastic school shop |
-| 23 | Mads Syversen | | 7.5 | 5 | ☐ | ☐ | — | | National champion; injured 2026 |
-| 24 | Aaron Wu | ★ | 7.5 | 3 | ☐ | ☐ | — | | **Fall recruiting?** |
-| 25 | Ansh Barmecha | ★ | 7.4 | 2 | ☐ | ☐ | — | | 2 yrs YPO board |
-| 26 | Harini Kesamneni | | 7.3 | 7 | ☐ | ☐ | — | | Duplicates Ryan — low priority |
-| 27 | Jack Gramer | | 7.2 | 4 | ☐ | ☐ | — | | Swipe Athletics w/ Marra |
-| 28 | Yifei You | | 7.2 | 7 | ☐ | ☐ | — | | Ask about "Afora" |
-| 29 | Eduardo Camilo | ★ | 7.0 | **1** | ☐ | ☐ | — | | **May take IT Officer seat** |
-
-## THIRD WAVE / DEPTH
-| # | Name | ★ | Des | Scar | Sent | Replied | Commit | Notes |
+## WAVE 1 — send first (all 8 today)
+| # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
 |---|---|---|---|---|---|---|---|---|
-| 30 | Tony Shi | | 6.8 | 5 | ☐ | ☐ | — | Verify Carnegie Hall: solo or ensemble rental? |
-| 31 | Ziad El Hout | | 6.8 | 8 | ☐ | ☐ | — | Trap-ish; storefront dead |
-| 32 | Arnav Aggarwal | | 6.5 | 3 | ☐ | ☐ | — | Published paper verified |
-| 33 | Aaryan Mehra | | 6.3 | 4 | ☐ | ☐ | — | **Ask for the paper DOI** |
-| 34 | Henrique Nagem | | 6.3 | 7 | ☐ | ☐ | — | Trap |
-| 35 | Al Nickerson | | 6.2 | 3 | ☐ | ☐ | — | Verified D-III runner |
-| 36 | Sophia Montague | ★ | 6.0 | **1** | ☐ | ☐ | — | Construction / Go-Tilt |
-| 37 | Selim Saab | ★ | 6.0 | 3 | ☐ | ☐ | — | Only accountant available |
-| 38 | Ilan Mayo | | 6.0 | 8 | ☐ | ☐ | — | Trap |
-| 39 | Laura Lu | ★ | 6.0 | 4 | ☐ | ☐ | — | Overcommitted; duplicates Ryan |
-| 40 | Sudhish Thati | ★ | 5.5 | 1 | ☐ | ☐ | — | **Don't draft without seeing work** |
-| 41 | Yohaan Tibrewala | ★ | 5.0 | 1 | ☐ | ☐ | — | Empty profile + empty activity |
-| 42 | Hesham Babukhan | ★ | 4.5 | 1 | ☐ | ☐ | — | Nothing findable |
-| — | ~~Rohan Nagpaul~~ | | ⛔ | 10 | — | — | — | **DO NOT DRAFT** — see CORRECTIONS file |
+| 1 | **Jeda Wannasin** | | 9.3/5 | ☐ | ☐ | — | | Is GISSCO the family business? Fall load? |
+| 2 | **AJ Bulow** | ★ | 9.0/1 | ☐ | ☐ | — | | Confirm identity + **what's actually his at SonRC?** Olin load + handball |
+| 3 | **Omar Flores** | ★ | 9.3/2 | ☐ | ☐ | — | | Brand + President's Office + training = how full? |
+| 4 | **Brock Alpher** | ★ | 9.3/3 | ☐ | ☐ | — | | SneakerSoul is full-time — what's left for class? |
+| 5 | **Matthew Ong** | ★ | 9.0/1 🌟 | ☐ | ☐ | — | | Will he take airtime in a graded discussion? |
+| 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☐ | ☐ | — | | **The call IS the evidence** — nothing corroborates externally. Why no brag sheet? |
+| 7 | **Will Marra** | | 8.8/5 | ☐ | ☐ | — | | Which of 4 ventures are live this fall? |
+| 8 | **Kelly Morgan** | | 8.6/4 | ☐ | ☐ | — | | How did she land 5 local partnerships? |
+
+## WAVE 2 — today or first thing Tuesday
+| # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
+|---|---|---|---|---|---|---|---|---|
+| 9 | David Chen | ★ | 8.6/2 🌟 | ☐ | ☐ | — | | Confirm identity; show me COR live — users, revenue? |
+| 10 | Tarynea Aggarwal | | 8.5/8 | ☐ | ☐ | — | | Non-credit = lower exit cost. Fall load? |
+| 11 | Zahaan Sabuwala | | 8.4/6 | ☐ | ☐ | — | | Three multi-year commitments — is Business Mindset still running? |
+| 12 | **Harini Kesamneni** ⬆ | | 8.3/7 | ☐ | ☐ | — | | **Was #24/"send only if short" under the dead rule — now Round 2.** Fall load? |
+| 13 | Jack Gramer | | 8.3/4 🌟 | ☐ | ☐ | — | | Role on SweatGuys now? (Marra co-founder) |
+| 14 | Mia Mumby | | 8.2/4 | ☐ | ☐ | — | | **Scholte is a fellow Chi Omega officer — move early.** BEST post-acquisition role? |
+| 15 | Adi Oberoi | | 8.0/7 | ☐ | ☐ | — | | **Has Nandika already asked him?** ← day one. Never repeat the "$5M" line |
+| 16 | Aaron Wu | ★ | 8.0/3 | ☐ | ☐ | — | | **Posse + Horatio Alger — which years?** + fall recruiting? |
+| 17 | Omar Saad | ★ | 8.0/1 🌟 | ☐ | ☐ | — | | Confirm identity; the app — downloads? What's next? |
+| 18 | Anvesha Gupta | ★ | 7.9/1 🌟 | ☐ | ☐ | — | | Madad NGO — still running it? |
+
+## WAVE 3 — Tuesday
+| # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 19 | Yifei You | | 7.8/7 | ☐ | ☐ | — | | Ask about **Afora**, not the AI club |
+| 20 | Anshul Shah | ★ | 7.6/3 | ☐ | ☐ | — | | CFA L1 + SIE confirmed; ask for a hustle story |
+| 21 | Aryaman Gupta | ★ | 7.4/2 | ☐ | ☐ | — | | Did he build the RenovaTerra site? |
+| 22 | Ansh Barmecha | ★ | 7.4/2 | ☐ | ☐ | — | | 2 yrs YPO board |
+| 23 | Tony Shi | | 7.2/5 | ☐ | ☐ | — | | Verify Carnegie Hall: solo or ensemble rental? |
+| 24 | Zeynep Celiktas | ★ | 7.2/2 | ☐ | ☐ | — | | **Debate Union hook** |
+| 25 | Selim Saab | ★ | 7.0/3 | ☐ | ☐ | — | | GoAhead scout — pitch-a-VC advantage |
+| 26 | Cade Collins | | 7.0/5 | ☐ | ☐ | — | | Is Bigfoot still operating? Why off his LinkedIn? |
+| 27 | Eduardo Camilo | ★ | 7.0/1 🌟 | ☐ | ☐ | — | | **May take an IT Officer seat** |
+| 28 | Mads Syversen | | 7.0/5 | ☐ | ☐ | — | | National champion; injured 2026 — status? |
+
+## WAVE 4 — Tuesday night / Wednesday morning if still short
+| # | Name | ★ | D/S | Sent | Replied | Commit | Notes |
+|---|---|---|---|---|---|---|---|
+| 29 | Ziad El Hout | | 7.0/8 | ☐ | ☐ | — | Trap on price; storefront dead |
+| 30 | Yukt Agarwal | | 6.8/3 | ☐ | ☐ | — | Water system + ProjectDAM absent from LinkedIn |
+| 31 | Al Nickerson | | 6.5/3 | ☐ | ☐ | — | Verified D-III runner; bassist in a band |
+| 32 | Devi Gupta | | 6.5/5 | ☐ | ☐ | — | Zero-plastic school shop — floor, not estimate |
+| 33 | Louise Vitienes | | 6.5/3 | ☐ | ☐ | — | Family owns Agrifeed; non-credit junior |
+| 34 | Arnav Aggarwal | | 6.3/3 | ☐ | ☐ | — | Published paper verified |
+| 35 | Henrique Nagem | | 6.3/7 | ☐ | ☐ | — | Trap |
+| 36 | Ilan Mayo | | 6.0/8 | ☐ | ☐ | — | Trap |
+| 37 | Sophia Montague | ★ | 6.0/1 | ☐ | ☐ | — | Construction / Go-Tilt; identity unconfirmed |
+| 38 | Laura Lu | ★ | 6.0/4 | ☐ | ☐ | — | Overcommitted; "stealth startup" unevidenced |
+| 39 | Sudhish Thati | ★ | 5.5/1 | ☐ | ☐ | — | **Don't draft without seeing work** |
+| 40 | Aaryan Mehra | | 5.0/4 | ☐ | ☐ | — | **Ask for the paper DOI** — four claims don't check |
+| 41 | Yohaan Tibrewala | ★ | 5.0/1 | ☐ | ☐ | — | Empty profile and empty activity |
+| 42 | Hesham Babukhan | ★ | 4.5/1 | ☐ | ☐ | — | Nothing findable |
+| — | ~~Rohan Nagpaul~~ | | ⛔ | — | — | — | **DO NOT DRAFT** — see CORRECTIONS file |
 
 ## INTELLIGENCE LOG — who is chasing whom
 Every name a target gives you goes here. This map is worth more than another soft yes.
@@ -72,12 +76,12 @@ Every name a target gives you goes here. This map is worth more than another sof
 | — | research | **Julia Wiacek** | *(predicted)* Alpher / Marra / Collins | Brother's Vix venture is a public Len Green success story |
 | | | | | |
 
-## RULES OF ENGAGEMENT — answers, Wed 9 AM
+## RULES OF ENGAGEMENT — answers (Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Ctr Televideo Rm 021)
 | # | Question | Answer |
 |---|---|---|
 | 1 | Draft order — how determined? Position buyable pre-draft? | |
 | 2 | **HR/IT Officers draftable or removed from pool?** | |
-| 3 | Roster count — 55 or 56? Late adds coming? | |
+| 3 | Roster count — Len's email says 56, roster file counts 55. Late adds coming? | |
 | 4 | If I pass, is refill to 4 guaranteed? What if pool empties? | |
 | 5 | Non-credit recruit — mine or general pool? Deadline? | |
 | 6 | Does $400K under-four bonus stack with pass cash? | |

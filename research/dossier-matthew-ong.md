@@ -4,8 +4,16 @@
 
 **Status:** DARK POOL (no brag sheet, no résumé posted) — enrolled student, not a guest
 **Concentration:** [UNKNOWN] officially. [INFERRED] Strategy/Consulting or Marketing from record.
-**Country of origin:** [UNKNOWN]
+**Country of origin:** **Indonesia** [VERIFIED via PERMIAS Massachusetts 2024–25 cabinet + Bank Danamon scholarship/programme entries — see `DEEP-PASS-UPDATES.md`]
 **Gender:** M
+
+## ⬇︎ DEEP-PASS ADDENDUM (the entries truncation hid — these are the best things in his file)
+- [STATED via verified profile] **Producer/director liaison & permits, Boston festival (3,000 attendees, Boston Common)** — secured **City of Boston** food, location and vendor permits, coordinated vendors, stages and logistics. The single most on-target credential in the class for Len's "feed 50+, pay nothing" weekly challenge.
+- [STATED via verified profile] **Kido Wearables smart-helmet market entry** — personally cold-contacted **300+ academics and industry experts**, pulled **220+ forum responses and 50+ distributor responses**, presented findings to the board.
+- [STATED via verified profile] **EY internship** — found **100+ control gaps** across Jasa Marga's revenue cycle.
+- [STATED via verified profile] **Bank Danamon** (Indonesian bank) programme role.
+- [VERIFIED via his LinkedIn activity] NECG's managing partner publicly welcomed his intern cohort: Williams, Barnard, Columbia, BU, Brown, UPenn, UConn — and Babson (Ong).
+- **Cross-link:** he and **Tiffany Lukman** are both on the **PERMIAS Massachusetts 2024–25 cabinet** — they know each other. Drafting one is a warm lead to the other.
 
 ## Evidence
 

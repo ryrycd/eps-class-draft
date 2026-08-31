@@ -32,7 +32,7 @@ Evidence base: brag sheet + résumé + **full LinkedIn experience read to the en
 | 20 | **Anshul Shah** | DP | **7.6** | 3 | Technical | CFA L1 + FINRA SIE; writes production Python and documents it |
 | 21 | **Aryaman Gupta** | DP | **7.4** | 2 | Operator | 4 yrs treasurer of a menstrual-education nonprofit; 1y9m startup field outreach |
 | 22 | **Ansh Barmecha** | DP | **7.4** | 2 | Events/ops | 2 yrs on a YPO board; helped run Salesforce's 5,000-person World Tour |
-| 23 | **Tony Shi** | BS | **7.2** | 5 | Presenter | ⬆ 750+ campus tours, twice weekly; FME CFO — as a sophomore |
+| 23 | **Tony Shi** | BS | **7.2** | 5 | Presenter | ⬆ 750+ campus tours, twice weekly; FME CFO **Aug 2024–May 2025 — as a freshman** (résumé-verified; Class of 2028) |
 | 24 | **Zeynep Celiktas** | DP | **7.2** | 2 | Operator | ⬇ 2.5 yrs running debate programmes; otherwise 3-month engagements |
 | 25 | **Selim Saab** | DP | **7.0** | 3 | Analyst | VC scout at a $180M fund; the only accountant on the board |
 | 26 | **Cade Collins** | BS | **7.0** | 5 | Maker/design | bigfootmovers.co live + phone matches — but absent from his own LinkedIn |
@@ -40,7 +40,7 @@ Evidence base: brag sheet + résumé + **full LinkedIn experience read to the en
 | 28 | **Mads Syversen** | BS | **7.0** | 5 | Athlete/ops | National slalom + combined champion, 3× All-America. 3 roles absent from LinkedIn; injured |
 | 29 | **Ziad El Hout** | BS | **7.0** | 8 | Builder | ⬆ Ran his own e-comm venture 4y8m from ~15; Babson Clo CEO. Storefront now dead |
 | 30 | **Yukt Agarwal** | BS | **6.8** | 3 | Operator | ⚠️ Water system and ProjectDAM both absent from his own LinkedIn |
-| 31 | **Al Nickerson** | BS | **6.8** | 3 | Creative | D-III distance runner (TFRRS verified) and plays five instruments |
+| 31 | **Al Nickerson** | BS | **6.5** | 3 | Creative | D-III distance runner (TFRRS verified) · **bassist in a band with Babson students** (his one-pager; Class of 2027, Marketing). ⚠️ "plays five instruments" retracted 8/31 — not in his materials. See `AUDIT-2026-08-31.md` |
 | 32 | **Devi Gupta** | BS | **6.5** | 5 | Operator | ⚠️ LinkedIn is 2 entries; BSBK and the school shop both absent |
 | 33 | **Louise Vitienes** | BS | **6.5** | 3 | Resourcer | ⚠️ LinkedIn is 3 entries; Agrifeed absent. Family does own it |
 | 34 | **Arnav Aggarwal** | BS | **6.3** | 3 | Researcher | Sole-authored, DOI'd paper. Braille gardening work |

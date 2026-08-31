@@ -1,5 +1,5 @@
 # 4 — BROCK ALPHER  ·  LinkedIn DM  ·  WAVE 1
-**Desire 9.2 · Scarcity 3 · Enrolled student, did not post · Probe: YES**
+**Desire 9.3 · Scarcity 3 · Enrolled student, did not post · Probe: YES**
 Profile: https://www.linkedin.com/in/brock-alpher-0432b81b7/
 
 > **Updated after the deep pass.** v1 only knew about sneakersoul and the eBay store. He is also a serial pitch-competition winner, which matters enormously in a class that is 70% rocket pitches.

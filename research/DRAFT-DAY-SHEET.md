@@ -1,117 +1,46 @@
 # DRAFT DAY — Wed Sept 2 · Olin 120 · 3:00 PM
+> **🖨️ PRINT `DRAFT-DAY-SHEET.pdf` (4 pages, rebuilt 8/31 — matches the corrected v3 board exactly).** This markdown file mirrors it for on-screen reference. Source layout kept in `draft-day-sheet.html`.
+
 **WEAR GREEN. Hand a slip with your first + last name to an HR Officer.** (Syllabus bonus point.)
-**Rules of Engagement 9–10 AM, Blank Center Televideo Rm 021 — questions on back page.**
+**Rules of Engagement: Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Center Televideo Rm 021 — questions on page 4.**
 
-## RULE #1: DO NOT PASS ANY ROUND.
-43 players · 48 slots · the pool runs out. Cash is one-time; a teammate works 13 weeks. **Draft four.**
+---
 
-## RULE #2: EARLY PICKS = PEOPLE THEY CAN SEE. LATE PICKS = PEOPLE ONLY I CAN SEE.
+## PAGE 1 — THE PLAN
+
+### RULE #1: DO NOT PASS ANY ROUND.
+43 players · 48 slots · the pool runs out. Cash is one-time; a teammate works 13 weeks. Past winners hit $20M with <$1M separating the top. **Draft four.**
+
+### RULE #2: EARLY PICKS = PEOPLE THEY CAN SEE. LATE PICKS = PEOPLE ONLY I CAN SEE.
 ★ = dark pool, no brag sheet. **Eleven CEOs cannot see these names.** They will still be there in R3.
+Governing rule: **take the best player available** — follow-through first, raw strength second, *"can they carry a pitch?"* asked of everyone (70% of the grade).
 
----
+### ROUND 1 — spend it on the contested one (snake: late R1 = back-to-back at the R2 turn — good for me)
+**1. JEDA WANNASIN** — Thai, F, Strategy/Consulting · 9.3/5
+Presidential Scholar (never mentions it) · shoots + edits + performs her own 65-sec video — the only finished artifact in the class · ColoriS 2.5 yrs behind a **529% revenue jump in 3 months** · CodeClean ~200 units door-to-door at 35% ROI · filed GISSCO's provisional patent app. **Solves the pitch problem.** Badejoko makes films — he'll decode her video; Nandika is a mutual connection. **TAKE HER FIRST.**
+→ If gone: **2. BROCK ALPHER ★** ($3,500 B.E.T.A. · 2nd eTower · TiE vs 980 · SneakerSoul live, Amazon+eBay, 150M views). If both gone: **Kelly Morgan** or **Tarynea** (whichever slid). Never a dark-pool name in R1.
 
-## ROUND 1 — take the contested one
-**1. JEDA WANNASIN** — Thai, F, Strategy/Consulting.
-Presidential Scholar (never mentions it). Shoots + edits + performs her own video. 529% revenue growth at ColoriS. Filed a patent app for GISSCO. Sold ~200 units of CodeClean at 35% ROI.
-→ *Solves the pitch problem, which is 70% of the grade.* **Badejoko makes films — he will decode her video. Nandika already knows her. TAKE HER FIRST.**
+### ROUND 2 — the turn: take TWO contested
+**3. AJ BULOW ★** — Olin, Mech Eng · 9.0/1. SpaceX 94 components +67% · GM Cadillac LMDh · **Olin Formula lead 2 yrs** · USA Team Handball D-II top scorer (verified). SonRC real + distributed, but LLC/trademark are David Bulow's — ask what's his. *Identity unconfirmed — message asks.* **The only one who can build the thing.**
+**4. MATTHEW ONG ★** — Indonesian · 9.0/1. **City of Boston permits, 3,000-person festival** · 300+ experts cold-contacted · EY 100+ control gaps. "Feed 50+, pay nothing" at 60× scale. **Best value-per-pick on the board.** Knows Tiffany (PERMIAS).
+**5. OMAR FLORES ★** — 9.3/2. Blank Scholar · o4flo ~2.5 yrs (site down 8/31 — ask) · CTO of 12-person TeesHees · **Babson President's Office analyst** · 3 yrs BBBS · Boston Marathon/Cradles to Crayons · the unassigned AI pathway analysis. **He trains clients at LGRAC — the gym named after Len.**
 
-**If Jeda is gone → 2. BROCK ALPHER ★** — US, M, eCommerce.
-Won $3,500 in B.E.T.A. · 2nd at eTower pitch comp · pitched TiE Boston vs 980 · SneakerSoul: **150M views**, Amazon + eBay, 4 retail stores.
-→ *A proven competitive pitcher who also has distribution.*
+### CONTINGENCY LOGIC
+- Jeda gone → Alpher → Kelly/Tarynea · Bulow gone → Omar Saad · Ong gone → Flores → Tiffany
+- Kelly gone → Harini → Anvesha → Mia · **3 men by R4 → Anvesha / Zeynep / Kelly / Mia / Louise** (Len scores gender)
+- Board empty → **still draft. Never the cash.**
 
-**If both gone → KELLY MORGAN** or **TARYNEA AGGARWAL** (whichever slid furthest).
+## PAGE 2 — ROUNDS 3–4, THE DARK-POOL SWEEP (+ hidden gems / traps / ⛔ Rohan / capital rules)
+Sweep list (all should still be there): **Tiffany ★ 9.0/2** (call = evidence) · **Will Marra 8.8/5** (contested, Wiacek) · **David Chen ★ 8.6/2** (identity confirm) · **Zahaan 8.4/6** · **Jack Gramer 8.3/4** (warms Marra) · **Mia 8.2/4** (Scholte risk — go early) · **Aaron Wu ★ 8.0/3** (ask scholarship years; IB recruiting) · **Omar Saad ★ 8.0/1** (identity confirm) · **Anvesha ★ 7.9/1** · **Anshul ★ 7.6/3** · **Zeynep ★ 7.2/2** (Debate Union hook) · **Cade 7.0/5** · **Eduardo ★ 7.0/1** (may take an IT seat) · **Mads 7.0/5** (injury, anti-signals) · **Adi 8.0/7** (Nandika has him — ask day one; never the "$5M" line).
+**⛔ DO NOT DRAFT: Rohan Nagpaul** (~$1.27M/26 investors vs "$5M AUM"; name on neither filing; SigEp president is someone else; Arcangel credited to others; no YC; no TEDx). **Note which CEO takes him.**
+**CAPITAL:** only spend = buying up for Jeda, cap ~$250K. **PASSES: NO / NO / NO / NO.** A refusal pays like a pass but hands my target to a rival.
 
----
+## PAGE 3 — FULL BOARD (43, final v3, corrected 8/31)
+See `MASTER-BOARD.md` — the PDF carries the same table in printable form. Key corrections this pass: Tony Shi "FME CFO **as a freshman**" (résumé-verified); Al Nickerson 6.5, bassist-in-a-band (the "five instruments" claim was retracted as unsupported).
 
-## ROUND 2 — the turn. If I picked late in R1, I pick again immediately: take TWO contested.
-**3. AJ BULOW ★** — Olin College, M, **Mechanical Engineering**.
-SpaceX: 94 components, **+67% production efficiency**, −60% test downtime. GM Motorsports: Cadillac LMDh. **Olin Formula suspension/chassis lead engineer, 2 yrs.** USA Team Handball national top scorer.
-→ *The only person who can actually BUILD the thing.* Ask: what's yours at SonRC? (LLC is registered to David Bulow.)
-
-**4. MATTHEW ONG ★** — Indonesian, M, Strategy/Ops. **Scarcity 1 — lowest on the board.**
-**Got City of Boston permits for a 3,000-person festival on Boston Common.** Cold-contacted 300+ experts for Kido. EY: 100+ control gaps found. NECG.
-→ *"Feed 50 people, you may not pay" is his home turf.* Knows Tiffany Lukman (PERMIAS).
-
-**5. OMAR FLORES ★** — first-gen Latino, M, Analytics.
-Arthur M. Blank Scholar. **o4flo.com live.** Strategic Data Analyst, **Babson President's Office**. Ex-CTO of TeesHees (12 people). Boston Marathon / Boston.com. Motto: *"Do hard things because they are hard."*
-
----
-
-## ROUNDS 3–4 — sweep the dark pool. All of these will still be there.
-| Name | Why | Fills |
-|---|---|---|
-| **TIFFANY LUKMAN ★** F, Indonesia | 7 yrs corn-husk paper venture; taught entrepreneurship **in a prison**; PwC | Resourcer |
-| **DAVID CHEN ★** M, China | COR SeniorFriend **live, charging ¥299–999**, 155 universities | Producer/Maker |
-| **KELLY MORGAN** F, US | 20+ automated workbooks; **negotiated 5 local business partnerships**; pitched Lisbon C-suite | **OPERATOR** |
-| **ANVESHA GUPTA ★** F, India | **Led 10 research fellows for 2 yrs**; Operations Management major | **OPERATOR** |
-| **OMAR SAAD ★** M, US | **Shipped an iOS app — it's on the App Store.** GS Possibilities, EY CHARGE | Maker |
-| **MIA MUMBY** F, US | 240 blankets delivered; $50K budget; **already has PwC offer = no fall recruiting** | Operator |
-| **WILL MARRA** M, US, no concentration | Slept among fridges a semester. Swipe Athletics live. Ops is his strength | Maker/Resourcer |
-| **ZEYNEP CELIKTAS ★** F, Türkiye | **2.5 yrs running debate programmes** ← *your Debate Union hook* | Operator |
-| **LOUISE VITIENES** F, Dominican Rep. | **Family owns Agrifeed** — she called it an internship | Resourcer |
-| **YUKT AGARWAL** M, India | Water recycling system **saving 50,000 L/day**, unassigned | Operator |
-| **ARYAMAN GUPTA ★** M, India | 4 yrs treasurer, menstrual-education nonprofit | Operator |
-| **HARINI KESAMNENI** F, India | **Negotiated a 12-acre land sale herself**; closed Rising Pharma in a month; show jumper (performs under judges) | **R2 TARGET** |
-| **AARON WU ★** M, US | 2y2m co-running a fund he built; 1,130 followers, 98 reactions/post. **Ask: Posse + Horatio Alger, which years?** | Communicator |
-| **EDUARDO CAMILO ★** ?, ? | Fish telemetry, offshore wind farms. **Max diversification.** *May take an IT Officer seat* | Maker |
-
----
-
-## ⛔ DO NOT DRAFT — let a rival spend pick #1
-**ROHAN NAGPAUL.** SEC filings: **~$1.27M / 26 investors**, not "$5M AUM" — and **his name is on neither filing.** SigEp roster names Quintin Distefano as president. Babson credits Arcangel to two other students. No YC entry. No TEDx found. Résumé dates Rauxmont a year before his own LinkedIn does.
-
-## ⚠️ TRAPS — prestige résumés, nothing self-started. Let them go early.
-**Ilan Mayo · Henrique Nagem · Aaryan Mehra** (4 claims don't check out) · **Yifei You** (told you he's indifferent to work he doesn't resonate with)
-*Harini Kesamneni was on this list for "duplicates me." That reason is dead — she is now a **Round 2 target**, #12.*
-
----
-
-## CONTINGENCY LOGIC
-- Jeda gone → **Alpher**. Alpher gone → **Kelly Morgan** or **Tarynea**.
-- AJ Bulow gone → **Omar Saad** (both makers/builders).
-- Matthew Ong gone → **Omar Flores**, then **Tiffany Lukman**.
-- Kelly Morgan gone → **Harini Kesamneni**, then **Anvesha Gupta**, then **Mia Mumby**.
-- **If I have three men by R4 → take Anvesha, Zeynep, Kelly, Mia or Louise.** Len scores gender diversity.
-- **If nobody on my board is left → still draft. Do not take the cash.**
-
-## TRADE TARGETS
-Only one trade is worth capital: **buying up to secure Jeda** if I'm picking late and she's still there. Cap ~$250K. Nothing else.
-
-## PASS THRESHOLDS
-**R1 $600K — NO. R2 $500K — NO. R3 $250K — NO. R4 $100K — NO.**
-Only conceivable exception: R4, every board name gone, pool genuinely dead. Will not happen.
-
----
-## PAGE 2 — ASK LEN AT 9 AM (in priority order)
-1. **How is draft order determined?** Can position be bought *before* the draft or only traded during it?
-2. **Are the 3 HR + 3 IT Officers draftable, or removed from the player pool?** ← biggest swing
-3. **Final roster count?** I count 55 students; you said 56. Any late adds or non-credit guests still coming?
-4. **If I pass, is the end-of-draft refill guaranteed to 4 players, or just whoever's left?** What happens if the pool empties?
-5. **Non-credit recruit:** if I bring a student, are they mine or do they enter the general pool? Deadline to name them?
-6. Does the **$400K under-four bonus stack** with per-round pass cash?
-7. **Refusal:** declared in the room? Is pre-arranging a refusal within the rules?
-8. Can capital buy anything besides position/players? **Does unspent capital carry into the semester scoreboard?**
-9. Post-draft trades — allowed? What's a fair price to you?
-10. Do I learn my pick number before the draft or in the room?
-
-## COMMITMENT STATUS — fill in as replies arrive
-| Player | Committed? | Who else asked them |
-|---|---|---|
-| Jeda Wannasin | | |
-| AJ Bulow | | |
-| Matthew Ong | | |
-| Omar Flores | | |
-| Brock Alpher | | |
-| Tiffany Lukman | | |
-| Kelly Morgan | | |
-| Anvesha Gupta | | |
-| Omar Saad | | |
-| Harini Kesamneni | | |
-| Aaron Wu | | |
-| David Chen | | |
-
-## THE RULE — TAKE THE BEST PLAYER AVAILABLE
-**Proven follow-through first. Raw strength second. Can they carry a pitch — I ask that of EVERYONE, because it is 70% of the grade.**
-Complementarity is a tiebreaker between two close players — **never** a reason to take the weaker one.
-Only hard constraint: don't end up with four of the same person.
-*Screen: held one thing 2+ yrs · shipped something that exists · did work nobody assigned · quantified their OWN outcome · did the unglamorous version · performs under judgment.*
+## PAGE 4 — IN THE ROOM
+**Rival map:** Badejoko hunts Jeda (films) · Nandika wants Adi, may buy Nagpaul/Ilan/Henrique · Wiacek hunts closers+makers (Alpher/Marra/Collins/Jeda) · Scholte drafts friends (Chi O = Mia) · R. Jain needs a brand person (Jeda). Nine of eleven rivals have no verified venture — prestige sinks absorb early picks; that's the arbitrage.
+**10 questions for Len** (draft order · HR/IT draftable · roster 55-vs-56 · refill guarantee · non-credit recruit terms · $400K stacking · refusal mechanics · capital carry · trade prices · when pick numbers are known).
+**Commitment tracker** (16 names) + **reply crib** (yes = log HARD · vague = ask ranking · contested = ask who · silence = one email touch Tue · committed = log the rival).
+**THE RULE — take the best player available. Follow-through first. Raw strength second. Pitch-carry for EVERYONE. Complementarity only breaks ties. Don't draft four of the same person.**
+*GOAT screen: held one thing 2+ yrs · shipped something that exists · unassigned work · own-scope numbers · unglamorous version · performs under judgment.*

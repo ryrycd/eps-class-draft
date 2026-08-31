@@ -1,229 +1,229 @@
-# LINKEDIN CONNECT NOTES — 300-character limit
+# LINKEDIN CONNECT NOTES — 300-char limit · v2 (rebuilt 8/31)
 
-Short door-openers to send **with the connection request**. When they accept or reply, follow up with the full message from the wave files.
+**What these are for:** the small message that rides *with* the connection request. One job only — open the door and say "I'm impressed, and I did my homework." **No pitch, no pre-commitment ask.** If they accept or reply, send the full message from the wave files.
 
-**Order below = send order.** Every note is under LinkedIn's 300-char cap (count shown), and every one references something real and specific from that person's actual record — nothing here is a claim I can't stand behind.
-
-**Wave key:** W1 = send today, first · W2 = today/early Tuesday · W3 = Tuesday · W4 = Tuesday night or Wednesday morning if still short.
+**Rules I held myself to (audit-clean):**
+- Every note **≤ 300 characters** (count printed under each, script-verified — see `AUDIT-2026-08-31.md`).
+- Every factual hook is **verified or quoted from the person's own materials**. Two claims from the previous version were removed as unsupported (see audit): Al Nickerson's "five instruments" (his submission only says bassist in a band) and Jack Gramer's "11:38 steeple" (his actual PR is 11:13.82).
+- Four openers confirm identity first (AJ Bulow, David Chen, Omar Saad, Sophia Montague) because those LinkedIn matches are still unconfirmed.
+- Send order = `00-SEND-ORDER.md` (W1 first, then W2, W3, W4).
 
 ---
 
-### 1. Jeda Wannasin — **9.3** · W1 · `262 chars`
+### 1. Jeda Wannasin — 9.3 · W1 · `220 chars`
 https://www.linkedin.com/in/jerada-wannasin/
 
-> Hi Jeda — Ryan, one of the CEOs in Len Green's Ultimate Challenge. I watched your video twice. "I performed. I filmed. I edited." is the most useful line anyone submitted for a class where most of the grade is rocket pitches. Would love to talk before Wednesday.
+> Hi Jeda — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Watched your video twice; "I performed. I filmed. I edited." might be the most useful line anyone submitted. Would love to talk before Wednesday's draft.
 
-### 2. AJ Bulow — **9.0** · W1 · `277 chars`
+### 2. AJ Bulow — 9.0 · W1 · `220 chars`
 https://www.linkedin.com/in/aidenbulow/
 
-> Hi AJ — are you the AJ Bulow in Len Green's Ultimate Challenge at Babson? If so: I'm Ryan, one of the CEOs, and you're the most interesting name on the list. Olin Formula lead engineer, then SpaceX, now GM. Almost nobody at Babson actually builds. Can we talk before Wednesday?
+> Hi AJ — are you the AJ Bulow in Len Green's Ultimate Challenge at Babson? If so: I'm Ryan, one of the CEOs, and Olin Formula + SpaceX + GM is the most interesting profile on the list. Would love to talk before Wednesday.
 
-### 3. Omar Flores — **9.3** · W1 · `273 chars`
+### 3. Omar Flores — 9.3 · W1 · `222 chars`
 https://www.linkedin.com/in/omar-flores0305/
 
-> Hi Omar — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your AI post got me: you could've just posted the certificates and instead you built the pathway analysis. That's the whole thing I look for. Also — you train at a gym named after our professor. Let's talk.
+> Hi Omar — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your AI post got me: you skipped posting the certificates and built the pathway analysis instead. Nobody asked you to. Would love to talk before Wednesday.
 
-### 4. Brock Alpher — **9.3** · W1 · `279 chars`
+### 4. Brock Alpher — 9.3 · W1 · `239 chars`
 https://www.linkedin.com/in/brock-alpher-0432b81b7/
 
-> Hi Brock — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Ended up on sneakersoul.com reading about the Sole Protector, then found the B.E.T.A. win and TiE Boston. A founder who wins pitch comps is exactly what this class rewards. Worth a conversation before Wednesday?
+> Hi Brock — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Ended up on sneakersoul.com reading about the Sole Protector, then found the B.E.T.A. win. A founder who wins pitch comps is exactly what this class rewards. Worth a chat?
 
-### 5. Matthew Ong — **9.0** · W1 · `268 chars`
+### 5. Matthew Ong — 9.0 · W1 · `226 chars`
 https://www.linkedin.com/in/matthew-nathaniel-ong/
 
-> Hi Matthew — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Getting City of Boston permits for a 3,000-person festival is the single most relevant thing anyone in our class has done — one of our weekly tasks is feeding 50+ people with no budget. Can we talk?
+> Hi Matthew — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Getting City of Boston permits for a 3,000-person festival as a student might be the most relevant thing anyone here has done. Can we talk before Wednesday?
 
-### 6. Tiffany Lukman — **9.0** · W1 · `271 chars`
+### 6. Tiffany Lukman — 9.0 · W1 · `213 chars`
 https://www.linkedin.com/in/tiffanylukman/
 
-> Hi Tiffany — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Seven years on Corns of Love, and you ran entrepreneurship workshops inside a correctional facility. Most CEOs won't know any of that because you didn't post. I'd like to talk before Wednesday's draft.
+> Hi Tiffany — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Seven years building Corns of Love and entrepreneurship workshops inside a prison — most CEOs won't know any of that. I do. Would love to talk.
 
-### 7. Will Marra — **8.8** · W1 · `274 chars`
+### 7. Will Marra — 8.8 · W1 · `217 chars`
 https://www.linkedin.com/in/william-marra026/
 
-> Hi Will — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You slept among fridges for a semester and your foundation moved $65K with a 30% jump. I ran a pop-up on a $200 budget and came back with $2,000 in sponsors. Think we solve problems the same way. Let's talk.
+> Hi Will — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You slept among fridges and became the biggest Facebook fridge seller in MA — and the $65K foundation year wasn't even in your submission. Let's talk.
 
-### 8. Kelly Morgan — **8.6** · W1 · `270 chars`
+### 8. Kelly Morgan — 8.6 · W1 · `234 chars`
 https://www.linkedin.com/in/kelly-james-morgan/
 
-> Hi Kelly — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You flew to Lisbon and presented to a CEO, CMO and COO as a student — and left it out of your brag sheet. Also nearly 3 years at Valley Lo. That combination is rare. Would love to talk before Wednesday.
+> Hi Kelly — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You presented a 20-page strategy to a Lisbon C-suite and left it out of your brag sheet — plus almost 3 years at Valley Lo. Rare combo. Worth a chat before Wednesday?
 
-### 9. David Chen — **8.6** · W2 · `269 chars`
+### 9. David Chen — 8.6 · W2 · `231 chars`
 https://www.linkedin.com/in/ziang-david-chen-a86184294/
 
-> Hi David — are you the David Chen in Len Green's Ultimate Challenge? I'm Ryan, one of the CEOs. I went through COR SeniorFriend properly — real pricing, 155 universities, and you did the UI yourself. A two-sided marketplace that charges money is rare here. Can we talk?
+> Hi David — are you the David Chen in Len Green's Ultimate Challenge? I'm Ryan, one of the CEOs. Went through COR SeniorFriend properly — real pricing, 155 universities, your own UI. A charging marketplace is rare here. Can we talk?
 
-### 10. Tarynea Aggarwal — **8.5** · W2 · `265 chars`
+### 10. Tarynea Aggarwal — 8.5 · W2 · `221 chars`
 https://www.linkedin.com/in/tarynea-aggarwal/
 
-> Hi Tarynea — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Congrats on the CASE Journal paper — I looked it up. But the line that got me was "I plan ahead and never leave things for the last minute." That's the exact opposite of my weakness. Can we talk?
+> Hi Tarynea — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Pulled your CASE Journal paper — published case author as an undergrad is a first in this class. And "I plan ahead" is my exact weakness. Worth a chat?
 
-### 11. Zahaan Sabuwala — **8.4** · W2 · `267 chars`
+### 11. Zahaan Sabuwala — 8.4 · W2 · `217 chars`
 https://www.linkedin.com/in/zahaansabuwala/
 
-> Hi Zahaan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your brag sheet leads with finance and buries the better story: Protein Plus for four years, selling bread into schools at 14, plus 2+ years tutoring. Holding things that long is rare. Worth a chat?
+> Hi Zahaan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Found the YourStory piece on Protein Plus — four years, started at 14. Holding one thing that long is the rarest signal in this class. Worth a chat?
 
-### 12. Harini Kesamneni — **8.3** · W2 · `269 chars`
+### 12. Harini Kesamneni — 8.3 · W2 · `219 chars`
 https://www.linkedin.com/in/harini-kesamneni/
 
-> Hi Harini — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Yours is the best-written brag sheet in the class, and negotiating a 12-acre sale yourself is a real close with real money. I do sales too, so I know how rare that is at our age. Worth a conversation?
+> Hi Harini — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Best-written brag sheet in the class, and a 12-acre sale you negotiated yourself is a real close with real money. Would love to talk before Wednesday.
 
-### 13. Jack Gramer — **8.3** · W2 · `274 chars`
+### 13. Jack Gramer — 8.3 · W2 · `233 chars`
 https://www.linkedin.com/in/jackgramer/
 
-> Hi Jack — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your one-pager is the most under-sold thing anyone submitted. It doesn't mention the Glavin grant, Italy, or that you built custom apps at Aubuchon because the team needed them. Can we talk before Wednesday?
+> Hi Jack — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your one-pager undersold you — it skips the Glavin grant, Italy, and the apps you built at Aubuchon because the team needed them. Would love to hear the real version.
 
-### 14. Mia Mumby — **8.2** · W2 · `270 chars`
+### 14. Mia Mumby — 8.2 · W2 · `221 chars`
 https://www.linkedin.com/in/mia-mumby-7162142a9/
 
-> Hi Mia — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You led with inflating soccer balls in a garage instead of PwC, and Covering All Forces actually delivered 240 blankets. Countable results beat adjectives. Congrats on the offer too. Worth a conversation?
+> Hi Mia — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You led with garage-inflated soccer balls over PwC, and Covering All Forces delivered 240 actual blankets. Countable results beat adjectives. Worth a chat?
 
-### 15. Adi Oberoi — **8.0** · W2 · `264 chars`
+### 15. Adi Oberoi — 8.0 · W2 · `227 chars`
 https://www.linkedin.com/in/adityavardhan-oberoi-925088141/
 
-> Hi Adi — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Odd coincidence: you've done voiceover since you were five, I built a VO agency at 16 that paid a third of my tuition. Also ranked 1st in analytics AND running Premiere is a rare combo. Can we talk?
+> Hi Adi — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You've done voiceover since five; I built a VO agency at 16 and never met anyone else from that world. Ranked 1st in analytics AND running Premiere. Can we talk?
 
-### 16. Aaron Wu — **8.0** · W2 · `294 chars`
+### 16. Aaron Wu — 8.0 · W2 · `227 chars`
 https://www.linkedin.com/in/aaronwu23/
 
-> Hi Aaron — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You post on your own initiative and people actually engage — rarer than it sounds in a class that's mostly rocket pitches. You also wrote you care about building workflows and systems. That's my weak spot. Can we talk Tuesday?
+> Hi Aaron — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You post on your own initiative and people actually engage — rarer than it sounds in a class that's mostly pitches. And systems are my weak spot. Talk Tuesday?
 
-*⬆ from 7.5 / W3 after `research/BIAS-AUDIT.md`. On the call ask: "Posse and Horatio Alger — which years, and how did each selection work?" Both are unverified from his own headline and are load-bearing in his file. If they confirm, he becomes a late Round 2.*
-
-### 17. Omar Saad — **8.0** · W2 · `257 chars`
+### 17. Omar Saad — 8.0 · W2 · `223 chars`
 https://www.linkedin.com/in/omarjsaad/
 
-> Hi Omar — are you the Omar Saad in Len Green's Ultimate Challenge at Babson? I'm Ryan, one of the CEOs. "So I built one" — and Contact Me is actually on the App Store. Of everyone I've looked at, you're the only one who's shipped an app. Would love to talk.
+> Hi Omar — are you the Omar Saad in Len Green's Ultimate Challenge? I'm Ryan, one of the CEOs. "So I built one" — and Contact Me is live on the App Store. You're the only person here who's shipped an app. Would love to talk.
 
-### 18. Anvesha Gupta — **7.9** · W2 · `267 chars`
+### 18. Anvesha Gupta — 7.9 · W2 · `206 chars`
 https://www.linkedin.com/in/anveshagupta/
 
-> Hi Anvesha — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Leading 10 research fellows for two years, helping small businesses build e-commerce and pitch VCs, is almost exactly what this class is. And you're an ops major, which I'm not. Would love to talk.
+> Hi Anvesha — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Leading 10 research fellows for two years, helping small businesses pitch VCs, is almost exactly what this class is. Would love to talk.
 
-### 19. Yifei You — **7.8** · W3 · `272 chars`
+### 19. Yifei You — 7.8 · W3 · `225 chars`
 https://www.linkedin.com/in/yifeiyou/
 
-> Hi Yifei — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You built LLMs to forecast FX nine months before ChatGPT launched, and you've been building Afora for nearly three years without mentioning it anywhere. I'd genuinely like to hear about both. Can we talk?
+> Hi Yifei — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You built LLMs to forecast FX before ChatGPT launched — and Afora's been quietly running nearly 3 years without a mention. Genuinely want to hear both. Talk?
 
-### 20. Anshul Shah — **7.6** · W3 · `272 chars`
+### 20. Anshul Shah — 7.6 · W3 · `222 chars`
 https://www.linkedin.com/in/anshulshah1902/
 
-> Hi Anshul — Ryan, one of the CEOs in Len Green's Ultimate Challenge. CFA L1 and the SIE as a junior is a serious solo grind. But the line I stopped on was that you wrote the full implementation docs at DeepMoney — most people build it and never write it down. Can we talk?
+> Hi Anshul — Ryan, one of the CEOs in Len Green's Ultimate Challenge. CFA L1 plus the SIE as a junior is a real solo grind — and you wrote the full implementation docs at DeepMoney. Most build it, never write it down. Chat?
 
-### 21. Aryaman Gupta — **7.4** · W3 · `268 chars`
+### 21. Aryaman Gupta — 7.4 · W3 · `229 chars`
 https://www.linkedin.com/in/aryamangupta24/
 
-> Hi Aryaman — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Four years as treasurer of Zephyr stood out more than any internship on that board — it's the seat nobody volunteers for, and menstrual education is a hard sell. Would love to talk before Wednesday.
+> Hi Aryaman — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Four years as Zephyr's treasurer stood out more than any internship on your sheet — it's the seat nobody volunteers for. Worth a conversation before Wednesday?
 
-### 22. Ansh Barmecha — **7.4** · W3 · `274 chars`
+### 22. Ansh Barmecha — 7.4 · W3 · `212 chars`
 https://www.linkedin.com/in/anshbarmecha/
 
-> Hi Ansh — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Two years on a YPO board designing the learning programming, plus helping run Salesforce's 5,000-person World Tour, is unusual access at our age. That's real event ops. Worth a conversation before Wednesday?
+> Hi Ansh — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Two years on a YPO board plus helping run Salesforce's 5,000-person World Tour is unusual access at our age. Would love to talk before Wednesday.
 
-### 23. Tony Shi — **7.2** · W3 · `269 chars`
+### 23. Tony Shi — 7.2 · W3 · `209 chars`
 https://www.linkedin.com/in/tony-shii/
 
-> Hi Tony — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Being an FME CFO and running campus tours twice a week for 750+ visitors means you present to strangers constantly — that's most of how this class is graded. Would love to talk before Wednesday's draft.
+> Hi Tony — Ryan, one of the CEOs in Len Green's Ultimate Challenge. FME CFO as a freshman and 750+ campus tours means you present to strangers weekly — and that's most of how this class is graded. Worth a chat?
 
-### 24. Zeynep Celiktas — **7.2** · W3 · `262 chars`
+### 24. Zeynep Celiktas — 7.2 · W3 · `220 chars`
 https://www.linkedin.com/in/zeynep-celiktas/
 
-> Hi Zeynep — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Saw you ran a Lumos Debate branch for 2.5 years — I'm on the Babson Debate Union e-board, so I know how much unglamorous admin sits under that. Plus Lisbon and BCG Bridge. Worth a conversation?
+> Hi Zeynep — Ryan, one of the CEOs in Len Green's Ultimate Challenge. 2.5 years running a Lumos Debate branch — I'm on Babson Debate Union's e-board, so I know exactly how much admin sits under that. Worth a conversation?
 
-### 25. Selim Saab — **7.0** · W3 · `268 chars`
+### 25. Selim Saab — 7.0 · W3 · `208 chars`
 https://www.linkedin.com/in/selim-saab-841ab1228/
 
-> Hi Selim — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Scouting for GoAhead isn't on your résumé and it should be — one of our actual assignments is pitching a VC firm, and you know how they decide. You're also the only accountant I've found. Can we talk?
+> Hi Selim — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Scouting for GoAhead isn't on your résumé and should be — one of our actual assignments is pitching a VC firm. Can we talk before Wednesday?
 
-### 26. Cade Collins — **7.0** · W3 · `269 chars`
+### 26. Cade Collins — 7.0 · W3 · `222 chars`
 https://www.linkedin.com/in/cade-collins-47a4ba246/
 
-> Hi Cade — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Went to bigfootmovers.co; the realtor staging partnerships are the part most people skip and the part that shows you thought about where work comes from. You also do your own brand and web. Can we talk?
+> Hi Cade — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Went to bigfootmovers.co — the realtor staging partnerships are the part that shows you thought about where work comes from. You do your own web too. Talk?
 
-### 27. Eduardo Camilo — **7.0** · W3 · `273 chars`
+### 27. Eduardo Camilo — 7.0 · W3 · `218 chars`
 https://www.linkedin.com/in/ebgc/
 
-> Hi Eduardo — Ryan, one of the CEOs in Len Green's Ultimate Challenge. "Have once toasted my own motherboard" is the best line on LinkedIn. Also: you tagged fish around offshore wind farms. Nobody else in our class is remotely like that. Would love to talk before Wednesday.
+> Hi Eduardo — Ryan, one of the CEOs in Len Green's Ultimate Challenge. "Have once toasted my own motherboard" is the best line on LinkedIn, and you tagged fish around offshore wind farms. Nobody else is like that. Talk?
 
-### 28. Mads Syversen — **7.0** · W3 · `265 chars`
+### 28. Mads Syversen — 7.0 · W3 · `228 chars`
 https://www.linkedin.com/in/mads-fondevik-syversen/
 
-> Hi Mads — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your brag sheet says you procrastinate and skips that you're the first Babson skier to win the national slalom AND the combined. Winning while carrying 20 credits in season says a lot. Worth a chat?
+> Hi Mads — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your brag sheet skips that you're the first Babson skier ever to win the national slalom AND the combined. Winning that on 20 credits in season says a lot. Chat?
 
-### 29. Ziad El Hout — **7.0** · W4 · `266 chars`
+### 29. Ziad El Hout — 7.0 · W4 · `216 chars`
 https://www.linkedin.com/in/ziad-el-hout/
 
-> Hi Ziad — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Everyone will notice the Intel call; the thing that actually got me was running Still Workin' On It for nearly five years starting at 15. Sourcing and inventory is the unglamorous half. Worth a chat?
+> Hi Ziad — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Running Still Workin' On It for nearly five years from age 15 is the line that got me — sourcing and inventory is the unglamorous half. Worth a chat?
 
-### 30. Yukt Agarwal — **6.8** · W4 · `269 chars`
+### 30. Yukt Agarwal — 6.8 · W4 · `214 chars`
 https://www.linkedin.com/in/yukt-agarwal-a127b7234/
 
-> Hi Yukt — Ryan, one of the CEOs in Len Green's Ultimate Challenge. "Being organised is what keeps that from turning into a mess" — that's me plus the half I'm missing. I'd also like to hear about the water recycling system at Sri NavDurga. Can we talk before Wednesday?
+> Hi Yukt — Ryan, one of the CEOs in Len Green's Ultimate Challenge. "Being organized is what keeps that from turning into a mess" — that's me plus the half I'm missing. Want to hear about the water system too. Talk?
 
-### 31. Al Nickerson — **6.8** · W4 · `273 chars`
+### 31. Al Nickerson — 6.5 · W4 · `211 chars`
 https://www.linkedin.com/in/al-nickerson-iv-756007333/
 
-> Hi Al — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Looked you up on TFRRS — four seasons of XC and track is the real evidence for the grit line. Then found you play five instruments. This class grades creativity heavily. Worth a conversation before Wednesday?
+> Hi Al — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Looked you up on TFRRS — four seasons of XC and track is the real evidence behind the grit line, and bassist in a band doesn't hurt. Worth a chat?
 
-### 32. Devi Gupta — **6.5** · W4 · `274 chars`
+### 32. Devi Gupta — 6.5 · W4 · `227 chars`
 https://www.linkedin.com/in/devishi-gupta1/
 
-> Hi Devi — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your one-pager is the best-designed thing anyone submitted, and starting the International Pupil Action Committee at Charterhouse is harder than it reads. I'd like to hear the school shop story. Can we talk?
+> Hi Devi — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your one-pager is the best-designed thing anyone submitted, and starting the International Pupil Action Committee at Charterhouse is harder than it reads. Talk?
 
-### 33. Louise Vitienes — **6.5** · W4 · `261 chars`
+### 33. Louise Vitienes — 6.5 · W4 · `219 chars`
 https://www.linkedin.com/in/louise-vitienes-22a2b51b9/
 
-> Hi Louise — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Tirando al Horizonte stood out: you got a school to hand over its courts, supplied 30 kids and raised the tournament money yourself. That's the shape of this whole class. Worth a conversation?
+> Hi Louise — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Tirando al Horizonte stood out — school courts, 30 kids, tournament money raised yourself. That's the shape of this whole class. Worth a conversation?
 
-### 34. Arnav Aggarwal — **6.3** · W4 · `264 chars`
+### 34. Arnav Aggarwal — 6.3 · W4 · `214 chars`
 https://www.linkedin.com/in/arnav-aggarwal-9ba680229/
 
-> Hi Arnav — Ryan, one of the CEOs in Len Green's Ultimate Challenge. I pulled your press mud paper — sole author, and growing fenugreek in 100% press mud is real experimental work. The braille-labelled gardening at Andh Vidyalaya is the other standout. Can we talk?
+> Hi Arnav — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Pulled your press-mud paper — sole author, and growing fenugreek in 100% press mud is real experimental work. Would love to talk before Wednesday.
 
-### 35. Henrique Nagem — **6.3** · W4 · `275 chars`
+### 35. Henrique Nagem — 6.3 · W4 · `209 chars`
 https://www.linkedin.com/in/henrique-nagem/
 
-> Hi Henrique — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Building an AI dashboard that generates transaction ideas from news is the part of your CV I'd want on a team — you build, not just analyse. Plus 2.5 years at ALPFA. Worth a conversation before Wednesday?
+> Hi Henrique — Ryan, one of the CEOs in Len Green's Ultimate Challenge. The AI deal-idea dashboard is the part of your CV I'd want on a team — you build, not just analyse. Worth a conversation before Wednesday?
 
-### 36. Ilan Mayo — **6.0** · W4 · `264 chars`
+### 36. Ilan Mayo — 6.0 · W4 · `214 chars`
 https://www.linkedin.com/in/ilan-mayo/
 
-> Hi Ilan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. The line I noticed wasn't the deal count — it was walking 156 units door to door to build the CapEx budget. That's the unglamorous version most analysts skip. Worth a conversation before Wednesday?
+> Hi Ilan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. The line that stopped me wasn't the deal count — it was walking 156 units door to door for the CapEx budget. The unglamorous version. Worth a chat?
 
-### 37. Sophia Montague — **6.0** · W4 · `266 chars`
+### 37. Sophia Montague — 6.0 · W4 · `219 chars`
 https://www.linkedin.com/in/sophiammontague/
 
-> Hi Sophia — are you the Sophia Montague in Len Green's Ultimate Challenge? I'm Ryan, one of the CEOs. Go-Tilt and World of Concrete is the most genuinely different background on our roster — everyone else is finance or consulting. I'd like to hear more. Can we talk?
+> Hi Sophia — are you the Sophia Montague in Len Green's Ultimate Challenge? I'm Ryan, one of the CEOs. Go-Tilt and World of Concrete is the most different background on the roster — everyone else is finance. Can we talk?
 
-### 38. Laura Lu — **6.0** · W4 · `247 chars`
+### 38. Laura Lu — 6.0 · W4 · `212 chars`
 https://www.linkedin.com/in/lauralu113/
 
-> Hi Laura — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Running BD for Topgolf China for a year and a half while enrolled is a serious load, and I'd genuinely like to hear what you're building now. Can we talk before Wednesday's draft?
+> Hi Laura — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Running BD for Topgolf China for a year and a half while enrolled is a serious load — I'd genuinely like to hear what you're building now. Talk?
 
-### 39. Sudhish Thati — **5.5** · W4 · `270 chars`
+### 39. Sudhish Thati — 5.5 · W4 · `217 chars`
 https://www.linkedin.com/in/sudhish-thati-58896623b/
 
-> Hi Sudhish — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You're in as a guest so you never got Canvas — Wednesday's first class is a live draft. Most of our grade is rocket pitches and skits, so someone who thinks in film is genuinely valuable. Can we talk?
+> Hi Sudhish — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You're in as a guest so you never got Canvas: Wednesday's first class is a live team draft. Someone who thinks in film is genuinely valuable. Talk?
 
-### 40. Aaryan Mehra — **5.0** · W4 · `275 chars`
+### 40. Aaryan Mehra — 5.0 · W4 · `227 chars`
 https://www.linkedin.com/in/aaryan-mehra-b923b0219/
 
-> Hi Aaryan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Directing a full cultural showcase — script, casting, rehearsals, logistics — is real production work, and our class ends every week in a pitch or a skit. Very few people have staged anything. Worth a chat?
+> Hi Aaryan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Directing a full cultural showcase — script, casting, rehearsals — is real production work, and this class ends every week in a pitch or a skit. Worth a chat?
 
-### 41. Yohaan Tibrewala — **5.0** · W4 · `265 chars`
+### 41. Yohaan Tibrewala — 5.0 · W4 · `212 chars`
 https://www.linkedin.com/in/yohaan-tibrewala-38114b243/
 
-> Hi Yohaan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You didn't post a brag sheet so most CEOs have nothing on you, and I'd rather ask than assume. What's the thing you've built or run that you're proudest of? Would be glad to talk before Wednesday.
+> Hi Yohaan — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You didn't post, so most CEOs have nothing on you — I'd rather ask: what's the thing you've built or run that you're proudest of? Glad to talk.
 
-### 42. Hesham Babukhan — **4.5** · W4 · `265 chars`
+### 42. Hesham Babukhan — 4.5 · W4 · `209 chars`
 https://www.linkedin.com/in/hesham-babukhan-053285295/
 
-> Hi Hesham — Ryan, one of the CEOs in Len Green's Ultimate Challenge. You didn't post a brag sheet, so most CEOs are going into Wednesday's draft with nothing on you. I'd rather ask than guess — what have you worked on that you're proudest of? Happy to talk anytime.
+> Hi Hesham — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Most CEOs go into Wednesday with nothing on you — I'd rather ask than guess. What have you worked on that you're proudest of? Happy to talk.
 
 ---
 
 ## Not sending
-**Rohan Nagpaul** — five checkable claims fail (see `CORRECTIONS-AND-VERIFICATIONS.md`). Connecting signals interest you don't have, and he is the most likely person in the class to read a connect note as an opening to work you. If he reaches out first: warm, non-committal.
+**Rohan Nagpaul** — five checkable claims fail (see `CORRECTIONS-AND-VERIFICATIONS.md`; SEC filings, SigEp roster, Babson's own B.E.T.A. credits, no YC entry, no TEDx). Connecting signals interest you don't have. If he reaches out first: warm, non-committal.
 
-## A note on the four I'd still send but wouldn't chase
-**Ilan Mayo, Henrique Nagem, Ziad El Hout** are traps on price, not bad people — a connect note is cheap and their replies tell you who else is recruiting them. **Aaryan Mehra**'s note is deliberately about the cultural showcase (which is real and verifiable) and not about the claims that didn't check out.
+## Notes on the ones I'd send but not chase
+**Ilan Mayo, Henrique Nagem, Ziad El Hout** — traps on price, not bad people; a connect note is cheap and their replies tell you who else is recruiting. **Aaryan Mehra** — the note deliberately references only the cultural showcase (real, from his résumé) and none of the four claims that didn't check out.

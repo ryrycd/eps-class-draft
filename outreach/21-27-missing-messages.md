@@ -102,3 +102,60 @@ If the answers are good, I'd want you. If your plate is genuinely full, tell me 
 **And if I did draft you Wednesday, would you say yes?**
 
 Free today till 2:30, tonight after 9:30, or most of tomorrow. — Ryan
+
+---
+
+# ADDITIONAL FULL MESSAGES — written 8/31 (these three were missing)
+*The Wave 4 file's old "NOT CONTACTING" block listed Ilan, Henrique and Ziad, but the final send order re-included them (connect notes are cheap; replies tell you who else is recruiting). No full messages existed for them — these fill the gap. Same two-step play: connect note first, this message only if they engage.*
+
+---
+
+## ILAN MAYO · https://www.linkedin.com/in/ilan-mayo/ · *Desire 6.0 · Scarcity 8 · Brazil.*
+
+Hey Ilan — I'm Ryan, one of the 12 CEOs for Len Green's Ultimate Challenge. Draft is live in Wednesday's first class.
+
+Your résumé is the deepest transaction record of anyone in this class — underwriting 20+ multifamily acquisitions across six markets, the $500M entertainment deal at Intervest, 235+ sourced targets at Caprae. But the line I actually stopped on was smaller: walking 156 units door to door to build a CapEx budget. Everyone talks about the deal; almost nobody does the unit-by-unit version. You did.
+
+Here's the honest pitch for why I'd want you anyway, in a class that isn't a finance class: it runs on $1,000,000 of team capital and a live scoreboard for thirteen weeks, and someone has to treat that like a real underwriting discipline — what's worth spending capital on, what isn't, when a "deal" (a trade, a challenge entry) is priced wrong. Most people in that room will spend it like play money. You won't.
+
+**If I draft you Wednesday, will you say yes?**
+
+Two questions: what does your fall look like (class is Weds 3–6, usually to 7, plus real hours outside it)? And — genuine curiosity — six countries and four languages: where's the place you'd most want to work that you haven't yet?
+
+Free today till 2:30, tonight after 9:30, or tomorrow. — Ryan
+
+---
+
+## HENRIQUE NAGEM · https://www.linkedin.com/in/henrique-nagem/ · *Desire 6.3 · Scarcity 7 · Brazil (Recife).*
+
+Hey Henrique — I'm Ryan, one of the 12 CEOs for Len Green's Ultimate Challenge. Draft is live in Wednesday's first class.
+
+The part of your file that got me wasn't the M&A seat — it was the AI deal-idea dashboard you built on your own: pulling live news into transaction theses. Most people in your position learn the process and wait to be told what to analyze. You built a thing that generates ideas. In a class where more than 70% of the grade is weekly pitches and skits, "generates ideas on a schedule" is directly the job.
+
+And 2.5 years at ALPFA while carrying a full course load says you hold commitments — which matters more to me than the internship brand names do.
+
+Honest framing from my side: this class is much more street-hustle than spreadsheet — feed 50+ people without paying for any of it, turn an ordinary object into a business. The people who win it combine analytical thinking with going and getting things. You've got the first half nailed; I'd want to talk about the second.
+
+**If I draft you Wednesday, will you say yes?**
+
+Two questions: how's your fall load, and what's the most non-finance thing you've ever done to win something?
+
+Free today till 2:30, tonight after 9:30, or tomorrow. — Ryan
+
+---
+
+## ZIAD EL HOUT · https://www.linkedin.com/in/ziad-el-hout/ · *Desire 7.0 · Scarcity 8 · Lebanon · guest student (posted — no lockout line).*
+
+Hey Ziad — I'm Ryan, one of the 12 CEOs for Len Green's Ultimate Challenge. Draft is live in Wednesday's first class.
+
+Everyone who skims the board will see the finance internships — 2XL, MEVP, Bank Audi. The line that actually got me was the older one: running Still Workin' On It for nearly five years, starting around age fifteen. Sourcing, inventory, social-led marketing, on your own, before you had any of the internships. That's the unglamorous half of business and almost nobody on that discussion board has done it at all, let alone for five years.
+
+And CEO of Babson Clo — 13 students, real revenue, design through finance — is the campus version of the same thing: you've already run a small organization, not just analyzed one.
+
+I'll be straight about one thing: I move fast too, and you wrote that you sometimes move faster than the people around you. I'd rather have two people who ship and manage that honestly than a team that deliberates. We'd just have to agree on the rule that whoever's closest to the task owns it.
+
+**If I draft you Wednesday, will you say yes?**
+
+Two questions: what does your fall actually look like (class is Weds 3–6, usually runs to 7, plus real hours outside)? And is Still Workin' On It genuinely done, or paused? No wrong answer — I'd just rather know the real state.
+
+Free today till 2:30, tonight after 9:30, or tomorrow. — Ryan

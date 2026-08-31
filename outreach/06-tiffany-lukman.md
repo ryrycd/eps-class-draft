@@ -12,7 +12,7 @@ You've been running Corns of Love for seven years. Turning corn husks into paper
 
 Here's why that's the thing I'm looking for. This class isn't case write-ups. It's stuff like "provide food for 50+ people and you're not allowed to pay for any of it." Most people freeze at that. You've already built a product out of agricultural waste for communities with no budget — you'd just start making calls.
 
-Also, small thing: my marketing pop-up last spring got raffle funding from the Babson Indonesian Association while you were co-president. So we've technically already worked together, badly, at a distance.
+Also, small thing: the raffle funding for my marketing pop-up came from the Babson Indonesian Association, which you went on to co-preside. So we've technically already worked together, badly, at a distance.
 
 Straight ask: **if I draft you on Wednesday, will you say yes?**
 
