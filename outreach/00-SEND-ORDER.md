@@ -1,6 +1,9 @@
 # OUTREACH — CANONICAL SEND ORDER (v3, post-audit)
 **Draft: Wed Sept 2, 3:00 PM.** This file is the single source of truth for order. Where a message file's own header disagrees, **this file wins.** ★ = dark pool (no brag sheet).
 
+## 📕 THE ONE FILE TO USE: `OUTREACH-PLAYBOOK.md` (v4, Mon 8/31 night)
+**Every person, exact order 1–40, both messages each** (≤300-char connect note + full message for after they accept), rebuilt in the current voice — mutual-rec opener where one exists (Naqib Islam → Tarynea), a blunt top-pick signal, and a 15-minute call ask instead of a question battery (the pre-commit question — *"if I draft you Wednesday, am I your yes?"* — now happens on the call). The older wave files below remain as archive; if anything conflicts, **the playbook wins.**
+
 ## 🔒 UPDATE MON 8/31 NIGHT — JEDA + OMAR FLORES LOCKED (HARD)
 - **Do NOT send them the long pitch messages.** Send each the short "locked-in" mechanics note in `research/PLAN-POST-COMMITMENT.md` §6 tonight — they need to understand the refusal/forced-join rule *before* Wednesday.
 - **The open seats make these the priority targets now:** Brock Alpher → Will Marra → Kelly Morgan → Tarynea → Mia (Scholte risk) → **Tiffany's verification call** (she's the R4 prize). Waves 2–4 otherwise unchanged — depth still protects Round 4.
