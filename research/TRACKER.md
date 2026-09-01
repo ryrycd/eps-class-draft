@@ -16,7 +16,7 @@
 | 3 | **Omar Flores** | ★ | 9.3/2 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says he’d refuse another CEO → R3 lock (dark pool, he lasts).** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
 | 4 | **Brock Alpher** | ★ | 9.3/3 | ☐ | ☐ | — | | SneakerSoul is full-time — what's left for class? |
 | 5 | **Matthew Ong** | ★ | 9.0/1 🌟 | ☐ | ☐ | — | | Will he take airtime in a graded discussion? |
-| 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☐ | ☐ | — | | **The call IS the evidence** — nothing corroborates externally. Why no brag sheet? |
+| 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☑ | ☑ 1:1 booked | — | | **KIWI/ilmuKita national 1st place PRESS-VERIFIED 9/1 (5 Indonesian outlets).** Open: her team role (articles quote Gureesha Sohan), Net TV clip, final-semester bandwidth (Class of 2026!). Run `outreach/TIFFANY-1ON1-PLAN.md` — A/B/C decision rules post-call |
 | 7 | **Will Marra** | | 8.8/5 | ☐ | ☐ | — | | Which of 4 ventures are live this fall? |
 | 8 | **Kelly Morgan** | | 8.6/4 | ☐ | ☐ | — | | How did she land 5 local partnerships? |
 

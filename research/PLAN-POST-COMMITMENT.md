@@ -114,3 +114,6 @@ Seats: Jeda 🔒 (R1) + Omar 🔒 (R3) fixed. The live decisions are R2 and R4, 
 
 ## §6.3 → Mia (send tonight, LinkedIn DM)
 > Mia — thanks for the straight talk, and the deal is the deal: you and Nuch drafted first, that's who you join, and I'm not going to pretend I hope it's her. Two things so Wednesday has no surprises for you. One: the draft is the entire first class, and snake order means I can't always control who picks when — if I have the chance, I'm taking you the moment you're the right pick for my board, and if Nuch gets there first, that's the race we agreed to. Two: if some *third* CEO drafts you and you refuse, the rule says you must then join whoever picks next — that could be anyone, so refuse knowing that. No pressure either way; your call, always. Either way I'm glad I get to work with you this semester — wear something green Wednesday.
+
+---
+**9/1 update:** Tiffany deep-dig complete — the KIWI/ilmuKita national 1st place is **press-verified in five Indonesian outlets** (Gatra, Media Indonesia, Republika, Tempo, TribunNews); her personal team role (articles quote Gureesha Sohan), the Net TV clip, and her final-semester bandwidth are the open items. Full 1:1 run-of-show with A/B/C decision rules: `outreach/TIFFANY-1ON1-PLAN.md`. Outcome A locks her R4 — and puts her in the R2 conversation if Kelly does not convert.
