@@ -10,21 +10,24 @@ Everything lives in this repo. Files referenced by name. Print this too.
 - [ ] **Babson Indonesian Association raffle funding** — the Tiffany message says your Blue Oasis pop-up's raffle funding came from BIA (her org). True? If you can't confirm from memory, delete that sentence from `outreach/06-tiffany-lukman.md`.
 - [ ] **o4flo.com** — open it. If it loads, edit `outreach/03-omar-flores.md` back to "O4FLO live and taking pre-orders." If still 404, leave as is.
 
-**2. Send Wave 1 connect notes (8 notes, ~10 min)** — copy/paste from `outreach/CONNECT-NOTES.md`, in this order:
-Jeda → AJ Bulow → Omar Flores → Brock Alpher → Matthew Ong → Tiffany → Will Marra → Kelly
+**2. JEDA + OMAR ARE LOCKED 🔒 — do not send them the pitch messages.** Instead send each the short "locked-in" mechanics note from `research/PLAN-POST-COMMITMENT.md` §6 (they must understand the refusal/forced-join rule before Wednesday).
 
-**3. Send Wave 2 connect notes (10 notes, ~15 min)** — same file:
-David Chen → Tarynea → Zahaan → Harini → Jack Gramer → Mia → Adi → Aaron Wu → Omar Saad → Anvesha
+**3. Send the remaining Wave 1 connect notes (6 notes, ~8 min)** — from `outreach/CONNECT-NOTES.md`:
+AJ Bulow → Brock Alpher (**now the top open-seat priority**) → Matthew Ong → Tiffany → Will Marra (**priority**) → Kelly (**priority**)
 
-**4. As acceptances land tonight, send the full message** for that person (file map: `outreach/00-SEND-ORDER.md`). Don't wait for tomorrow.
+**4. Send Wave 2 connect notes (10 notes, ~15 min)** — same file (Tarynea + Mia are now open-seat priorities):
+David Chen → **Tarynea** → Zahaan → Harini → Jack Gramer → **Mia** → Adi → Aaron Wu → Omar Saad → Anvesha
 
-**5. Log every reply in `research/TRACKER.md`** — Sent/Replied/Commit + any rival names they mention. Rival names are gold: put them in the Intelligence Log.
+**5. As acceptances land tonight, send the full message** for that person (file map: `outreach/00-SEND-ORDER.md`). Don't wait for tomorrow.
+
+**6. Log every reply in `research/TRACKER.md`** — Sent/Replied/Commit + any rival names they mention. Rival names are gold: put them in the Intelligence Log.
 
 ---
 
 ## ✅ TUESDAY 9/1 (the working day — everything closes tonight)
 
 **MORNING (10:00 AM–12:00):**
+- [ ] **Tiffany verification call** — she is the R4 prize; the call IS the evidence.
 - [ ] Send Wave 3 connect notes (10): Yifei → Anshul → Aryaman → Ansh → Tony → Zeynep → Selim → Cade → Eduardo → Mads
 - [ ] Send Wave 4 connect notes (14): Ziad → Yukt → Al → Devi → Louise → Arnav → Henrique → Ilan → Sophia → Laura → Sudhish → Aaryan → Yohaan → Hesham
 - [ ] Full messages to everyone who accepted overnight.
@@ -35,7 +38,8 @@ David Chen → Tarynea → Zahaan → Harini → Jack Gramer → Mia → Adi →
 - [ ] Optional but do it: **non-credit recruit.** Message 1–2 Babson people who shoot/edit video or build things ("real time commitment, no credit, best class at Babson, team built to win"). You need Len's terms first (below).
 
 **3:00–4:00 PM — RULES OF ENGAGEMENT, Blank Center Televideo Rm 021.** Bring page 4 of the draft sheet. Ask, in order:
-1. How is draft order determined? Buyable before the draft?
+1. How is draft order determined? Buyable — **or sellable down** — before the draft? *(With Jeda locked, slot 12 R1.12+R2.1 turn is now the best seat; consider selling down for cash if capital carries.)*
+    1b. **Refusal mechanics (Q7):** confirm a refused player must join the 2nd team that selects them, and whether pre-arranged refusals are within the rules.
 2. Are the 3 HR + 3 IT Officers draftable or removed from the pool? *(biggest swing — affects Eduardo)*
 3. Roster 55 or 56? Late adds?
 4. If I pass, is refill to 4 guaranteed?

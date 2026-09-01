@@ -1,34 +1,34 @@
 # DRAFT DAY — Wed Sept 2 · Olin 120 · 3:00 PM
-> **🖨️ PRINT `DRAFT-DAY-SHEET.pdf` (4 pages, rebuilt 8/31 — matches the corrected v3 board exactly).** This markdown file mirrors it for on-screen reference. Source layout kept in `draft-day-sheet.html`.
+> **🖨️ PRINT `DRAFT-DAY-SHEET.pdf` (4 pages, REBUILT Mon 8/31 night around the Jeda + Omar locks — see `PLAN-POST-COMMITMENT.md`).** This markdown file mirrors it for on-screen reference. Source layout kept in `draft-day-sheet.html`.
 
 **WEAR GREEN. Hand a slip with your first + last name to an HR Officer.** (Syllabus bonus point.)
 **Rules of Engagement: Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Center Televideo Rm 021 — questions on page 4.**
 
 ---
 
-## PAGE 1 — THE PLAN
+## PAGE 1 — THE PLAN (REBUILT MON 8/31 NIGHT: JEDA + OMAR LOCKED)
 
-### RULE #1: DO NOT PASS ANY ROUND.
-43 players · 48 slots · the pool runs out. Cash is one-time; a teammate works 13 weeks. Past winners hit $20M with <$1M separating the top. **Draft four.**
+### 🔒 THE LOCKS AND THE ONE MECHANIC THAT GOVERNS THEM
+**Jeda Wannasin and Omar Flores are hard-committed** — both say they would refuse another CEO. But per Len draft doc: *"A player may refuse, one time… Players must join the 2nd Team for which they are selected."*
+**A refusal sends them FORCED to the next team that picks — not to me — and pays the drafting rival that round cash.** So the rule is: **never let a pick pass between a refusal and my take.** And: **JEDA = MY FIRST PICK at whatever slot I hold** (visible tier-1 targets do not fall, and a refused Jeda is a forced-join bargain any sharp rival grabs). **OMAR = R3 stash** (dark pool — nobody else can find him). Never instruct a refusal — it is their right, their call (Len Q7).
 
+### RULE #1: DO NOT PASS ANY ROUND. (43 players · 48 slots · pool runs out. Draft four.)
 ### RULE #2: EARLY PICKS = PEOPLE THEY CAN SEE. LATE PICKS = PEOPLE ONLY I CAN SEE.
-★ = dark pool, no brag sheet. **Eleven CEOs cannot see these names.** They will still be there in R3.
-Governing rule: **take the best player available** — follow-through first, raw strength second, *"can they carry a pitch?"* asked of everyone (70% of the grade).
 
-### ROUND 1 — spend it on the contested one (snake: late R1 = back-to-back at the R2 turn — good for me)
-**1. JEDA WANNASIN** — Thai, F, Strategy/Consulting · 9.3/5
-Presidential Scholar (never mentions it) · shoots + edits + performs her own 65-sec video — the only finished artifact in the class · ColoriS 2.5 yrs behind a **529% revenue jump in 3 months** · CodeClean ~200 units door-to-door at 35% ROI · filed GISSCO's provisional patent app. **Solves the pitch problem.** Badejoko makes films — he'll decode her video; Nandika is a mutual connection. **TAKE HER FIRST.**
-→ If gone: **2. BROCK ALPHER ★** ($3,500 B.E.T.A. · 2nd eTower · TiE vs 980 · SneakerSoul live, Amazon+eBay, 150M views). If both gone: **Kelly Morgan** or **Tarynea** (whichever slid). Never a dark-pool name in R1.
+### ROUND 1 — JEDA. First pick, no stash, no cleverness.
+9.3/5 · Presidential Scholar · shoots+edits+performs her own video (only finished artifact in the class) · 529% revenue jump at ColoriS · CodeClean ~200 units @35% ROI · filed GISSCO patent app.
+**If drafted before my slot + she refuses → take her at my slot (forced join). If refused AND re-drafted → best available + post-draft trade talks with capital.**
 
-### ROUND 2 — the turn: take TWO contested
-**3. AJ BULOW ★** — Olin, Mech Eng · 9.0/1. SpaceX 94 components +67% · GM Cadillac LMDh · **Olin Formula lead 2 yrs** · USA Team Handball D-II top scorer (verified). SonRC real + distributed, but LLC/trademark are David Bulow's — ask what's his. *Identity unconfirmed — message asks.* **The only one who can build the thing.**
-**4. MATTHEW ONG ★** — Indonesian · 9.0/1. **City of Boston permits, 3,000-person festival** · 300+ experts cold-contacted · EY 100+ control gaps. "Feed 50+, pay nothing" at 60× scale. **Best value-per-pick on the board.** Knows Tiffany (PERMIAS).
-**5. OMAR FLORES ★** — 9.3/2. Blank Scholar · o4flo ~2.5 yrs (site down 8/31 — ask) · CTO of 12-person TeesHees · **Babson President's Office analyst** · 3 yrs BBBS · Boston Marathon/Cradles to Crayons · the unassigned AI pathway analysis. **He trains clients at LGRAC — the gym named after Len.**
+### ROUND 2 — best CONTESTED on the visible board: BROCK → MARRA → KELLY → TARYNEA
+**Brock Alpher ★ 9.3/S3** (wins pitch comps for cash; SneakerSoul live, 150M views; Babson has featured him = findable) → **Will Marra 8.8/S5** → **Kelly Morgan 8.6/S4** → **Tarynea 8.5/S8** (disappears earliest). **Do NOT spend R2 on dark pool — Bulow, Ong, Tiffany, Chen all last to R3–R4 anyway.**
 
-### CONTINGENCY LOGIC
-- Jeda gone → Alpher → Kelly/Tarynea · Bulow gone → Omar Saad · Ong gone → Flores → Tiffany
-- Kelly gone → Harini → Anvesha → Mia · **3 men by R4 → Anvesha / Zeynep / Kelly / Mia / Louise** (Len scores gender)
-- Board empty → **still draft. Never the cash.**
+### ROUND 3 — OMAR FLORES 🔒 (9.3/2 · Blank Scholar · President Office analyst · o4flo · the unassigned AI analysis · trains clients at LGRAC, the gym named after Len). If drafted early + refuses → take at my next slot.
+
+### ROUND 4 — best dark pool left, GENDER-ADJUSTED
+Ryan + Omar + Brock/Marra = 3–4 men → **Tiffany ★ 9.0 F** (only if the verification call landed) → **Kelly 8.6 F** (if fell) → **Mia 8.2 F** → **Anvesha ★ 7.9 F** → else **Bulow ★ 9.0 / Ong ★ 9.0 / Chen ★ 8.6 / Gramer 8.3**.
+
+### CONTINGENCY
+Jeda refused → take at my slot · Jeda re-drafted → trade after · Omar drafted early → refuses → my next slot · Brock gone → Marra → Kelly → Tarynea · 3–4 men by R4 → woman at R4 · board empty → still draft, never the cash.
 
 ## PAGE 2 — ROUNDS 3–4, THE DARK-POOL SWEEP (+ hidden gems / traps / ⛔ Rohan / capital rules)
 Sweep list (all should still be there): **Tiffany ★ 9.0/2** (call = evidence) · **Will Marra 8.8/5** (contested, Wiacek) · **David Chen ★ 8.6/2** (identity confirm) · **Zahaan 8.4/6** · **Jack Gramer 8.3/4** (warms Marra) · **Mia 8.2/4** (Scholte risk — go early) · **Aaron Wu ★ 8.0/3** (ask scholarship years; IB recruiting) · **Omar Saad ★ 8.0/1** (identity confirm) · **Anvesha ★ 7.9/1** · **Anshul ★ 7.6/3** · **Zeynep ★ 7.2/2** (Debate Union hook) · **Cade 7.0/5** · **Eduardo ★ 7.0/1** (may take an IT seat) · **Mads 7.0/5** (injury, anti-signals) · **Adi 8.0/7** (Nandika has him — ask day one; never the "$5M" line).

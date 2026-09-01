@@ -1,4 +1,5 @@
 # TRACKER — update as replies arrive
+> **🔒 8/31 NIGHT: JEDA + OMAR FLORES HARD-LOCKED — see `PLAN-POST-COMMITMENT.md` for the rebuilt round logic (Jeda = first pick, NOT later rounds; Omar = R3).**
 > **SYNCED 8/31 to `MASTER-BOARD.md` (FINAL v3) — scores and order below now match the authoritative board exactly.** Older copies of this file carried v2 scores (Will 8.1, Kelly 8.5, Tarynea 8.7, Aaron 7.5, Zahaan 7.6, Harini 7.3, etc.) — those are dead. Use this file for the reply log and the intelligence table.
 
 **Draft: Wed Sept 2, 3:00 PM, Olin 120. Rules of Engagement: Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Center Televideo Rm 021.**
@@ -9,9 +10,9 @@
 ## WAVE 1 — send first (all 8 today)
 | # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
 |---|---|---|---|---|---|---|---|---|
-| 1 | **Jeda Wannasin** | | 9.3/5 | ☐ | ☐ | — | | Is GISSCO the family business? Fall load? |
+| 1 | **Jeda Wannasin** | | 9.3/5 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says she’d refuse another CEO → R1, my first pick, whatever the slot.** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
 | 2 | **AJ Bulow** | ★ | 9.0/1 | ☐ | ☐ | — | | Confirm identity + **what's actually his at SonRC?** Olin load + handball |
-| 3 | **Omar Flores** | ★ | 9.3/2 | ☐ | ☐ | — | | Brand + President's Office + training = how full? |
+| 3 | **Omar Flores** | ★ | 9.3/2 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says he’d refuse another CEO → R3 lock (dark pool, he lasts).** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
 | 4 | **Brock Alpher** | ★ | 9.3/3 | ☐ | ☐ | — | | SneakerSoul is full-time — what's left for class? |
 | 5 | **Matthew Ong** | ★ | 9.0/1 🌟 | ☐ | ☐ | — | | Will he take airtime in a graded discussion? |
 | 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☐ | ☐ | — | | **The call IS the evidence** — nothing corroborates externally. Why no brag sheet? |

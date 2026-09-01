@@ -93,3 +93,14 @@ You weighted: drive 40 / capability 25 / complementarity 20 / diversification 15
 - **Tiffany Lukman has no external corroboration.** Seven years of Corns of Love, the Net TV feature, ilmuKita's Kiwi Challenge win — I searched in English *and* Indonesian and found nothing. That is not evidence against her; a small Indonesian social venture would not be indexed in English. But she is the one tier-1 player resting entirely on self-report, so **weight the conversation heavily.**
 - **Sudhish Thati's creative claim** has zero evidence anywhere. One question — "do you have anything you've shot or edited?" — resolves him in either direction.
 - **Tony Shi's Carnegie Hall claim** is the most inflation-prone unverified line in the class. Ask whether it was a solo appearance or a school-ensemble rental.
+
+---
+
+## 🔒 UPDATE — MON 8/31 NIGHT: TWO LOCKS CHANGE THE PLAN
+**Jeda Wannasin and Omar Flores hard-committed** (both indicated they'd refuse another CEO). Full rebuild of the round logic in `PLAN-POST-COMMITMENT.md` — the draft-day sheet has been regenerated to match. The three points that matter:
+
+1. **The refusal mechanic cuts both ways.** A refused player must join the *next* team that selects them — not mine. A refusal also hands the drafting rival that round's cash. So the lock is insurance, not a stash: **Jeda is my FIRST PICK at whatever slot I hold** (she's the one tier-1 target rivals can see — she doesn't survive R1, and a refused Jeda is a forced-join bargain any sharp rival grabs). **Omar is the R3 stash** — dark pool, scarcity 2, nobody else can find him.
+2. **Never let a pick pass between a refusal and my take.** That is the entire protection strategy in one sentence.
+3. **The two open seats now go to the contested-visible board:** Brock → Marra → Kelly → Tarynea at R1/R2 (whichever I'm not spending on Jeda), and **R4 = best dark pool remaining, gender-adjusted** (Tiffany if the call verifies her → Kelly/Mia/Anvesha; else Bulow/Ong/Chen). Realistic ceiling: Jeda + Brock + Omar + Tiffany/Kelly — average desire ~9.0+, 2 women, 3+ countries. Best team in the room, and rivals can only see one of the four.
+
+**New capital wrinkle:** with Jeda locked, buying UP is dead; **selling my slot DOWN to 12 for cash is the clever play if positions are tradeable and capital carries** (the R1.12 + R2.1 back-to-back turn is now the best seat in the house for my board). Ask Len (Q1 + Q8).

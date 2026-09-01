@@ -1,6 +1,10 @@
 # OUTREACH — CANONICAL SEND ORDER (v3, post-audit)
 **Draft: Wed Sept 2, 3:00 PM.** This file is the single source of truth for order. Where a message file's own header disagrees, **this file wins.** ★ = dark pool (no brag sheet).
 
+## 🔒 UPDATE MON 8/31 NIGHT — JEDA + OMAR FLORES LOCKED (HARD)
+- **Do NOT send them the long pitch messages.** Send each the short "locked-in" mechanics note in `research/PLAN-POST-COMMITMENT.md` §6 tonight — they need to understand the refusal/forced-join rule *before* Wednesday.
+- **The open seats make these the priority targets now:** Brock Alpher → Will Marra → Kelly Morgan → Tarynea → Mia (Scholte risk) → **Tiffany's verification call** (she's the R4 prize). Waves 2–4 otherwise unchanged — depth still protects Round 4.
+
 ## ⚡ SCOPE — "how many people am I actually contacting?"
 - **Minimum: Wave 1 = 8 people** (everyone 8.5+). If you only have two hours, it's these.
 - **The real plan: Waves 1–2 = 18 people by Tuesday morning** (everyone ≥7.9 — every plausible R1–R3 pick of yours).
