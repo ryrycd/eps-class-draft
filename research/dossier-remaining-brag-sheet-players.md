@@ -1,4 +1,6 @@
 # DOSSIERS — remaining brag-sheet players (11)
+> **⚠️ LEGACY COMBINED FILE — pre-final-pass scores and class years. The individual dossiers, `MASTER-BOARD.md` and `FINAL-RECALIBRATION.md` supersede everything here. Kept for history.**
+
 Compact treatment. These are people I judge to be Round 4, role players, or passes. Full-length dossiers exist separately for the twelve I rate higher.
 
 ---
@@ -22,7 +24,7 @@ Compact treatment. These are people I judge to be Round 4, role players, or pass
 
 ---
 ## TONY SHI
-**Finance, Babson Class of 2028 — a rising sophomore in a senior-heavy room. Guest student. New York, NY. He/Him.**
+**Finance, Babson Class of 2028 (Expected May 2028) — a 3rd-year (junior) this fall; FME CFO in 2024–25 as a freshman. Guest student. New York, NY. He/Him.** *(class-year corrected 8/31; see dossier-tony-shi.md)*
 - [STATED, résumé] **Rudin Management**, Residential Leasing Intern, summer 2025 — Excel dashboards tracking vacancy loss across 150+ units in Yardi; cost models by repair category; compliance tracking for NYC Local Laws 6/11/31 across 30+ renovations; 10+ competitor property tours with written analysis; updated 700+ units' rentable square footage.
 - [STATED, résumé] **CFO of his FME startup** — monthly statements, $3,000+ budget, supervised 4+ sales associates, 15%+ revenue growth, ran Square and Shopify. **Babson Admission Ambassador** (Jan 2025 – current) — tours twice weekly for groups up to 40, 750+ visitors. **Peer Mentor.** Babson Leadership Academy Fellow. St. John Episcopal Hospital population health intern. Weill Cornell summer apprentice.
 - [STATED, brag sheet] **Bass singer and trumpet player, performances up to Carnegie Hall.** Principal Trumpet, Babson Music Collective — organised and led weekly sectionals.

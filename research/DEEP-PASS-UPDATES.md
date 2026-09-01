@@ -51,7 +51,7 @@ His single LinkedIn post (freshman-year recap, 171 reactions) reveals a pitch-co
 - [VERIFIED, Babson's own publication] "Brock Alpher '27, founder of SneakerSoul" — uses AI for scripting and video editing; **150 million+ views**. — https://entrepreneurship.babson.edu/ai-and-student-entrepreneurs/
 
 **Read:** this class is 70%+ rocket pitches and skits. Brock is a *proven competitive pitcher who wins money doing it*, on top of running a real DTC brand with Amazon and eBay distribution and 150M views of owned content. That is the single most direct match to how this class is graded.
-**Desire 9.2 · Scarcity 3 (he is findable, and his post is public) → ROUND 1–2.**
+**Desire 9.3 · Scarcity 3 (he is findable, and his post is public) → ROUND 1–2.** *(score corrected 9.2 → 9.3 in FINAL-RECALIBRATION; line synced 8/31)*
 
 ---
 

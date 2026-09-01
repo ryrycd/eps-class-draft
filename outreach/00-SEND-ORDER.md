@@ -92,7 +92,7 @@ The roster has **13 guest students**, but only **7 of them actually failed to po
 19 Yifei You (7.8) · 20 Anshul Shah ★ (7.6) · 21 Aryaman Gupta ★ (7.4) · 22 Ansh Barmecha ★ (7.4) · 23 Tony Shi (7.2) ⬆ · 24 Zeynep Celiktas ★ (7.2) ⬇ · 25 Selim Saab ★ (7.0) · 26 Cade Collins (7.0) · 27 Eduardo Camilo ★ (7.0) · 28 Mads Syversen (7.0)
 
 ## WAVE 4 — Tuesday night / Wednesday morning if still short
-29 Ziad El Hout (7.0) ⬆ · 30 Yukt Agarwal (6.8) · 31 Al Nickerson (6.8) · 32 Devi Gupta (6.5) · 33 Louise Vitienes (6.5) · 34 Arnav Aggarwal (6.3) · 35 Henrique Nagem (6.3) · 36 Ilan Mayo (6.0) · 37 Sophia Montague ★ (6.0) · 38 Laura Lu ★ (6.0) · 39 Sudhish Thati ★ (5.5) · 40 **Aaryan Mehra (5.0)** — his message asks about four discrepancies · 41 Yohaan Tibrewala ★ (5.0) · 42 Hesham Babukhan ★ (4.5)
+29 Ziad El Hout (7.0) ⬆ · 30 Yukt Agarwal (6.8) · 31 Al Nickerson (6.5) · 32 Devi Gupta (6.5) · 33 Louise Vitienes (6.5) · 34 Arnav Aggarwal (6.3) · 35 Henrique Nagem (6.3) · 36 Ilan Mayo (6.0) · 37 Sophia Montague ★ (6.0) · 38 Laura Lu ★ (6.0) · 39 Sudhish Thati ★ (5.5) · 40 **Aaryan Mehra (5.0)** — his message asks about four discrepancies · 41 Yohaan Tibrewala ★ (5.0) · 42 Hesham Babukhan ★ (4.5)
 
 **Not contacting: Rohan Nagpaul.** Five checkable claims fail. If he messages you first: warm, non-committal.
 
