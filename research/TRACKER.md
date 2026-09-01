@@ -14,11 +14,11 @@
 | 1 | **Jeda Wannasin** | | 9.3/5 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says she’d refuse another CEO → R1, my first pick, whatever the slot.** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
 | 2 | **AJ Bulow** | ★ | 9.0/1 | ☐ | ☐ | — | | Confirm identity + **what's actually his at SonRC?** Olin load + handball |
 | 3 | **Omar Flores** | ★ | 9.3/2 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says he’d refuse another CEO → R3 lock (dark pool, he lasts).** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
-| 4 | **Brock Alpher** | ★ | 9.3/3 | ☐ | ☐ | — | | SneakerSoul is full-time — what's left for class? |
+| 4 | **Brock Alpher** | ★ | 9.3/3 | ☑ | ☑ 1:1 | — | | **Most documented player on the board** (B.E.T.A. finalist per Babson, eTower leadership team, live store 4.9★/1,472, real TikTok). Wiacek risk — get the pre-commit. Run `BROCK-1ON1-PLAN.md` |
 | 5 | **Matthew Ong** | ★ | 9.0/1 🌟 | ☐ | ☐ | — | | Will he take airtime in a graded discussion? |
 | 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☑ | ☑ 1:1 booked | — | | **KIWI/ilmuKita national 1st place PRESS-VERIFIED 9/1 (5 Indonesian outlets).** Open: her team role (articles quote Gureesha Sohan), Net TV clip, final-semester bandwidth (Class of 2026!). Run `outreach/TIFFANY-1ON1-PLAN.md` — A/B/C decision rules post-call |
 | 7 | **Will Marra** | | 8.8/5 | ☐ | ☐ | — | | Which of 4 ventures are live this fall? |
-| 8 | **Kelly Morgan** | | 8.6/4 | ☐ | ☐ | — | | How did she land 5 local partnerships? |
+| 8 | **Kelly Morgan** | | 8.6/4 | ☑ | ☑ 1:1 booked | — | | **All employers verified 9/1** (Rate = Guaranteed Rate Chicago; Valley Lo Glenview real; GrubIQ real @grubiq.co). Open: does Rate run into fall? Run `KELLY-1ON1-PLAN.md` — if HARD yes she JUMPS Mia at R2 |
 
 ## WAVE 2 — today or first thing Tuesday
 | # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |

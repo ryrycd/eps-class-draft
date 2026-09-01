@@ -56,3 +56,21 @@ Textbook profile of the person this class actually rewards:
 Take him. He is the closest thing in the pool to a proven "give me a constraint and I'll break it" operator, and he costs a Round 3 pick because nobody else knows he exists. The bandwidth question is the only thing standing between him and a Round 1 grade — get a straight answer on his fall load before you spend a pick.
 
 **Hook for outreach:** the Sole Protector. Mention the product by name and that you looked at the site. He will know immediately you did actual work, and almost nobody has ever asked him about it in a Babson context.
+
+---
+
+# 🔎 DEEP DIG — Tue 9/1 (before the 1:1)
+*Second independent pass on SneakerSoul, the pitch-competition record, and eTower. Result: he is the most independently documented player on the entire board — and one phrasing in our outreach needed correcting (see bottom).*
+
+## ✅ NEWLY VERIFIED — Babson itself has covered him twice, and he runs part of the accelerator
+- **B.E.T.A. Challenge 2024 — Babson's own results article (19 Apr 2024) names him an undergraduate FINALIST:** *"The other undergraduate finalists were Jake Ross '24… and Brock Alpher '27 of SneakerSoul, a one-stop sneaker care company that created a flexible cover for sneaker soles."* The undergraduate winner that year was BOND. — https://entrepreneurship.babson.edu/beta-challenge-winners-2024/
+  - ⚠️ **Phrasing correction:** his own LinkedIn post says *"won $3,500 pitching in B.E.T.A."* — Babson's coverage confirms **finalist**, not first place. Both can be true (finalists often take cash prizes), but **say "B.E.T.A. finalist" (verified) and let him tell the $3,500 story.** The outreach playbook has been corrected accordingly. Never say "you won B.E.T.A."
+- **He is on eTower's LEADERSHIP TEAM** — Babson's official eTower page lists "Brock Alpher" among its officers, not just members. He helps run the startup accelerator he was selected into. — https://belong.babson.edu/etower/leadership-team/
+- **The store is live and selling** — Sole Protector™ page shows **4.9★ across 1,472 reviews** (up from the 1,450 found in the first pass — it is actively accumulating), "10,000+ happy customers," 6×15-inch sheets fitting up to US 14. — https://sneakersoul.com/products/sole-protector-2
+- **TikTok @thesneakersoul is real and active** — videos at **111.5K, 6.3K and 1.6K likes** in TikTok's own index ("Regular | With sole protector | Sole protector WINS!"). The 250K-followers / 150M-views figures remain his/Babson's aggregate claims [STATED], but the account's existence and traction are confirmed.
+- **The Babson AI article, expanded:** he uses AI for brainstorming, scripting, video editing, **personalized customer emails, and user-metrics analysis** — his quote: *"Time is an irreplaceable asset, and with the aid of AI, I've managed to double my productivity."* — https://entrepreneurship.babson.edu/ai-and-student-entrepreneurs/
+
+## Net effect on the file
+**The most documented player on the board** — two Babson articles, an eTower officer page, a live store with growing review volume, and a real TikTok. Two consequences:
+1. **Scarcity was mildly underpriced.** He's on three Babson-owned pages; any rival who searches "Babson entrepreneur" can find him in an afternoon. Keep S 3 on the board but treat him as **the most snipeable dark-pool player** — the Wiacek risk is real. **Get the pre-commit, not just a warm yes.**
+2. **The bandwidth question is now the whole file.** LinkedIn says founder *full-time*, he holds an eTower officer seat, and this class expects 5–6 hrs/week on top of Wednesdays 3–6(+). The call's #1 job is an honest fall-capacity answer. Its #2 job is the pre-commit.

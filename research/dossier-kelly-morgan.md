@@ -52,3 +52,17 @@ Alongside Mia Mumby, the most underpriced person who actually posted — and for
 She is the closest thing in the class to a direct answer to the sentence Ryan wrote about himself. Pair her with Mia and the team has both money-tracking and process infrastructure; pair her with Jeda and Cade and every deliverable is built, tracked and beautiful.
 
 **Hook:** the Lisbon consulting. Tell her you noticed she flew there and presented to the CEO, COO and CMO — and that it did not make her brag sheet, which says something about her. Then ask the Grubiq question: how did she talk five local businesses into partnering? That story is her audition for Len's market-survey challenge and she will enjoy telling it.
+
+---
+
+# 🔎 DEEP DIG — Tue 9/1 (before the 1:1)
+*Second independent pass: her employers, her schools, her city. Result: all three "uncorroborated" anchors now check out as real entities with perfect geography/timeline fit. Nothing contradicts her anywhere.*
+
+## ✅ NEWLY VERIFIED — the companies are real, big, and exactly where she's from
+- **Rate Companies = Guaranteed Rate, rebranded (July 2024).** Chicago-headquartered residential mortgage giant — founded 2000 by Victor Ciardelli, **$55B funded volume (2022), 10,000+ employees, 850 offices**, namesake of the White Sox's Rate Field (Wikipedia). Her **FP&A Analyst Internship (Jun 2026 – "present")** is at one of the largest retail mortgage lenders in the US, headquartered in her hometown. The 100K-record consolidation and EVP scorecards are exactly what an FP&A intern at a lender of that scale would be handed. **⚠️ Top call question: "present" — does it continue into the fall, or did it end in August?**
+- **Valley Lo Club is real** — private, invitation-only country club, **2200 Tanglewood Dr, Glenview, IL** (founded 1959; PGA listing). Glenview is a Chicago north suburb. Her **2 yrs 11 mos across busser/host/server/runner/catering/front desk** fits a real place 15 minutes from home, held across college summers. [VERIFIED entity; her tenure STATED]
+- **GrubIQ is real and current** — **grubiq.co**, an AI restaurant-operations platform ("founded under TARIY, Inc."): demand forecasting, labor optimization, in-shift coaching; claims ≥85% prediction accuracy. Founder **Andres Sigcha** (7 yrs running White Mountain Food Co., Phoenix), COO **Ashley Brown**; featured in The Letter Two, March 2026. Her **CMO term was Aug 2023–May 2024** — the early-team era; current press doesn't name her, consistent with a since-departed early marketing lead. **Ask her version — what was GrubIQ when she joined, and what were the 5 partnerships?** (Don't assert the connection between her stint and today's product; let her tell it.)
+- **Inside Tours (Lisbon)** — school-sponsored international consulting engagement per her résumé; consistent with Babson's consulting-course format. [STATED; structure plausible]
+
+## Net effect on the file
+The old sourcing note said "no independent corroboration for ANY of it." That's now false in the best direction: **every organization in her file is real, verified, and geographically coherent** (Chicago kid → Glenview club → Chicago mortgage giant; Babson → Lisbon consulting; Babson → GrubIQ's early team). What remains [STATED] is the *content* of her work inside them — normal for any student. **Desire holds at 8.6; confidence way up. The call is now about bandwidth, the partnership story, and the pre-commit — not verification.**

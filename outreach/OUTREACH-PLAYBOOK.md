@@ -22,17 +22,19 @@
 
 
 ## 1. Brock Alpher — TIER A
+
+> **1:1 script ready: `BROCK-1ON1-PLAN.md` (new dig: B.E.T.A. = FINALIST per Babson, not 1st place — never say “you won B.E.T.A.”; eTower leadership team; store at 4.9★/1,472 reviews).**
 https://www.linkedin.com/in/brock-alpher-0432b81b7/
 
-**CONNECT NOTE (239 chars):**
+**CONNECT NOTE (267 chars):**
 
-> Hi Brock — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Ended up on sneakersoul.com reading about the Sole Protector, then found the B.E.T.A. win. A founder who wins pitch comps is exactly what this class rewards. Worth a chat?
+> Hi Brock — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Ended up on sneakersoul.com reading about the Sole Protector, then found Babson's own B.E.T.A. coverage of you. A founder who competes in pitch comps is exactly what this class rewards. Worth a chat?
 
 **FULL MESSAGE — send when they accept:**
 
 Hey Brock — Ryan, one of the 12 CEOs in Len Green's Ultimate Challenge. Draft is live in Wednesday's first class.
 
-You skipped the brag sheet, so most CEOs have no idea who you are. I went looking: ended up on sneakersoul.com reading about the Sole Protector, then on Babson's own site — 150 million views on your content — then your freshman-year post: $3,500 won pitching at B.E.T.A., 2nd at eTower, pitched TiE Boston against a field of 980, and CEO of eleven classmates in FME. That was your first year.
+You skipped the brag sheet, so most CEOs have no idea who you are. I went looking: ended up on sneakersoul.com reading about the Sole Protector, then on Babson's own site — 150 million views on your content — then your freshman-year post: a B.E.T.A. finalist per Babson’s own coverage — your post says $3,500 won pitching — 2nd at eTower, TiE Boston against a field of 980, and CEO of eleven classmates in FME. That was your first year.
 
 Being blunt: this class is 70%+ rocket pitches and skits, graded on creativity and delivery, presented from memory, laptops banned. You competitively pitch and win money doing it, and you run a brand with Amazon and eBay distribution on top. I'm a sales/presenting guy whose systems are the ceiling — you're one of the top picks on my entire board.
 
@@ -64,6 +66,8 @@ I'm late reaching out — my fault. 15 minutes tomorrow? I'd love to hear which 
 ---
 
 ## 3. Kelly Morgan — TIER A
+
+> **1:1 script ready: `KELLY-1ON1-PLAN.md` (new dig: Rate = Guaranteed Rate, Chicago; Valley Lo Club real (Glenview IL); GrubIQ real — grubiq.co. Her call decides whether she jumps Mia at R2).**
 https://www.linkedin.com/in/kelly-james-morgan/
 
 **CONNECT NOTE (234 chars):**

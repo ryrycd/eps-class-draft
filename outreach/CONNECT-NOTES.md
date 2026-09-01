@@ -25,10 +25,10 @@ https://www.linkedin.com/in/omar-flores0305/
 
 > Hi Omar — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Your AI post got me: you skipped posting the certificates and built the pathway analysis instead. Nobody asked you to. Would love to talk before Wednesday.
 
-### 4. Brock Alpher — 9.3 · W1 · `239 chars`
+### 4. Brock Alpher — 9.3 · W1 · `267 chars`
 https://www.linkedin.com/in/brock-alpher-0432b81b7/
 
-> Hi Brock — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Ended up on sneakersoul.com reading about the Sole Protector, then found the B.E.T.A. win. A founder who wins pitch comps is exactly what this class rewards. Worth a chat?
+> Hi Brock — Ryan, one of the CEOs in Len Green's Ultimate Challenge. Ended up on sneakersoul.com reading about the Sole Protector, then found Babson's own B.E.T.A. coverage of you. A founder who competes in pitch comps is exactly what this class rewards. Worth a chat?
 
 ### 5. Matthew Ong — 9.0 · W1 · `226 chars`
 https://www.linkedin.com/in/matthew-nathaniel-ong/
