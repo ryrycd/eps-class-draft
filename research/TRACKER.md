@@ -1,4 +1,5 @@
 # TRACKER — update as replies arrive
+> **🔒 LATE 8/31: MIA MUMBY = CONDITIONAL (me or Nuchaba, first pick wins; refuses others) — see PLAN-POST-COMMITMENT Tue update. Tiffany + Kelly 1:1s next; their outcomes set R2/R4.**
 > **🔒 8/31 NIGHT: JEDA + OMAR FLORES HARD-LOCKED — see `PLAN-POST-COMMITMENT.md` for the rebuilt round logic (Jeda = first pick, NOT later rounds; Omar = R3).**
 > **SYNCED 8/31 to `MASTER-BOARD.md` (FINAL v3) — scores and order below now match the authoritative board exactly.** Older copies of this file carried v2 scores (Will 8.1, Kelly 8.5, Tarynea 8.7, Aaron 7.5, Zahaan 7.6, Harini 7.3, etc.) — those are dead. Use this file for the reply log and the intelligence table.
 
@@ -27,7 +28,7 @@
 | 11 | Zahaan Sabuwala | | 8.4/6 | ☐ | ☐ | — | | Three multi-year commitments — is Business Mindset still running? |
 | 12 | **Harini Kesamneni** ⬆ | | 8.3/7 | ☐ | ☐ | — | | **Was #24/"send only if short" under the dead rule — now Round 2.** Fall load? |
 | 13 | Jack Gramer | | 8.3/4 🌟 | ☐ | ☐ | — | | Role on SweatGuys now? (Marra co-founder) |
-| 14 | Mia Mumby | | 8.2/4 | ☐ | ☐ | — | | **Scholte is a fellow Chi Omega officer — move early.** BEST post-acquisition role? |
+| 14 | **Mia Mumby** | | 8.2/4 | ☑ | ☑ | **COND-HARD** | **Nuchaba Scholte** | **SPOKEN 8/31: joins Ryan or Nuch — whoever drafts her FIRST; refuses all others.** If Brock is gone at my R2 → take Mia (certainty + Nuch-block). Send the §6.3 mechanics note |
 | 15 | Adi Oberoi | | 8.0/7 | ☐ | ☐ | — | | **Has Nandika already asked him?** ← day one. Never repeat the "$5M" line |
 | 16 | Aaron Wu | ★ | 8.0/3 | ☐ | ☐ | — | | **Posse + Horatio Alger — which years?** + fall recruiting? |
 | 17 | Omar Saad | ★ | 8.0/1 🌟 | ☐ | ☐ | — | | Confirm identity; the app — downloads? What's next? |
@@ -73,7 +74,7 @@ Every name a target gives you goes here. This map is worth more than another sof
 |---|---|---|---|---|
 | Aug 17 | Moje messaged Ryan directly | **Moje Badejoko** | Ryan (mistook him for a draftable player) | Aggressive early outreach, offers calls, leads with credentials. **Runs Eudai Films — most likely to decode Jeda's video.** |
 | — | research | **Nandika Jain** | *(predicted)* Adi Oberoi | Co-founded EcoKeeper with him. Also a mutual connection of Jeda's. |
-| — | research | **Nuchaba Scholte** | *(predicted)* Mia Mumby | Both Chi Omega officers |
+| 8/31 | Mia 1:1 (direct) | **Nuchaba Scholte** | **Mia Mumby — CONFIRMED target** | Mia would join Nuch if Nuch drafts first. Friendship board predicted in RIVAL-CEOs is now verified live. Nuch R1–R2 likely: Mia + Chi O / Blank Scholar cohort / Hiking Club |
 | — | research | **Julia Wiacek** | *(predicted)* Alpher / Marra / Collins | Brother's Vix venture is a public Len Green success story |
 | | | | | |
 

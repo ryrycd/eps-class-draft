@@ -19,13 +19,13 @@
 9.3/5 · Presidential Scholar · shoots+edits+performs her own video (only finished artifact in the class) · 529% revenue jump at ColoriS · CodeClean ~200 units @35% ROI · filed GISSCO patent app.
 **If drafted before my slot + she refuses → take her at my slot (forced join). If refused AND re-drafted → best available + post-draft trade talks with capital.**
 
-### ROUND 2 — best CONTESTED on the visible board: BROCK → MARRA → KELLY → TARYNEA
-**Brock Alpher ★ 9.3/S3** (wins pitch comps for cash; SneakerSoul live, 150M views; Babson has featured him = findable) → **Will Marra 8.8/S5** → **Kelly Morgan 8.6/S4** → **Tarynea 8.5/S8** (disappears earliest). **Do NOT spend R2 on dark pool — Bulow, Ong, Tiffany, Chen all last to R3–R4 anyway.**
+### ROUND 2 — BROCK; if gone → MIA 🔒 (first-pick race) → KELLY → MARRA → TARYNEA
+**Brock Alpher ★ 9.3/S3** if he's there. **If gone: MIA MUMBY 🔒-cond — SPOKEN 8/31: joins me or Nuchaba, whoever drafts FIRST; refuses all others.** A certain 8.2 beats an uncertain 8.8 — a refused pick is cash I never wanted — and it blocks Nuch's now-confirmed friend-board while locking the 2nd woman. **Kelly 8.6 jumps Mia if her 1:1 converts to a hard commit** → then Marra 8.8 → Tarynea 8.5. **Never dark pool at R2** — Bulow/Ong/Tiffany/Chen all last to R3–R4.
 
 ### ROUND 3 — OMAR FLORES 🔒 (9.3/2 · Blank Scholar · President Office analyst · o4flo · the unassigned AI analysis · trains clients at LGRAC, the gym named after Len). If drafted early + refuses → take at my next slot.
 
 ### ROUND 4 — best dark pool left, GENDER-ADJUSTED
-Ryan + Omar + Brock/Marra = 3–4 men → **Tiffany ★ 9.0 F** (only if the verification call landed) → **Kelly 8.6 F** (if fell) → **Mia 8.2 F** → **Anvesha ★ 7.9 F** → else **Bulow ★ 9.0 / Ong ★ 9.0 / Chen ★ 8.6 / Gramer 8.3**.
+If R2 was Mia/Kelly → gender done → **R4 = pure best available: Bulow ★ 9.0 / Ong ★ 9.0 / surviving Marra–Kelly–Tarynea / Chen ★ 8.6.** If R2 was Brock → **Tiffany ★ 9.0 F** (if her call verified her) → **Kelly 8.6 F** → **Anvesha ★ 7.9 F** → Mia only if Nuch passed (don’t expect it).
 
 ### CONTINGENCY
 Jeda refused → take at my slot · Jeda re-drafted → trade after · Omar drafted early → refuses → my next slot · Brock gone → Marra → Kelly → Tarynea · 3–4 men by R4 → woman at R4 · board empty → still draft, never the cash.

@@ -23,7 +23,7 @@ Evidence base: brag sheet + résumé + **full LinkedIn experience read to the en
 | 11 | **Zahaan Sabuwala** | BS | **8.4** | 6 | All-round | Three multi-year commitments: 4y2m, 2y8m, 2y. Sold bread into schools at 14 |
 | 12 | **Harini Kesamneni** | BS | **8.3** | 7 | Closer | ⬆ Negotiated a 12-acre sale herself; closed a pharma deal in a month; show jumper |
 | 13 | **Jack Gramer** | BS | **8.3** | 4 | All-round | Glavin grant → Italy fieldwork → showcase; 2.5 yrs co-founding; builds AI apps |
-| 14 | **Mia Mumby** | BS | **8.2** | 4 | Operator | 4 yrs coaching + 4 yrs nonprofit, 240 blankets delivered; offer secured, no fall recruiting |
+| 14 | **Mia Mumby** | BS | **8.2** | 4 | Operator | 4 yrs coaching + 240 blankets delivered; offer secured, no fall recruiting. 🔒 **COND 8/31: me or Nuchaba — first pick wins, refuses others** |
 | 15 | **Adi Oberoi** | BS | **8.0** | 7 | All-round | 3.92, ranked 1st ×2, FME CEO who turned a profit, runs Premiere. Nandika has him |
 | 16 | **Aaron Wu** | DP | **8.0** | 3 | Systems/communicator | ⬆ +0.5 (BIAS-AUDIT). 2y2m self-started fund; 1,130 followers, 98 reactions/post. Scholarships unverified — ask |
 | 17 | **Omar Saad** | DP | **8.0** | 1 | Maker | Shipped an iOS app — it's on the App Store. ⚠️ identity unconfirmed |

@@ -28,11 +28,13 @@ David Chen → **Tarynea** → Zahaan → Harini → Jack Gramer → **Mia** →
 
 **MORNING (10:00 AM–12:00):**
 - [ ] **Tiffany verification call** — she is the R4 prize; the call IS the evidence.
+- [ ] **Kelly Morgan 1:1** — if she converts to a hard "you-first" commit, she JUMPS Mia at R2 (see `PLAN-POST-COMMITMENT.md` Tue update). These two calls literally set the R2/R4 order — log both in `TRACKER.md`.
 - [ ] Send Wave 3 connect notes (10): Yifei → Anshul → Aryaman → Ansh → Tony → Zeynep → Selim → Cade → Eduardo → Mads
 - [ ] Send Wave 4 connect notes (14): Ziad → Yukt → Al → Devi → Louise → Arnav → Henrique → Ilan → Sophia → Laura → Sudhish → Aaryan → Yohaan → Hesham
 - [ ] Full messages to everyone who accepted overnight.
 
 **AFTERNOON:**
+(Mia is SPOKEN for — conditional me-or-Nuch, first pick wins. Everyone else: playbook as-is.)
 - [ ] Chase the priority silence: anyone in Wave 1–2 with no reply → **one** short Babson email (format: `first-initial + lastname + 1 @babson.edu`, e.g. tlukman1@babson.edu). One touch only.
 - [ ] **Tiffany call if she replies — she's the only top-6 target with zero external corroboration. The call IS the evidence.** Same for a Bulow/Chen/Saad/Sophia identity confirm.
 - [ ] Optional but do it: **non-credit recruit.** Message 1–2 Babson people who shoot/edit video or build things ("real time commitment, no credit, best class at Babson, team built to win"). You need Len's terms first (below).

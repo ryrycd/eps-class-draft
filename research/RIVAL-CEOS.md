@@ -19,6 +19,7 @@ Everything she claims verifies, and there is more than she claims.
 **Contested with you on:** Brock Alpher, Will Marra, Cade Collins, Jeda. **Assume she is competing for your Round 1–2.**
 
 ## 🥈 NUCHABA SCHOLTE — the convener, and the biggest friend-draft risk
+> **✅ CONFIRMED LIVE 8/31 via Mia Mumby 1:1:** Mia would join Nuch if Nuch drafts her first — the friendship board below is no longer a prediction. Treat Nuch as *the* competitor for Mia, and expect her early picks to come from the Chi O / Blank Scholar / Hiking Club pool. If I want Mia, I must be first (see `PLAN-POST-COMMITMENT.md` Tue update).
 - [VERIFIED] **Blank School Entrepreneurial Leadership Scholar '27**, profiled by Babson; her venture is a **virtual summer camp for students with special needs**. — https://entrepreneurship.babson.edu/blank-scholars-2027/
 - [VERIFIED] **Two** Chi Omega officer roles — Director of Programming **and** Social Events Director. — https://babson.chiomega.com/leaders
 - [VERIFIED] Founded the Babson Hiking Club; freelance writer for her NJ high school paper; Mars Snacking sales/marketing intern.

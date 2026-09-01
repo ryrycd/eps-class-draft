@@ -104,3 +104,11 @@ You weighted: drive 40 / capability 25 / complementarity 20 / diversification 15
 3. **The two open seats now go to the contested-visible board:** Brock → Marra → Kelly → Tarynea at R1/R2 (whichever I'm not spending on Jeda), and **R4 = best dark pool remaining, gender-adjusted** (Tiffany if the call verifies her → Kelly/Mia/Anvesha; else Bulow/Ong/Chen). Realistic ceiling: Jeda + Brock + Omar + Tiffany/Kelly — average desire ~9.0+, 2 women, 3+ countries. Best team in the room, and rivals can only see one of the four.
 
 **New capital wrinkle:** with Jeda locked, buying UP is dead; **selling my slot DOWN to 12 for cash is the clever play if positions are tradeable and capital carries** (the R1.12 + R2.1 back-to-back turn is now the best seat in the house for my board). Ask Len (Q1 + Q8).
+
+
+---
+## 🔁 UPDATE 2 — MON 8/31 LATE: THE MIA RACE AND THE CERTAINTY PREMIUM
+Mia Mumby (1:1, direct): joins Ryan or Nuchaba Scholte, **whoever drafts first**, refuses others. Two structural lessons now baked into the plan:
+1. **The certainty premium.** Refusal mechanics mean an uncommitted pick can misfire into cash-I-never-wanted; a committed pick cannot misfire. So R2 order is now Brock → **Mia (if Brock gone)** → Kelly (if her call converts) → Marra/Tarynea. A certain 8.2 beats an uncertain 8.8 at the same slot.
+2. **Nuchaba's board is confirmed warm-network.** Every friend I take (Mia) degrades her R1–R2 more than any dark-pool loss hurts mine. Also why the *never ask anyone to refuse* rule now has a second edge: I will not ask Mia to shut Nuch out — first picker wins, cleanly.
+Full decision tree (incl. how the Kelly and Tiffany calls resolve R2/R4): `PLAN-POST-COMMITMENT.md`, Tuesday-bound update.

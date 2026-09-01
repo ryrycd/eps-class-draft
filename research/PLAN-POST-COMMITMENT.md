@@ -70,3 +70,47 @@ Two of four seats are locked (Jeda 9.3, Omar 9.3). The draft is now about two th
 
 ## 7. OUTREACH REPRIORITIZATION (tonight's waves)
 Jeda and Omar are done — do **not** send them the long pitch messages. The open seats make these the people who now matter, in this order: **Brock Alpher · Will Marra · Kelly Morgan · Tarynea · Mia (Scholte risk) · + Tiffany Lukman's verification call** (she's the R4 prize if the call lands). Everyone else in Waves 2–4 proceeds as planned — depth still protects R4.
+
+---
+
+# 🔁 TUESDAY-BOUND UPDATE (Mon 8/31, late) — MIA MUMBY = THE TWO-CEO RACE
+
+## New fact
+Ryan spoke to Mia 1:1. Her position: **she'll join Ryan or Nuchaba Scholte — whoever drafts her first — and refuses any other CEO.** Tiffany Lukman and Kelly Morgan 1:1s are scheduled next; nobody else has 1:1s booked.
+
+## What this actually is
+Not a lock — a **race with published terms**, and the terms are clean: first picker between two CEOs wins, everyone else gets refused. Three consequences:
+
+1. **Mia's scarcity to me collapsed from "whole market" to "one rival."** The only person who can take her from me is Nuch. And we now know Nuch's board-building method with certainty — the friendship draft we predicted in `RIVAL-CEOs.md` is live (Chi O network → Mia is a confirmed warm target).
+2. **Certainty is worth more than the desire number.** Under refusal mechanics, drafting an uncommitted player carries the worst downside in the room: if he refuses, I collect the round's cash instead of a teammate — money I never wanted, at a slot I can't re-spend — and he's forced onto whoever picks next. A pre-committed pick cannot misfire. **A certain 8.2 (Mia) can beat an uncertain 8.8 (Marra) at the same slot.**
+3. **Blocking Nuch has side value.** Her whole strategy is a warm-network board; every friend I take degrades her R1–R2 more than any dark-pool loss would hurt mine.
+
+## The mechanic Mia must understand before Wednesday (send her the note in §6.3)
+Her "refuse everyone else" promise has a trap in it: **a refusal forces her onto the next team that selects her — which could be a third random CEO, not me and not Nuch.** Her refusal only protects her if the *very next* selector is one of us two. Since I can't control who picks after a refusal, the honest guidance is: if someone other than Ryan/Nuch drafts you and you refuse, the outcome is out of your hands — that's the deal as it stands, and it's still better than joining a team you didn't choose. I never ask her to change the terms; first picker wins, full stop. **Do not ask her to refuse Nuch too** — that's asking her to break her word to a friend, and it would read badly to exactly the person whose trust I'm buying.
+
+## Updated board logic (supersedes §3–4 above where they conflict)
+
+Seats: Jeda 🔒 (R1) + Omar 🔒 (R3) fixed. The live decisions are R2 and R4, and they hinge on **two calls still to come: Kelly and Tiffany.**
+
+| R2 decision (in order) | Condition |
+|---|---|
+| **BROCK ALPHER** | Available at my pick (he's the highest desire and won't last) |
+| **MIA MUMBY** 🔒-cond | **If Brock is gone → take Mia at R2.** Certainty + Nuch-block + second woman secured, all at once |
+| **KELLY MORGAN** | If her call converts to a hard "you-first" commit → she jumps Mia (higher desire, same certainty) |
+| **Marra / Tarynea** | Only if both Brock and Mia are gone and Kelly didn't convert |
+
+| R4 decision | Condition |
+|---|---|
+| Best available, gender-aware | If R2 = Mia/Kelly → gender satisfied (Jeda + one more) → **R4 = pure best available: Bulow ★ 9.0 / Ong ★ 9.0 / surviving Marra–Kelly–Tarynea / Chen ★ 8.6** |
+| Tiffany ★ 9.0 | If R2 = Brock and Tiffany's call *verified* her → R4 = Tiffany |
+| Kelly / Anvesha / Mia-if-there | If R2 = Brock and Tiffany unverified → the women in that order; Mia only if Nuch somehow passed (don't expect it) |
+
+**The two calls are now the highest-leverage hours before the draft:** Kelly converting moves her to R2; Tiffany verifying makes R4 hers. Log both outcomes in `TRACKER.md` and the R2/R4 table resolves itself.
+
+## What changes in outreach tonight
+- **Mia: done pitching — send the §6.3 mechanics note only.**
+- Tiffany + Kelly: their playbook messages still go out on schedule, but the goal is now explicit: **get the 1:1 before Tuesday night**, because their answers literally set my R2/R4 order.
+- Everyone else: playbook unchanged — connect note → full message → 15-min call ask; the pre-commit question on every call.
+
+## §6.3 → Mia (send tonight, LinkedIn DM)
+> Mia — thanks for the straight talk, and the deal is the deal: you and Nuch drafted first, that's who you join, and I'm not going to pretend I hope it's her. Two things so Wednesday has no surprises for you. One: the draft is the entire first class, and snake order means I can't always control who picks when — if I have the chance, I'm taking you the moment you're the right pick for my board, and if Nuch gets there first, that's the race we agreed to. Two: if some *third* CEO drafts you and you refuse, the rule says you must then join whoever picks next — that could be anyone, so refuse knowing that. No pressure either way; your call, always. Either way I'm glad I get to work with you this semester — wear something green Wednesday.

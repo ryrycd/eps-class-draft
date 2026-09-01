@@ -133,6 +133,8 @@ Being blunt: you might be the highest-ceiling person on my board — and the one
 ---
 
 ## 6. Mia Mumby — TIER A
+
+> **✅ SPOKEN 8/31 (1:1): conditional commit — me or Nuchaba, first pick wins; refuses others. Do NOT send the pitch below — send the short mechanics note in `research/PLAN-POST-COMMITMENT.md` §6.3 instead.**
 https://www.linkedin.com/in/mia-mumby-7162142a9/
 
 **CONNECT NOTE (221 chars):**
