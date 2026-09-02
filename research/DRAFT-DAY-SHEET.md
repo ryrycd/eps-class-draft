@@ -1,5 +1,7 @@
 # DRAFT DAY — Wed Sept 2 · Olin 120 · 3:00 PM
-> **🖨️ PRINT `DRAFT-DAY-SHEET.pdf` (4 pages, v5 — REBUILT DRAFT-DAY 9 AM around SIX COMMITS).** This markdown mirrors it loosely; the HTML/PDF is authoritative.
+> **🖨️ PRINT `DRAFT-DAY-SHEET.pdf` (4 pages, v6 — FINAL, 1 PM Wed 9/2, post-AJ-1:1 + post-Len-Q&A).** The HTML/PDF is authoritative; this mirror is loose.
+
+**v6 headline:** Dream five = Jeda · Mia · Omar · AJ (+Kelly if a 5th round — pays $400K per Len). R1 Jeda at any slot. **R2 = door decision: count rounds on the wall diagram — 5 rounds → MIA (Nuch clock) → Omar → AJ → Kelly+$400K; 4 rounds → Omar → AJ → ladder.** Buy-backs: Jeda $250→600K · AJ $50→200K · Omar $50→150K. CEO 60-sec pitch + at-the-door protocol + Len's Q&A answers are ON THE SHEET (p2/p4). Pre-draft messages: `outreach/DRAFT-DAY-MESSAGES.md`.
 
 **WEAR GREEN. Hand a slip with your first + last name to an HR Officer.** (Syllabus bonus point.)
 **Rules of Engagement: Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Center Televideo Rm 021 — questions on page 4.**

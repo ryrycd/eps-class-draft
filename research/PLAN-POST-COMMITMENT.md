@@ -143,3 +143,12 @@ Seats: Jeda 🔒 (R1) + Omar 🔒 (R3) fixed. The live decisions are R2 and R4, 
 
 ## Standing rules (unchanged)
 Never instruct or arrange a refusal — Jeda's and Omar's commitments are their own; Len Q7 (declared in room? pre-arranging allowed?) if not already answered at ROE. Never ask Mia to refuse Nuch. Never promise a round to anyone. Note which CEO takes Rohan Nagpaul — the prestige-drafting tell. Wear green; name slip to an HR officer; two printed copies of sheet v5.
+
+---
+# 🏁 FINAL — 1 PM WED 9/2 (AJ = A; Len Q&A digested; the last update before the room)
+- **AJ 1:1 converted hard** — "incredible for the team." Personal board final: **Jeda > AJ ≥ Omar > Mia > Tiffany > Kelly.** Dream five: **Jeda · Mia · Omar · AJ** (+ Kelly if a 5th round).
+- **Len Q&A (transcript in uploads/) settled our open questions:** hat draw 1–12, snake; team size has NO cap — after R4 each pick comes WITH $400K ("I don't want anyone not picked"); pre-arranged commitments explicitly endorsed; refusal once, refused team gets money only; HR/IT officers are draftable and drafting IT = presentation-order control; trades/mergers run all semester; money = grade but "the most important is getting a team."
+- **The round-count is the only door variable:** 5 rounds → R2 Mia (Nuch clock) → R3 Omar → R4 AJ → R5 Kelly + $400K. 4 rounds → R2 Omar → R3 AJ → R4 ladder (Mia→Tiffany→Kelly→Eduardo→Brock(sound out)→Marra→Tarynea→Ong→Chen).
+- **Buy-backs pre-priced** (2-min window): Jeda open $250K/walk $600K · AJ $50K/$200K · Omar $50K/$150K · others bargains only.
+- **Gamesmanship, bounded:** AJ (and Omar) coached to undersell their 60-sec intros — modest, never fabricated. Mia/Tiffany/Kelly were NEVER coached — underselling them is against their interests and poisons the well. Len's culture explicitly rewards beating the system; lying to a classmate remains off-limits.
+- Messages: `outreach/DRAFT-DAY-MESSAGES.md` (six, tiered transparency). Sheet: v6. After the draft: log the actual roster + trades in TRACKER.

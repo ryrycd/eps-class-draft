@@ -73,3 +73,11 @@ Not a slot list. Just one question: **have I ended up with four of the same pers
 - **Three plans, circled at 1:30 PM after the noon AJ 1:1:** ① R2 Tiffany → R4 AJ (max talent) · ② R2 Mia → R4 Tiffany (balance, 3 women) · ③ R2 Mia → R4 AJ (maker + heart). **Kelly = alternate in every plan.**
 - **Capital: do NOT sell down** (reversed — it widens the refused-Jeda window). No buying up. Passes still NO×4.
 - Brock: no commit → fallback only. Full detail: `PLAN-POST-COMMITMENT.md` Wed section + sheet p1.
+
+---
+## FINAL — 1 PM WED 9/2 (post-AJ 1:1, post-Len-Q&A)
+- **AJ 1:1 = A. Dream five: Jeda · Mia · Omar · AJ (+ Kelly if a 5th round).** Personal board: Jeda > AJ ≥ Omar > Mia > Tiffany > Kelly.
+- **Len Q&A answers that matter:** hat-draw 1–12 snake; team size uncapped — after R4 a pick comes WITH $400K ("I don't want anyone not picked"); pre-commits explicitly endorsed; HR/IT officers draftable (IT = presentation order → Eduardo flag); trades/mergers run all semester; most money at year-end = highest grade, but "the most important is getting a team."
+- **R2 is a door decision:** count rounds on the wall diagram → 5 = Plan A (Mia R2, Omar R3, AJ R4, Kelly R5+$400K); 4 = Plan B (Omar R2, AJ R3, ladder).
+- **Buy-backs pre-priced:** Jeda $250→600K · AJ $50→200K · Omar $50→150K · others bargains only.
+- Messages: `outreach/DRAFT-DAY-MESSAGES.md`. Printable: `research/DRAFT-DAY-SHEET.pdf` v6.

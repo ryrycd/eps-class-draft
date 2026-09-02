@@ -1,5 +1,5 @@
 # TRACKER — reply log · STATUS 9 AM WED 9/2 (DRAFT DAY)
-> **🔒 DRAFT-DAY 9 AM: SIX COMMITS — Jeda, Omar, Mia, Tiffany, Kelly, AJ all YES if drafted. Jeda + Omar also refuse ALL other CEOs. R2/R4 = two of {Mia, Tiffany, AJ}, Kelly alternate. Mia is the only commit on a clock (Nuchaba race → R2 or gone). Noon AJ 1:1 = last gate → circle Plan ①/②/③ on sheet p1 by 1:30.**
+> **🔒 1 PM FINAL: AJ 1:1 = A — "incredible for the team." DREAM FIVE SET: Jeda · Mia · Omar · AJ (+ Kelly if a 5th round exists, which pays $400K per Len). R1 Jeda at any slot. R2 = DOOR DECISION: 5 rounds → Mia (Nuch clock); 4 rounds → Omar → AJ. Buy-backs pre-priced: Jeda $250→600K · AJ $50→200K · Omar $50→150K. Pre-draft messages: outreach/DRAFT-DAY-MESSAGES.md. Sheet v6 = printable plan.**
 > **🔒 LATE 8/31: MIA MUMBY = CONDITIONAL (me or Nuchaba, first pick wins; refuses others) — see PLAN-POST-COMMITMENT Tue update. Tiffany + Kelly 1:1s next; their outcomes set R2/R4.**
 > **🔒 8/31 NIGHT: JEDA + OMAR FLORES HARD-LOCKED — see `PLAN-POST-COMMITMENT.md` for the rebuilt round logic (Jeda = first pick, NOT later rounds; Omar = R3).**
 > **SYNCED 8/31 to `MASTER-BOARD.md` (FINAL v3) — scores and order below now match the authoritative board exactly.** Older copies of this file carried v2 scores (Will 8.1, Kelly 8.5, Tarynea 8.7, Aaron 7.5, Zahaan 7.6, Harini 7.3, etc.) — those are dead. Use this file for the reply log and the intelligence table.
@@ -13,8 +13,8 @@
 | # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
 |---|---|---|---|---|---|---|---|---|
 | 1 | **Jeda Wannasin** | | 9.3/5 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says she’d refuse another CEO → R1, my first pick, whatever the slot.** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
-| 2 | **AJ Bulow** | ★ | 9.0/1 | ☑ | ☑ | **HARD** | — | **COMMITTED + noon 1:1 (3 hrs pre-draft). Identity RESOLVED (he replied). 9/2 dig: U19 handball squad + FOUNDED Olin handball club (Olin own post); Eagle Scout; Miata racecar; senior yr. Gate = bandwidth (GM “present” + capstone) + pitch diagnostic. `AJ-1ON1-PLAN.md` |
-| 3 | **Omar Flores** | ★ | 9.3/2 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says he’d refuse another CEO → R3 lock (dark pool, he lasts).** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
+| 2 | **AJ Bulow** | ★ | 9.0/1 | ☑ | ☑ 1:1 = **A** | **HARD** | — | **"Incredible for the team." Coached: 60-sec intro UNDERSOLD on purpose (modest, never fabricated). Ghost to the room — lasts to R4. Buy-back guarantee.** |
+| 3 | **Omar Flores** | ★ | 9.3/2 | ☑ | ☑ | **HARD** | **Ryan Hong** | **LOCKED + refuses all others. Ryan Hong found him — Omar told him no. Coached: modest intro (his removed brag sheet = the room knows nothing).** |
 | 4 | **Brock Alpher** | ★ | 9.3/3 | ☑ | ☑ 1:1 | — | | **No commit — fallback only** (R4 kicker: sound him out in the room first). Wiacek risk stands. |
 | 5 | **Matthew Ong** | ★ | 9.0/1 🌟 | ☐ | ☐ | — | | Will he take airtime in a graded discussion? |
 | 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☑ | ☑ 1:1 done | **HARD** | — | **COMMITTED 9/1. Driven, very accomplished, quieter social energy → give defined deliverables. R2 (Plan ②) or R4 (Plan ①).** |
@@ -29,7 +29,7 @@
 | 11 | Zahaan Sabuwala | | 8.4/6 | ☐ | ☐ | — | | Three multi-year commitments — is Business Mindset still running? |
 | 12 | **Harini Kesamneni** ⬆ | | 8.3/7 | ☐ | ☐ | — | | **Was #24/"send only if short" under the dead rule — now Round 2.** Fall load? |
 | 13 | Jack Gramer | | 8.3/4 🌟 | ☐ | ☐ | — | | Role on SweatGuys now? (Marra co-founder) |
-| 14 | **Mia Mumby** | | 8.2/4 | ☑ | ☑ | **COND-HARD** | **Nuchaba Scholte** | **COMMITTED — me-or-Nuch, FIRST PICK WINS. The only commit a rival can steal → R2 or she is Nuch’s. Never ask her to refuse Nuch.** |
+| 14 | **Mia Mumby** | | 8.2/4 | ☑ | ☑ | **COND-HARD** | **Nuchaba Scholte** | **DREAM FIVE if a 5th round exists → she is my R2. If 4 rounds → Nuch likely gets her; accepted. Never ask her to refuse anyone.** |
 | 15 | Adi Oberoi | | 8.0/7 | ☐ | ☐ | — | | **Has Nandika already asked him?** ← day one. Never repeat the "$5M" line |
 | 16 | Aaron Wu | ★ | 8.0/3 | ☐ | ☐ | — | | **Posse + Horatio Alger — which years?** + fall recruiting? |
 | 17 | Omar Saad | ★ | 8.0/1 🌟 | ☐ | ☐ | — | | Confirm identity; the app — downloads? What's next? |
