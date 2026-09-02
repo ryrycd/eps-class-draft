@@ -1,4 +1,4 @@
-# TRACKER — update as replies as replies arrive — STATUS 9 AM WED 9/2 DRAFT DAY 9 AM
+# TRACKER — reply log · STATUS 9 AM WED 9/2 (DRAFT DAY)
 > **🔒 DRAFT-DAY 9 AM: SIX COMMITS — Jeda, Omar, Mia, Tiffany, Kelly, AJ all YES if drafted. Jeda + Omar also refuse ALL other CEOs. R2/R4 = two of {Mia, Tiffany, AJ}, Kelly alternate. Mia is the only commit on a clock (Nuchaba race → R2 or gone). Noon AJ 1:1 = last gate → circle Plan ①/②/③ on sheet p1 by 1:30.**
 > **🔒 LATE 8/31: MIA MUMBY = CONDITIONAL (me or Nuchaba, first pick wins; refuses others) — see PLAN-POST-COMMITMENT Tue update. Tiffany + Kelly 1:1s next; their outcomes set R2/R4.**
 > **🔒 8/31 NIGHT: JEDA + OMAR FLORES HARD-LOCKED — see `PLAN-POST-COMMITMENT.md` for the rebuilt round logic (Jeda = first pick, NOT later rounds; Omar = R3).**
