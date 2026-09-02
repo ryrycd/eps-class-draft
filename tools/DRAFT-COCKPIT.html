@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>DRAFT COCKPIT — Ryan · EPS 1210</title>
+<style>
+  :root{
+    --bg:#0b1210; --card:#121c18; --card2:#0e1714; --line:#23342c;
+    --green:#22c55e; --green2:#86efac; --gold:#fbbf24; --red:#f87171; --blue:#60a5fa;
+    --txt:#e7f0ea; --dim:#8fa89b;
+  }
+  *{box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent;}
+  body{background:var(--bg); color:var(--txt); font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; padding:10px 10px 90px; max-width:760px; margin:0 auto;}
+  h1{font-size:17px; letter-spacing:.5px; color:var(--green2);}
+  .sub{font-size:11px; color:var(--dim); margin:2px 0 10px;}
+  .panel{background:var(--card); border:1px solid var(--line); border-radius:10px; padding:10px; margin-bottom:10px;}
+  /* recommendation */
+  #recName{font-size:26px; font-weight:800; color:var(--green2); line-height:1.1;}
+  #recWhy{font-size:12.5px; color:var(--txt); margin-top:4px; line-height:1.35;}
+  #recAlt{font-size:11.5px; color:var(--dim); margin-top:6px;}
+  #alert{display:none; background:#451a03; border:1px solid var(--gold); color:#fde68a; border-radius:8px; padding:8px 10px; font-size:13px; font-weight:700; margin-bottom:8px; line-height:1.3;}
+  /* controls */
+  .row{display:flex; gap:6px; flex-wrap:wrap; align-items:center;}
+  .lbl{font-size:10px; color:var(--dim); text-transform:uppercase; letter-spacing:1px; margin-right:2px;}
+  button{background:#1b2a23; color:var(--txt); border:1px solid var(--line); border-radius:8px; padding:9px 12px; font-size:14px; font-weight:600; cursor:pointer;}
+  button:active{transform:scale(.97);}
+  button.on{background:var(--green); color:#052e16; border-color:var(--green);}
+  button.picked{background:#134e1a; border-color:var(--green);}
+  .rbtn{min-width:44px;}
+  /* roster */
+  #roster{display:flex; gap:6px; flex-wrap:wrap; margin-top:6px;}
+  .chip{background:#14351f; border:1px solid var(--green); border-radius:20px; padding:4px 10px; font-size:12.5px; font-weight:700; color:var(--green2);}
+  #divLine{font-size:11.5px; color:var(--dim); margin-top:6px; line-height:1.4;}
+  #divLine b{color:var(--gold);}
+  /* filters */
+  .fbtn{font-size:11.5px; padding:6px 10px;}
+  /* player rows */
+  .prow{display:flex; align-items:center; gap:8px; background:var(--card2); border:1px solid var(--line); border-left:4px solid #33473c; border-radius:8px; padding:8px 9px; margin-bottom:6px;}
+  .prow.mine{border-left-color:var(--green); background:#0e2318;}
+  .prow.rival{border-left-color:var(--red); opacity:.55;}
+  .prow.gone{border-left-color:#555; opacity:.35; text-decoration:line-through;}
+  .prow.forced{border-left-color:var(--gold); background:#241a05;}
+  .rank{font-size:11px; color:var(--dim); width:22px; text-align:right; flex-shrink:0;}
+  .pmain{flex:1; min-width:0;}
+  .pname{font-size:14.5px; font-weight:700;}
+  .pname .ds{font-size:11px; color:var(--gold); font-weight:700; margin-left:5px;}
+  .pnote{font-size:10.5px; color:var(--dim); margin-top:1px; line-height:1.25;}
+  .badges{display:flex; gap:4px; flex-wrap:wrap; margin-top:3px;}
+  .bdg{font-size:9px; font-weight:800; padding:1px 5px; border-radius:4px; letter-spacing:.3px;}
+  .b-com{background:#14532d; color:#bbf7d0;} .b-dp{background:#1e3a5f; color:#bfdbfe;}
+  .b-hot{background:#7c2d12; color:#fed7aa;} .b-clk{background:#713f12; color:#fde68a;}
+  .b-no{background:#450a0a; color:#fecaca;} .b-cash{background:#3f2d05; color:#fde047;}
+  .st{font-size:9.5px; font-weight:800; padding:5px 8px; border-radius:6px; border:1px solid var(--line); background:#1b2a23; color:var(--dim); flex-shrink:0;}
+  .st.mine{background:var(--green); color:#052e16;} .st.rival{background:#7f1d1d; color:#fee2e2;}
+  .st.gone{background:#333; color:#aaa;} .st.forced{background:var(--gold); color:#3b2f05;}
+  .legend{font-size:10px; color:var(--dim); margin-top:8px; line-height:1.5;}
+  .foot{position:fixed; bottom:0; left:0; right:0; background:#0a100d; border-top:1px solid var(--line); padding:8px 12px; font-size:10.5px; color:var(--dim); line-height:1.45; z-index:5;}
+  .foot b{color:var(--gold);}
+  .modal{position:fixed; inset:0; background:rgba(0,0,0,.75); display:none; align-items:center; justify-content:center; z-index:10; padding:16px;}
+  .mbox{background:var(--card); border:1px solid var(--green); border-radius:12px; padding:16px; max-width:420px; width:100%;}
+  .mbox h3{font-size:15px; color:var(--green2); margin-bottom:8px;}
+  .mbox p{font-size:12.5px; line-height:1.45; margin-bottom:8px;}
+  .mbox button{width:100%; margin-top:4px;}
+</style>
+</head>
+<body>
+  <h1>⛳ DRAFT COCKPIT</h1>
+  <div class="sub">Ryan · Ultimate Challenge · tap a player's button to cycle: OK → MINE → RIVAL → FORCED → GONE</div>
+
+  <div id="alert"></div>
+
+  <div class="panel">
+    <div class="sub" style="margin-bottom:4px">NEXT PICK RECOMMENDATION</div>
+    <div id="recName">—</div>
+    <div id="recWhy"></div>
+    <div id="recAlt"></div>
+    <div class="row" style="margin-top:10px">
+      <span class="lbl">Round</span>
+      <button class="rbtn" onclick="setRound(1)">1</button><button class="rbtn" onclick="setRound(2)">2</button><button class="rbtn" onclick="setRound(3)">3</button><button class="rbtn" onclick="setRound(4)">4</button><button class="rbtn" onclick="setRound(5)">5</button><button class="rbtn" onclick="setRound(6)">6</button>
+    </div>
+    <div class="row" style="margin-top:8px">
+      <span class="lbl">Rounds exist</span>
+      <button id="rc4" onclick="setRC(4)">4</button><button id="rc5" onclick="setRC(5)">5</button><button id="rc6" onclick="setRC(6)">6+</button><button id="rc0" class="on" onclick="setRC(0)">?</button>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="sub" style="margin-bottom:0">MY ROSTER</div>
+    <div id="roster"><span class="chip" style="opacity:.5">empty — draft</span></div>
+    <div id="divLine"></div>
+  </div>
+
+  <div class="panel">
+    <div class="row">
+      <button class="fbtn on" id="f-all" onclick="setFilter('all')">All 43</button>
+      <button class="fbtn" id="f-avail" onclick="setFilter('avail')">Available</button>
+      <button class="fbtn" id="f-com" onclick="setFilter('com')">My commits</button>
+      <button class="fbtn" id="f-w" onclick="setFilter('w')">Women</button>
+      <button class="fbtn" id="f-top" onclick="setFilter('top')">Top 15</button>
+    </div>
+    <div id="list" style="margin-top:10px"></div>
+    <div class="legend">🔒 commit · ★ dark pool · 🔥 contested · ⏰ clock · 💰 $400K round · ⛔ never<br>
+    <b style="color:var(--gold)">FORCED</b> = refused a rival → must join the NEXT team that picks → <b style="color:var(--gold)">say their name at YOUR slot, immediately</b></div>
+  </div>
+
+  <div class="modal" id="modal">
+    <div class="mbox">
+      <h3 id="mTitle"></h3>
+      <div id="mBody"></div>
+      <button onclick="closeModal()">Close</button>
+    </div>
+  </div>
+
+  <div class="foot">
+    <b>BUY-BACK (2-min window):</b> Jeda $250K→$600K · AJ $50K→$200K · Omar $50K→$150K · others &lt;$150K bargains only.
+    <b>R5+ picks pay +$400K.</b> Never instruct a refusal. Mia = her call, never ask. <b>No passes.</b>
+  </div>
+
+<script>
+const P = [
+ {r:1, n:"Jeda Wannasin", d:9.3, s:5, g:"F", c:"Thailand", role:"Producer/closer", com:"HARD", hot:6, note:"Presidential Scholar · shoots+edits+performs own video (only finished artifact) · 529% ColoriS rev · patent filed. R1 at ANY slot — she does not fall.", why:"The only visible tier-1. Take her the moment your first pick comes up — no stash, no cleverness."},
+ {r:2, n:"Omar Flores", d:9.3, s:2, g:"M", c:"US (Latino)", role:"All-round", com:"HARD", dp:1, note:"Blank Scholar · o4flo · President's Office analyst · refuses all others (Hong told no). Known to Hong → does NOT drift.", why:"Your R3 lock. If sniped + refuses → FORCED: take at your very next slot."},
+ {r:3, n:"Brock Alpher", d:9.3, s:3, g:"M", c:"US", role:"Pitch+distribution", com:"NONE", dp:1, note:"B.E.T.A. finalist (Babson-verified — never say 'won') · SneakerSoul live 4.9★/1,472 · eTower leadership. Wiacek risk.", why:"Highest score left — but NO commit: sound him out in the room for 30 seconds before drafting."},
+ {r:4, n:"Matthew Ong", d:9.0, s:1, g:"M", c:"US", role:"Resourcer", dp:1, note:"City of Boston permits · 3,000-person festival · cold-contacted 300+ experts. True dark pool.", why:"Invisible 9.0 — lasts forever, costs nothing to take late."},
+ {r:5, n:"AJ Bulow", d:9.0, s:1, g:"M", c:"US (Olin)", role:"Maker", com:"HARD", dp:1, note:"Olin ME senior · SpaceX · GM LMDh · 2-yr Formula lead · U19 handball · SonRC 100+ SKUs. GHOST — nobody knows him.", why:"The sanctioned stash: ghosts fall to R5 (+$400K). If only 4 rounds (or unknown) → take at R4."},
+ {r:6, n:"Tiffany Lukman", d:9.0, s:2, g:"F", c:"Indonesia", role:"Builder", com:"HARD", dp:1, note:"KIWI 2021 national 1st (press-verified, 5 outlets) · 7 yrs Corns of Love · Granite Asia + PwC. Very quiet → give defined deliverables.", why:"Committed 9.0 who falls forever (quietest in the room). R6 = a $400K pick. Most tradeable asset if roster gets big."},
+ {r:7, n:"Will Marra", d:8.8, s:5, g:"M", c:"US", role:"Resourcer/maker", note:"$65K corporate sponsors +30% YoY · SweatGuys live · slept among fridges. Wiacek wants him.", why:"Proven resourcer — exactly the feed-50-for-free muscle. Contested: don't expect him to fall."},
+ {r:8, n:"Kelly Morgan", d:8.6, s:4, g:"F", c:"US", role:"Operator", com:"HARD", note:"20+ automated workbooks · Lisbon C-suite pitch · all employers verified. Panhellenic VP → Greek-life CEOs know her face.", why:"Committed operator; half-visible so she doesn't drift — R4 if 5+ rounds, else first backup for any wobble."},
+ {r:9, n:"David Chen", d:8.6, s:2, g:"M", c:"China", role:"Maker/producer", dp:1, note:"COR SeniorFriend LIVE and charging ¥299–999 · 155 universities · built the UI.", why:"Charging marketplace = real revenue experience. Dark pool, lasts."},
+ {r:10, n:"Tarynea Aggarwal", d:8.5, s:8, g:"F", c:"India", role:"All-round", note:"Published case author (CASE Journal) · 154 clubs governance. S8 — disappears EARLY.", why:"Genuinely excellent but the most contested non-commit. If you want her, it's early or never."},
+ {r:11, n:"Zahaan Sabuwala", d:8.4, s:6, g:"M", c:"India", role:"All-round", note:"3 multi-year holds (4y2m from age 14, YourStory-verified) · sold bread into schools at 14.", why:"Follow-through machine. Watch airtime (overthinks before speaking)."},
+ {r:12, n:"Harini Kesamneni", d:8.3, s:7, g:"F", c:"India/US", role:"Closer", note:"Negotiated a 12-acre sale HERSELF · closed pharma in a month · show jumper.", why:"A closer who actually closed. Underrated; good R3-R4 value."},
+ {r:13, n:"Jack Gramer", d:8.3, s:4, g:"M", c:"US", role:"All-round", note:"Swipe Athletics co-founder 2.5 yrs → SweatGuys · Glavin grant → Italy · builds AI apps · 11:13 steeple.", why:"Shipped as a team with Marra — drafting one warms the other."},
+ {r:14, n:"Mia Mumby", d:8.2, s:4, g:"F", c:"US", role:"Operator", com:"COND", clk:1, note:"240 blankets delivered · accounting concierge · $50K Chi O budget · 4 yrs coaching. Me-or-Nuch: FIRST PICK WINS.", why:"⏰ THE CLOCK. R2 in every world she's available — if you want her, there is no later. Never ask her to refuse Nuch."},
+ {r:15, n:"Adi Oberoi", d:8.0, s:7, g:"M", c:"India", role:"All-round", trap:1, note:"3.92, ranked 1st ×2 · FME CEO profitable. Nandika co-founded EcoKeeper with him — she has a year of history. NEVER repeat the '$5M contracts' line.", why:"Good but contested by Nandika and the $5M line is radioactive. Only on a bargain."},
+ {r:16, n:"Aaron Wu", d:8.0, s:3, g:"M", c:"US", role:"Systems", dp:1, note:"2y2m co-running a self-built fund · real audience (98 reactions/post) · JPM DCM. IB recruiting = bandwidth risk.", why:"Real operator with an audience; check fall load first."},
+ {r:17, n:"Omar Saad", d:8.0, s:1, g:"M", c:"US", role:"Maker", dp:1, note:"Contact Me — LIVE on the App Store (verified) · only shipped app in the class. 'So I built one.'", why:"Ships things. True dark pool — late-round steal."},
+ {r:18, n:"Anvesha Gupta", d:7.9, s:1, g:"F", c:"India", role:"Operator", dp:1, note:"Led 10 research fellows 2 yrs at Madad · small businesses → e-comm → VC pitches.", why:"Dark-pool operator + diversity value. Great R5-R6."},
+ {r:19, n:"Yifei You", d:7.8, s:7, g:"M", c:"China", role:"Technical", trap:1, note:"LLMs for FX pre-ChatGPT · Afora 2y10m. SELF-DECLARED follow-through risk.", why:"Smart but flagged his own follow-through. Pass unless empty."},
+ {r:20, n:"Anshul Shah", d:7.6, s:3, g:"M", c:"India/Dubai", role:"Technical", dp:1, note:"CFA L1 + SIE as a junior · production Python at 600ms latency · wrote the full deployment docs.", why:"The docs line is the hook — systems discipline you lack."},
+ {r:21, n:"Aryaman Gupta", d:7.4, s:2, g:"M", c:"India", role:"Operator", dp:1, note:"4 yrs treasurer, menstrual-education nonprofit · 1y9m startup field outreach.", why:"Quiet consistency + diversity. Late-round fine."},
+ {r:22, n:"Ansh Barmecha", d:7.4, s:2, g:"M", c:"India", role:"Events/ops", dp:1, note:"2 yrs YPO board · Salesforce World Tour (5,000 attendees).", why:"Events ops = the logistics weeks. Dark pool."},
+ {r:23, n:"Tony Shi", d:7.2, s:5, g:"M", c:"China/US", role:"Presenter", note:"750+ campus tours, twice weekly · FME CFO as a freshman (résumé-verified).", why:"Born presenter — 70% of the grade is pitching. Verify Carnegie Hall."},
+ {r:24, n:"Zeynep Celiktas", d:7.2, s:2, g:"F", c:"Türkiye", role:"Operator", dp:1, note:"2.5 yrs running a Lumos Debate branch (rosters, parents, reports) · PwC externship.", why:"Ran real operations + diversity value."},
+ {r:25, n:"Selim Saab", d:7.0, s:3, g:"M", c:"Lebanon", role:"Analyst", dp:1, note:"VC scout at a $180M fund · only accountant on the board.", why:"The accountant slot nobody else fills."},
+ {r:26, n:"Cade Collins", d:7.0, s:5, g:"M", c:"US", role:"Maker/design", note:"bigfootmovers.co live, phone matches résumé · realtor staging partnerships. (Trademark claim overstated.)", why:"Live venture + design eye."},
+ {r:27, n:"Eduardo Camilo", d:7.0, s:1, g:"?", c:"?", role:"Technical", dp:1, note:"Fish telemetry around offshore wind farms · Babson IT technician · 9 mos BBBS. MAY TAKE AN IT-OFFICER SEAT.", why:"⚡ IT OFFICER PERK: drafting him can mean presentation-order control ('you don't want to be the 12th to present'). Check his seat first."},
+ {r:28, n:"Mads Syversen", d:7.0, s:5, g:"M", c:"Norway", role:"Athlete/ops", note:"First Babson skier to win USCSA national slalom + combined · 3× All-American. Volunteered: procrastination + steamrolling. Injury history.", why:"Champion athlete, flagged habits — only with structure around him."},
+ {r:29, n:"Ziad El Hout", d:7.0, s:8, g:"M", c:"Lebanon", role:"Builder", trap:1, note:"Own e-comm venture 4y8m from ~15 · Babson Clo CEO. Storefront now DEAD.", why:"Duration is real, traction isn't visible. S8 = rivals may burn a pick; you shouldn't."},
+ {r:30, n:"Yukt Agarwal", d:6.8, s:3, g:"M", c:"India", role:"Operator", note:"⚠ Water system + ProjectDAM absent from his own LinkedIn — floor, not estimate.", why:"Unverified claims. Only if the board is empty."},
+ {r:31, n:"Al Nickerson", d:6.5, s:3, g:"M", c:"US", role:"Creative", note:"D-III distance runner (TFRRS verified) · bassist in a band · Marketing '27.", why:"Creative spark for skits. Late-round flyer."},
+ {r:32, n:"Devi Gupta", d:6.5, s:5, g:"F", c:"India", role:"Operator", note:"⚠ 2-entry LinkedIn; BSBK + school shop absent — floor, not estimate.", why:"Unknown, not bad. Diversity-positive late pick."},
+ {r:33, n:"Louise Vitienes", d:6.5, s:3, g:"F", c:"Philippines", role:"Resourcer", note:"3-entry LinkedIn · Agrifeed — family does own it (verified).", why:"Family business real; rest unverified."},
+ {r:34, n:"Arnav Aggarwal", d:6.3, s:3, g:"M", c:"India", role:"Researcher", note:"Sole-authored DOI'd paper (SSRG — real, low bar) · braille gardening.", why:"Depth over flash. Fine late."},
+ {r:35, n:"Henrique Nagem", d:6.3, s:7, g:"M", c:"Brazil", role:"Analyst", trap:1, note:"AI deal-idea dashboard · 2.5 yrs ALPFA. Everything else belongs to an employer.", why:"Prestige-priced. Pass."},
+ {r:36, n:"Ilan Mayo", d:6.0, s:8, g:"M", c:"US", role:"Analyst", trap:1, note:"Deepest transaction résumé of any junior. ZERO self-started.", why:"The definition of a trap. Pass."},
+ {r:37, n:"Sophia Montague", d:6.0, s:1, g:"F", c:"US", role:"Construction", dp:1, note:"Construction — Go-Tilt, World of Concrete. ⚠ identity unconfirmed.", why:"If identity checks, genuinely unique. Confirm first."},
+ {r:38, n:"Laura Lu", d:6.0, s:4, g:"F", c:"?", role:"BD", dp:1, note:"Two 18-month roles concurrent with school. 'Stealth startup' unevidenced.", why:"Undefined. Late only."},
+ {r:39, n:"Sudhish Thati", d:5.5, s:1, g:"M", c:"India", role:"Creative?", dp:1, note:"Zero film evidence anywhere. Don't draft unseen.", why:"No evidence. Pass."},
+ {r:40, n:"Aaryan Mehra", d:5.0, s:4, g:"M", c:"India", role:"?", note:"⚠ 1-entry LinkedIn, no posts, four claims don't check. Ask the DOI.", why:"Pass."},
+ {r:41, n:"Yohaan Tibrewala", d:5.0, s:1, g:"M", c:"India", role:"Unknown", dp:1, note:"Empty profile and empty activity.", why:"Pass."},
+ {r:42, n:"Hesham Babukhan", d:4.5, s:1, g:"M", c:"?", role:"Unknown", dp:1, note:"Nothing findable.", why:"Pass."},
+ {r:43, n:"Rohan Nagpaul", d:0, s:10, g:"M", c:"India", role:"⛔ NEVER", no:1, note:"⛔ DO NOT DRAFT at any round. SEC filings: ~$1.27M/26 investors — not '$5M AUM,' name on neither · SigEp president is someone else · Babson credits Arcangel to two other students · no YC · no TEDx. Note which CEO takes him.", why:"Five checkable claims failed. Never."}
+];
+P.forEach(p=>p.st="ok"); // ok | mine | rival | forced | gone
+let round=1, rc=0, filter="all";
+
+function setRound(r){round=r; render();}
+function setRC(v){rc=v; render();}
+function setFilter(f){filter=f; render();}
+
+function cycle(i){
+  const order=["ok","mine","rival","forced","gone"];
+  const p=P[i];
+  if(p.no && p.st==="ok"){ showModal(p); return; }
+  p.st=order[(order.indexOf(p.st)+1)%order.length];
+  if(p.st==="mine"){ const need=Math.min(round+1,6); round=need; }
+  render();
+}
+
+function plan(){
+  // returns ordered pick preference for current round
+  const av=n=>P.find(p=>p.n===n && (p.st==="ok"||p.st==="forced"));
+  const fourWorld = (rc===4 || rc===0); // 4 or unknown → AJ at R4
+  let order=[];
+  if(round===1) order=["Jeda Wannasin"];
+  else if(round===2) order=["Mia Mumby","Omar Flores"];
+  else if(round===3) order=["Omar Flores"];
+  else if(round===4) order= fourWorld? ["AJ Bulow","Kelly Morgan"] : ["Kelly Morgan","AJ Bulow"];
+  else if(round===5) order=["AJ Bulow","Tiffany Lukman"];
+  else order=["Tiffany Lukman"];
+  // slide: if a planned name is gone, fall to the next rounds' plan then ladder
+  const planAll=["Jeda Wannasin","Mia Mumby","Omar Flores","Kelly Morgan","AJ Bulow","Tiffany Lukman"];
+  for(const n of planAll){ if(!order.includes(n) && av(n) ) order.push(n); }
+  return order.filter(n=>av(n));
+}
+
+function ladder(){
+  // adjusted-score fallback over available players
+  const mine=P.filter(p=>p.st==="mine");
+  const women=mine.filter(p=>p.g==="F").length;
+  const roundsLeft=Math.max(0,7-round);
+  return P.filter(p=>p.st==="ok" && !p.no)
+    .map(p=>{
+      let v=p.d;
+      if(p.com==="HARD"||p.com==="COND") v+=0.4;           // guaranteed yes
+      if(p.trap) v-=1.2;                                     // traps down
+      if(women<2 && roundsLeft<=2 && p.g==="F") v+=0.6;      // diversity correction late
+      if(p.n==="Brock Alpher") v-=0.05;                      // sound-out-first
+      if(p.n==="Eduardo Camilo") v+=0.15;                    // IT perk
+      return {p,v};
+    })
+    .sort((a,b)=>b.v-a.v)
+    .map(x=>x.p);
+}
+
+function render(){
+  // alert: forced commits
+  const forced=P.filter(p=>p.st==="forced" && (p.com==="HARD"||p.com==="COND"));
+  const al=document.getElementById("alert");
+  if(forced.length){
+    al.style.display="block";
+    al.innerHTML="🚨 FORCED-JOIN WINDOW: "+forced.map(p=>"<b>"+p.n.split(" ")[0]+"</b>").join(", ")+" refused → must join the NEXT team that picks → <u>SAY THE NAME AT YOUR SLOT, IMMEDIATELY</u> — before any pick passes.";
+  } else al.style.display="none";
+
+  // recommendation
+  const pl=plan(), lad=ladder();
+  let rec=null, why="", alt="";
+  if(pl.length){ rec=P.find(p=>p.n===pl[0]); why=rec.why; alt="Then: "+pl.slice(1,3).map(n=>n.split(" ")[0]).join(" → "); if(!alt.endsWith("!")&&pl.length<2) alt=""; }
+  else if(lad.length){ rec=lad[0]; why=rec.why; alt="Then: "+lad.slice(1,3).map(p=>p.n.split(" ")[0]).join(" → "); }
+  else { why="Board is empty — still draft a body, never pass."; }
+  document.getElementById("recName").textContent = round<=6 ? ("R"+round+" → "+(rec?rec.n.toUpperCase():"—")) : "DRAFT COMPLETE";
+  document.getElementById("recWhy").textContent = why;
+  document.getElementById("recAlt").textContent = alt;
+
+  // round buttons
+  document.querySelectorAll(".rbtn").forEach(b=>b.classList.toggle("picked", +b.textContent===round));
+  [["rc4",4],["rc5",5],["rc6",6],["rc0",0]].forEach(([id,v])=>document.getElementById(id).classList.toggle("on", rc===v));
+
+  // roster + diversity
+  const mine=P.filter(p=>p.st==="mine");
+  document.getElementById("roster").innerHTML = mine.length? mine.map(p=>"<span class='chip'>"+p.n.split(" ")[0]+"</span>").join("") : "<span class='chip' style='opacity:.5'>empty — draft</span>";
+  const w=mine.filter(p=>p.g==="F").length;
+  const cs=new Set(mine.map(p=>p.c).filter(c=>c&&c!=="?")); cs.add("you");
+  const roles=new Set(mine.map(p=>p.role));
+  document.getElementById("divLine").innerHTML = "Diversity check (Len grades this): <b>"+w+" woman"+(w===1?"":"s")+"</b> · <b>"+cs.size+"</b> countries/origins · <b>"+roles.size+"</b> distinct roles"+(w<2&&round>=4?" — <b>fix with the next pick</b> (Tiffany / Kelly / Anvesha / Tarynea / Harini / Zeynep)":"");
+
+  // list
+  let list=P.map((p,i)=>({p,i})).filter(({p})=>{
+    if(filter==="avail") return p.st==="ok"||p.st==="forced";
+    if(filter==="com") return (p.com==="HARD"||p.com==="COND");
+    if(filter==="w") return p.g==="F";
+    if(filter==="top") return p.r<=15;
+    return true;
+  });
+  document.getElementById("list").innerHTML=list.map(({p,i})=>{
+    const badges=[
+      p.com==="HARD"?"<span class='bdg b-com'>🔒 COMMIT</span>":"",
+      p.com==="COND"?"<span class='bdg b-com'>🔒 COND</span>":"",
+      p.dp?"<span class='bdg b-dp'>★ DARK</span>":"",
+      p.hot?"<span class='bdg b-hot'>🔥 "+p.hot+" CEOs</span>":"",
+      p.clk?"<span class='bdg b-clk'>⏰ CLOCK</span>":"",
+      (p.r===5||p.n==="Tiffany Lukman")?"<span class='bdg b-cash'>💰 R5+</span>":"",
+      p.no?"<span class='bdg b-no'>⛔ NEVER</span>":"",
+      p.trap?"<span class='bdg b-no'>TRAP</span>":""
+    ].join("");
+    const stTxt={ok:"OK",mine:"MINE",rival:"RIVAL",forced:"FORCED",gone:"GONE"}[p.st];
+    return "<div class='prow "+p.st+"'><div class='rank'>"+p.r+"</div><div class='pmain'><div class='pname'>"+p.n+"<span class='ds'>"+(p.no?"⛔":p.d.toFixed(1))+"/"+p.s+"</span></div><div class='pnote'>"+p.g+" · "+p.c+" · "+p.role+" — "+p.note+"</div><div class='badges'>"+badges+"</div></div><button class='st "+p.st+"' onclick='cycle("+i+")'>"+stTxt+"</button></div>";
+  }).join("");
+  // highlight recommendation row
+  if(rec){ const idx=list.findIndex(({p})=>p.n===rec.n); }
+}
+
+function showModal(p){
+  const m=document.getElementById("modal");
+  document.getElementById("mTitle").textContent="⛔ "+p.n+" — DO NOT DRAFT";
+  document.getElementById("mBody").innerHTML="<p>"+p.note+"</p><p><b>Why rivals will take him:</b> the résumé reads PE/M&A prestige. Five checkable claims failed our audit (research/AUDIT-2026-08-31.md).</p><p style='color:#fde68a'><b>Note which CEO drafts him</b> — that's your read on who drafts on prestige.</p>";
+  m.style.display="flex";
+}
+function closeModal(){document.getElementById("modal").style.display="none";}
+render();
+</script>
+</body>
+</html>
