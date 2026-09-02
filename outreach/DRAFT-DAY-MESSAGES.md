@@ -82,3 +82,21 @@ Three people committed to me early — Jeda, Omar, and an Olin guest student —
 I know that's not "you're definitely on my team," and I'm not going to say that to you if it's not true. But the honest odds are better than the honest wording makes them sound.
 
 Green today if you can. And pitch like yourself — it's better than you give it credit for.
+
+---
+
+## 7. AJ — FOLLOW-UP (send now, ~1:15 PM — refines the "mumble" advice)
+
+AJ — one refinement on what I sent, after sitting with it for a minute. Two changes, then I'll shut up.
+
+One: don't mumble. Kill that part. The intros aren't just for the CEOs — Len watches every single one, he cold-calls, and he grades presentation harder than anyone at this school. If his first image of you is a guy mailing it in at the floor, that sticks with the person who grades you for thirteen weeks. And honestly? A guy mumbling into his shirt is MEMORABLE — which is the exact opposite of the job. The version that works is calm, confident, boring: "Hey, I'm AJ. Mechanical engineering at Olin. I like building things and I'm looking for a team that does too." Short, friendly, forgettable. Delivered WELL — that's the trick. You're a ghost with good posture.
+
+Two: don't say the committed line in the intro. Save it. Here's the problem with announcing it to the room: it makes you interesting. It tells eleven CEOs somebody did their homework on you — and for any team that was going to pass anyway, drafting you is a FREE SHOT: if you refuse, they still collect that round's money, same as passing, and if you were bluffing they just stole a player. That's the exact gamble we're trying to kill, and announcing it invites it.
+
+The killer version is one-on-one. If a CEO drafts you, or corners you after intros, you look them in the eye and say: "I've already committed to a team, so I'd say no — I don't want you wasting your pick." That version works because it kills the math for that specific person: picking you becomes guaranteed cash and an awkward moment, so why bother. Same words, completely different effect in private vs. public.
+
+If one of the two CEOs you know corners you before class: vague and true. Olin, mech-e, I tinker, handball. That's the whole guy.
+
+Last thing: even the worst case isn't a worst case. If some insane sequence lands you on another roster, the trade window opens two minutes after the draft — and Len said trades run all semester. I'm coming for you either way. You're not getting rid of me.
+
+2:50. Green if you've got it.
