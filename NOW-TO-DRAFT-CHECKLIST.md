@@ -1,4 +1,6 @@
 # NOW → DRAFT: THE EXACT CHECKLIST
+
+> **⚠️ STATUS 9 AM WED 9/2 — MOST OF THIS FILE IS DONE/SUPERSEDED.** Six commits landed (Jeda, Omar, Mia, Tiffany, Kelly, AJ); Jeda+Omar refuse all others. The live plan is `research/draft-day-sheet.html/PDF` (v5) + `research/PLAN-POST-COMMITMENT.md` Wed section. **Today: noon AJ 1:1 → 1:30 circle Plan ①/②/③ on sheet p1 → print 2 copies → green + name slip → Olin 120 by 2:50.** Wed-morning items below still apply (ROE 9–10 if skipped yesterday; last warm calls; eat).
 **Written Mon Aug 31, 2026, ~7:30 PM ET. Draft: Wed Sept 2, 3:00 PM, Olin 120.**
 Everything lives in this repo. Files referenced by name. Print this too.
 

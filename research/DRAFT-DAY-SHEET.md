@@ -1,12 +1,27 @@
 # DRAFT DAY — Wed Sept 2 · Olin 120 · 3:00 PM
-> **🖨️ PRINT `DRAFT-DAY-SHEET.pdf` (4 pages, REBUILT Mon 8/31 night around the Jeda + Omar locks — see `PLAN-POST-COMMITMENT.md`).** This markdown file mirrors it for on-screen reference. Source layout kept in `draft-day-sheet.html`.
+> **🖨️ PRINT `DRAFT-DAY-SHEET.pdf` (4 pages, v5 — REBUILT DRAFT-DAY 9 AM around SIX COMMITS).** This markdown mirrors it loosely; the HTML/PDF is authoritative.
 
 **WEAR GREEN. Hand a slip with your first + last name to an HR Officer.** (Syllabus bonus point.)
 **Rules of Engagement: Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Center Televideo Rm 021 — questions on page 4.**
 
 ---
 
-## PAGE 1 — THE PLAN (REBUILT MON 8/31 NIGHT: JEDA + OMAR LOCKED)
+## PAGE 1 — THE PLAN (v5, DRAFT-DAY 9 AM: SIX COMMITS → FOUR SEATS)
+
+**🔒 SIX YESes:** Jeda · Omar · Mia · Kelly · Tiffany · AJ all join if drafted. **Jeda + Omar refuse every other CEO.** Mechanic unchanged: a refusal forces them to the NEXT picker — never let a pick pass between a refusal and my take; never instruct one (Len Q7).
+
+### ROUND 2 — THE CLOCK PICK (new in v5)
+**Mia is the only commit a rival can take** (Nuchaba, Chi O, first-pick-wins). Tiffany (S2) / AJ (S1) / Kelly (S4) last to R4 at ~zero risk. **Circle one at 1:30 PM after the noon AJ 1:1:**
+- **① MAX TALENT: R2 Tiffany → R4 AJ** (highest ceiling; Mia → Nuch; cost: quietest team, I carry all energy + process)
+- **② BALANCE: R2 Mia → R4 Tiffany** (3 women, personable core; cost: no Maker)
+- **③ MAKER + HEART: R2 Mia → R4 AJ** (personability + engineer; cost: loses Tiffany’s ceiling)
+- **Kelly = alternate in every plan.** Nuch snipes Mia pre-R2 → ①. AJ noon = B/C → ②.
+
+### ROUND 4 — THE SURVIVOR: per circled plan (① AJ · ② Tiffany · ③ AJ); wobble → Kelly; all gone → Ong/Brock(sound out first)/Marra/Tarynea/Chen.
+
+### CAPITAL v5: keep my slot — NO sell-down (widens the refused-Jeda window), NO buying up. Buy-back if a lock lands on a rival via forced join: **Omar open $200K / cap $300K; others bargains only (<$150K).** Passes NO×4.
+
+### (below: the v4 sections kept for reference — R1/R3 cards unchanged)
 
 ### 🔒 THE LOCKS AND THE ONE MECHANIC THAT GOVERNS THEM
 **Jeda Wannasin and Omar Flores are hard-committed** — both say they would refuse another CEO. But per Len draft doc: *"A player may refuse, one time… Players must join the 2nd Team for which they are selected."*

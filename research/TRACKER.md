@@ -1,4 +1,5 @@
-# TRACKER — update as replies arrive
+# TRACKER — update as replies as replies arrive — STATUS 9 AM WED 9/2 DRAFT DAY 9 AM
+> **🔒 DRAFT-DAY 9 AM: SIX COMMITS — Jeda, Omar, Mia, Tiffany, Kelly, AJ all YES if drafted. Jeda + Omar also refuse ALL other CEOs. R2/R4 = two of {Mia, Tiffany, AJ}, Kelly alternate. Mia is the only commit on a clock (Nuchaba race → R2 or gone). Noon AJ 1:1 = last gate → circle Plan ①/②/③ on sheet p1 by 1:30.**
 > **🔒 LATE 8/31: MIA MUMBY = CONDITIONAL (me or Nuchaba, first pick wins; refuses others) — see PLAN-POST-COMMITMENT Tue update. Tiffany + Kelly 1:1s next; their outcomes set R2/R4.**
 > **🔒 8/31 NIGHT: JEDA + OMAR FLORES HARD-LOCKED — see `PLAN-POST-COMMITMENT.md` for the rebuilt round logic (Jeda = first pick, NOT later rounds; Omar = R3).**
 > **SYNCED 8/31 to `MASTER-BOARD.md` (FINAL v3) — scores and order below now match the authoritative board exactly.** Older copies of this file carried v2 scores (Will 8.1, Kelly 8.5, Tarynea 8.7, Aaron 7.5, Zahaan 7.6, Harini 7.3, etc.) — those are dead. Use this file for the reply log and the intelligence table.
@@ -12,13 +13,13 @@
 | # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
 |---|---|---|---|---|---|---|---|---|
 | 1 | **Jeda Wannasin** | | 9.3/5 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says she’d refuse another CEO → R1, my first pick, whatever the slot.** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
-| 2 | **AJ Bulow** | ★ | 9.0/1 | ☐ | ☐ | — | | Confirm identity + **what's actually his at SonRC?** Olin load + handball |
+| 2 | **AJ Bulow** | ★ | 9.0/1 | ☑ | ☑ | **HARD** | — | **COMMITTED + noon 1:1 (3 hrs pre-draft). Identity RESOLVED (he replied). 9/2 dig: U19 handball squad + FOUNDED Olin handball club (Olin own post); Eagle Scout; Miata racecar; senior yr. Gate = bandwidth (GM “present” + capstone) + pitch diagnostic. `AJ-1ON1-PLAN.md` |
 | 3 | **Omar Flores** | ★ | 9.3/2 | ☑ | ☑ | **HARD** | — | **LOCKED 8/31 — says he’d refuse another CEO → R3 lock (dark pool, he lasts).** Send the locked-in mechanics note (`PLAN-POST-COMMITMENT.md` §6) |
-| 4 | **Brock Alpher** | ★ | 9.3/3 | ☑ | ☑ 1:1 | — | | **Most documented player on the board** (B.E.T.A. finalist per Babson, eTower leadership team, live store 4.9★/1,472, real TikTok). Wiacek risk — get the pre-commit. Run `BROCK-1ON1-PLAN.md` |
+| 4 | **Brock Alpher** | ★ | 9.3/3 | ☑ | ☑ 1:1 | — | | **No commit — fallback only** (R4 kicker: sound him out in the room first). Wiacek risk stands. |
 | 5 | **Matthew Ong** | ★ | 9.0/1 🌟 | ☐ | ☐ | — | | Will he take airtime in a graded discussion? |
-| 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☑ | ☑ 1:1 booked | — | | **KIWI/ilmuKita national 1st place PRESS-VERIFIED 9/1 (5 Indonesian outlets).** Open: her team role (articles quote Gureesha Sohan), Net TV clip, final-semester bandwidth (Class of 2026!). Run `outreach/TIFFANY-1ON1-PLAN.md` — A/B/C decision rules post-call |
+| 6 | **Tiffany Lukman** | ★ | 9.0/2 | ☑ | ☑ 1:1 done | **HARD** | — | **COMMITTED 9/1. Driven, very accomplished, quieter social energy → give defined deliverables. R2 (Plan ②) or R4 (Plan ①).** |
 | 7 | **Will Marra** | | 8.8/5 | ☐ | ☐ | — | | Which of 4 ventures are live this fall? |
-| 8 | **Kelly Morgan** | | 8.6/4 | ☑ | ☑ 1:1 booked | — | | **All employers verified 9/1** (Rate = Guaranteed Rate Chicago; Valley Lo Glenview real; GrubIQ real @grubiq.co). Open: does Rate run into fall? Run `KELLY-1ON1-PLAN.md` — if HARD yes she JUMPS Mia at R2 |
+| 8 | **Kelly Morgan** | | 8.6/4 | ☑ | ☑ 1:1 done | **HARD** | — | **COMMITTED — ALTERNATE. Takes any seat that wobbles at the door. All employers verified (Rate = Guaranteed Rate).** |
 
 ## WAVE 2 — today or first thing Tuesday
 | # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
@@ -28,7 +29,7 @@
 | 11 | Zahaan Sabuwala | | 8.4/6 | ☐ | ☐ | — | | Three multi-year commitments — is Business Mindset still running? |
 | 12 | **Harini Kesamneni** ⬆ | | 8.3/7 | ☐ | ☐ | — | | **Was #24/"send only if short" under the dead rule — now Round 2.** Fall load? |
 | 13 | Jack Gramer | | 8.3/4 🌟 | ☐ | ☐ | — | | Role on SweatGuys now? (Marra co-founder) |
-| 14 | **Mia Mumby** | | 8.2/4 | ☑ | ☑ | **COND-HARD** | **Nuchaba Scholte** | **SPOKEN 8/31: joins Ryan or Nuch — whoever drafts her FIRST; refuses all others.** If Brock is gone at my R2 → take Mia (certainty + Nuch-block). Send the §6.3 mechanics note |
+| 14 | **Mia Mumby** | | 8.2/4 | ☑ | ☑ | **COND-HARD** | **Nuchaba Scholte** | **COMMITTED — me-or-Nuch, FIRST PICK WINS. The only commit a rival can steal → R2 or she is Nuch’s. Never ask her to refuse Nuch.** |
 | 15 | Adi Oberoi | | 8.0/7 | ☐ | ☐ | — | | **Has Nandika already asked him?** ← day one. Never repeat the "$5M" line |
 | 16 | Aaron Wu | ★ | 8.0/3 | ☐ | ☐ | — | | **Posse + Horatio Alger — which years?** + fall recruiting? |
 | 17 | Omar Saad | ★ | 8.0/1 🌟 | ☐ | ☐ | — | | Confirm identity; the app — downloads? What's next? |

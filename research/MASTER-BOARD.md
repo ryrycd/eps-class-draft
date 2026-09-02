@@ -63,3 +63,13 @@ Evidence base: brag sheet + résumé + **full LinkedIn experience read to the en
 
 ## The only composition check — run it once, at Round 4
 Not a slot list. Just one question: **have I ended up with four of the same person?** If all four are analysts, or all four are salespeople, fix it with the last pick. Otherwise take the best player. And if three men are on the board by R4, Len scores gender — Anvesha, Kelly, Mia, Tarynea, Harini and Zeynep are all live.
+
+
+---
+## UPDATE — DRAFT DAY 9 AM (Wed 9/2): SIX COMMITS, FOUR SEATS
+**All yes-if-drafted: Jeda · Omar · Mia · Tiffany · Kelly · AJ.** Jeda + Omar additionally refuse ALL other CEOs. The board problem is now allocation, not acquisition:
+- **R1 Jeda** (first pick at whatever slot) · **R3 Omar** (invisible; if sniped+forced elsewhere: buy back, open $200K / cap $300K — the only player I pay for).
+- **R2 = the clock pick: MIA** — the only commit a rival (Nuchaba, Chi O) can take; if I want her it must be R2. Tiffany (S2), AJ (S1), Kelly (S4) all last to R4 at ~zero risk.
+- **Three plans, circled at 1:30 PM after the noon AJ 1:1:** ① R2 Tiffany → R4 AJ (max talent) · ② R2 Mia → R4 Tiffany (balance, 3 women) · ③ R2 Mia → R4 AJ (maker + heart). **Kelly = alternate in every plan.**
+- **Capital: do NOT sell down** (reversed — it widens the refused-Jeda window). No buying up. Passes still NO×4.
+- Brock: no commit → fallback only. Full detail: `PLAN-POST-COMMITMENT.md` Wed section + sheet p1.

@@ -117,3 +117,29 @@ Seats: Jeda 🔒 (R1) + Omar 🔒 (R3) fixed. The live decisions are R2 and R4, 
 
 ---
 **9/1 update:** Tiffany deep-dig complete — the KIWI/ilmuKita national 1st place is **press-verified in five Indonesian outlets** (Gatra, Media Indonesia, Republika, Tempo, TribunNews); her personal team role (articles quote Gureesha Sohan), the Net TV clip, and her final-semester bandwidth are the open items. Full 1:1 run-of-show with A/B/C decision rules: `outreach/TIFFANY-1ON1-PLAN.md`. Outcome A locks her R4 — and puts her in the R2 conversation if Kelly does not convert.
+
+---
+# 📌 WED 9/2, 9 AM — DRAFT-DAY UPDATE: SIX COMMITS, FOUR SEATS
+*The Tuesday decision tree below is now resolved. Every branch converted.*
+
+## What changed overnight
+**Six players have committed to join if drafted: Jeda · Omar · Mia · Tiffany · Kelly · AJ.** Jeda and Omar additionally committed to **refuse every other CEO**. Kelly's 1:1 and Tiffany's 1:1 both converted (Tiffany: driven, very accomplished, quieter social energy → give her defined deliverables, not improv; Kelly: solid yes — she is the alternate, not the starter, unless something wobbles). AJ's yes came in writing; **his 1:1 is TODAY AT NOON — three hours before the draft** (script: `outreach/AJ-1ON1-PLAN.md`).
+
+## The allocation logic (this is the whole sheet now)
+1. **R1 = Jeda.** First pick at whatever slot. Her refusal commitment is a one-shot shield, not a wall: if a rival drafts her and she refuses, she is FORCED to the next picker — so I take her at my own slot if she refuses above me, and if someone between us re-drafts her, she's gone → best available + buy-back talk.
+2. **R2 = the clock pick.** **Mia is the only commit a rival can take from me** — her own rule: first of {me, Nuchaba} wins, refuses everyone else. Nuchaba drafts Chi O friends early. **If Mia is on my team at all, she is my R2 pick**; by R4 she's Nuch's. Tiffany (S2), AJ (S1), Kelly (S4) are invisible/underpriced — they last to R4 at ~zero risk. This inverts the old "never dark pool at R2" rule: that rule existed when R2 was contested by rivals; nothing I want at R2 is contested except Mia.
+3. **R3 = Omar.** Unchanged. If sniped and forced onto a rival: post-draft trade — **open $200K, walk at $300K. He is the one player I pay for.** Anyone else only at a bargain (<$150K).
+4. **R4 = the survivor.** Three plans, circled at 1:30 PM after the noon AJ meeting:
+   - **① MAX TALENT — R2 Tiffany → R4 AJ** (Jeda·Tiffany·Omar·AJ: highest ceiling, 2F/2M; Mia → Nuch with a friend; cost = quietest team, Ryan carries all energy and process)
+   - **② BALANCE — R2 Mia → R4 Tiffany** (3 women — Len scores gender; personable coaching core; cost = no Maker)
+   - **③ MAKER + HEART — R2 Mia → R4 AJ** (personability AND the engineer; cost = loses Tiffany's ceiling to the void — no rival gains her)
+   - **Kelly = alternate in every plan** — a commit wobbles at the door, she takes the seat, order holds. AJ noon = B → ②. AJ noon = C → Kelly enters the four.
+5. **Capital — REVERSED: do NOT sell down to 12.** That move made sense when R2 was contested and worth cash; today it only widens the window in which a refused Jeda gets re-drafted by someone between her refusal and 1.12. Keep the slot. No buying up. Passes: still NO × 4.
+
+## The three questions that actually decide today
+1. **Noon: is AJ real?** (SonRC division of labor honest + specific · GM/Olin bandwidth holds · pitch diagnostic has energy · yes re-confirmed.) A/B/C rules at the bottom of his plan file.
+2. **1:30: circle the plan** on sheet page 1 — the Mia-vs-ceiling value call (grit-and-personality vs maximum accomplishment) is Ryan's alone; both are defensible.
+3. **In the room: the Mia clock.** If Nuchaba picks before my R2 and takes Mia, default to Plan ① without hesitation — no live renegotiation.
+
+## Standing rules (unchanged)
+Never instruct or arrange a refusal — Jeda's and Omar's commitments are their own; Len Q7 (declared in room? pre-arranging allowed?) if not already answered at ROE. Never ask Mia to refuse Nuch. Never promise a round to anyone. Note which CEO takes Rohan Nagpaul — the prestige-drafting tell. Wear green; name slip to an HR officer; two printed copies of sheet v5.

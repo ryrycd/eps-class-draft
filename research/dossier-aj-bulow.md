@@ -59,3 +59,23 @@ Even discounting the founder claim entirely, what remains is the strongest engin
 Still a top-five pick, and still effectively invisible — but on the strength of Olin Formula, SpaceX and GM, not on a founding story that the California business registry does not support.
 
 **Round 2.** Do not spend Round 1: nobody else can find him. Two things to settle in the first exchange — **is this even the right person**, and **what is actually his at SonRC.** A good answer to the second ("I grew up in it and now run X") makes him better, not worse.
+
+---
+
+# 🔎 DEEP DIG — Wed 9/2, draft morning (before the noon 1:1)
+*Third pass, triggered by his reply + commitment + today's meeting. Identity question is now RESOLVED operationally: roster-"AJ Bulow" answered the message addressed to the Olin Aiden Bulow, engaged, committed, and took the meeting — the match is confirmed by his own behavior. New material found; nothing below contradicts the corrected v3 reading.*
+
+## ✅ NEWLY VERIFIED
+- **USA Team Handball Men's U19 NATIONAL SQUAD member — per Olin College's own LinkedIn post** (#humansofolin, 11 Oct 2023): "Olin first year student, and member of the USA Team Handball Men's U19 squad, Aiden Bulow '27…" He isn't just the college top scorer we already had — he's national-team-pathway in the sport, on top of **Top Scorer, Men's Division, 2026 College Nationals** (USATH, 27 Apr 2026).
+- **He FOUNDED the Olin handball club** — same Olin post: "This fall, AJ started a new handball sports club at Olin, and is teaching people how to play." Arrived fall 2023, built the institution within weeks, teaches it himself. **This is the founder-shaped evidence SonRC lacked** — at Olin, in his own name, first semester.
+- **A second LinkedIn profile** (aiden-bulow-541b53229) fills out the record [STATED, his own wording]:
+  - **Eagle Scout** — "managed outings, meetings, and service projects."
+  - **Built and modified his own 1997 Mazda Miata racecar** and tunes it against the Formula car using the same vehicle-dynamics lens.
+  - **Won NextFlex's FlexFactor Design Challenge** and **led SVCTE's hydrogen-powered RC race car** (pre-Olin).
+  - SonRC in his own words: "growing my small business from a single product… to now **operating with retailers across several states, custom injection molds, and over one hundred different products**."
+- **Olin Electric Motorsports context** (teammate portfolios): Formula SAE Electric team, 30+ members on the mechanical side alone; his Suspension/Chassis/Aero Lead seat is one of the top-3 engineering roles on the car; the pipeline from that seat runs to Tesla internships. Two years holding it = genuine engineering leadership, verified by team context.
+
+## Net effect on the file
+- **Desire holds at 9.0 — but the composition improved:** the anti-signal "the founding is not his" is now balanced by a verified founding *at Olin* (handball club) plus U19-squad discipline. The Maker case is untouched (SpaceX/GM/OEM). Diversification stays a 10.
+- **Class standing clarified: he is a SENIOR** (2023–2027) — fall = final-year coursework, likely capstone. Combined with **GM Motorsports "May 2026 – present"** and the handball club he runs, **bandwidth is questions #1–3 of the noon call.**
+- **The noon 1:1 has four jobs:** (1) the SonRC division-of-labor truth talk (his answer = integrity + depth read), (2) GM/Olin fall capacity, (3) can this engineer carry 70% of a grade that is pitches and skits (make him explain something out loud), (4) re-confirm the yes + confirm nobody else has found him. Script: `outreach/AJ-1ON1-PLAN.md`.
