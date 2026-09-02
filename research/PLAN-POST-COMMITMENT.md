@@ -152,3 +152,7 @@ Never instruct or arrange a refusal — Jeda's and Omar's commitments are their 
 - **Buy-backs pre-priced** (2-min window): Jeda open $250K/walk $600K · AJ $50K/$200K · Omar $50K/$150K · others bargains only.
 - **Gamesmanship, bounded:** AJ (and Omar) coached to undersell their 60-sec intros — modest, never fabricated. Mia/Tiffany/Kelly were NEVER coached — underselling them is against their interests and poisons the well. Len's culture explicitly rewards beating the system; lying to a classmate remains off-limits.
 - Messages: `outreach/DRAFT-DAY-MESSAGES.md` (six, tiered transparency). Sheet: v6. After the draft: log the actual roster + trades in TRACKER.
+
+---
+# 🔒 v7 — THE FIXED PLAY (final pre-room)
+R1 Jeda → R2 Mia → R3 Omar → R4 Kelly → R5 AJ (+$400K) → R6 Tiffany (+$400K). Door: count rounds, confirm the 5th-pick bonus. 4-round world: R4 = AJ; Kelly + Tiffany become trade-market targets. Stash rule: ONLY AJ (ghost; Hong knows Omar, Greek life knows Kelly — targeted picks ignore sandbagged intros, so the half-visible never drift). "So bad" intros are memorable + Len-graded — calm-forgettable only. Fill rule: R3/R4 never strangers (ladder). Valve: fire/trade/merge all semester — a mega-team is reversible, a missed $400K isn't.
