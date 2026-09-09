@@ -97,5 +97,5 @@ Every name a target gives you goes here. This map is worth more than another sof
 ## LATE ADDITIONS — researched 9/9 (board v8, 45 players)
 | # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
 |---|---|---|---|---|---|---|---|---|
-| 30 | **Jilles Wildenbeest** | ★ | 7.0/1 | ☐ | ☐ | — | | Rotterdam transfer. Youth-council poll: 100+ respondents, ±2% validated, publicly presented [press-verified]. Why Babson · what did you run at Erasmus? |
+| 30 | **Jilles Wildenbeest** | ★ | 7.0/1 | ☐ | ☐ | — | | Rotterdam transfer. Youth-council poll: 100+ respondents, ±2% validated — **HEADLINE CALL CORRECT: newcomer tied CDA 5–5, “historic” happened** [graded vs official results 9/9]. Why Babson · what did you run at Erasmus? |
 | 43 | **Justin Wu** | ★ | 5.0/1 | ☐ | ☐ | — | | **Zero footprint — the intro IS the dossier.** What did you do before Babson · what do you build · why this class? |
