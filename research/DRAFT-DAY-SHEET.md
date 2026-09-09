@@ -3,6 +3,8 @@
 
 **v7 FINAL — THE FIXED PLAY: R1 JEDA → R2 MIA → R3 OMAR → R4 KELLY → R5 AJ (+$400K) → R6 TIFFANY (+$400K).** Only door question: do R5/R6 exist (count the wall diagram + confirm the bonus). **4-round world: R4 = AJ** (Kelly + Tiffany → trade market, which runs all semester). **Stash rule: only AJ stashes** — Omar (Hong) + Kelly (Greek life) are known, and targeted picks ignore sandbags; "so bad" is memorable, calm-forgettable is the play. Mia: 20-sec face-to-face at 2:50 (script on sheet p1); if Nuch drafts her first — her call, slide up. Buy-backs: Jeda $250→600K · AJ $50→200K · Omar $50→150K. Fill rule: never strangers — ladder p2. Fire/trade/merge = reversible.
 
+**v8 (9/9): three late additions researched — Jilles Wildenbeest 7.0/1 ★ #30 (Rotterdam transfer; press-verified 100+ respondent election poll at 16) · Justin Wu 5.0/1 ★ #43 (zero footprint — the intro IS the dossier) · Hesham re-dug 4.5→6.5, #42→#32 (TiE TYE grand-finalist runner-up team + crowdfunding at 14). Board = 45 players.**
+
 **WEAR GREEN. Hand a slip with your first + last name to an HR Officer.** (Syllabus bonus point.)
 **Rules of Engagement: Tue 9/1 3–4 PM or Wed 9/2 9–10 AM, Blank Center Televideo Rm 021 — questions on page 4.**
 

@@ -65,7 +65,7 @@
 | 39 | Sudhish Thati | ★ | 5.5/1 | ☐ | ☐ | — | **Don't draft without seeing work** |
 | 40 | Aaryan Mehra | | 5.0/4 | ☐ | ☐ | — | **Ask for the paper DOI** — four claims don't check |
 | 41 | Yohaan Tibrewala | ★ | 5.0/1 | ☐ | ☐ | — | Empty profile and empty activity |
-| 42 | Hesham Babukhan | ★ | 4.5/1 | ☐ | ☐ | — | Nothing findable |
+| 32 | Hesham Babukhan | ★ | 6.5/1 | ☐ | ☐ | — | **RE-DUG 9/9: 4.5→6.5.** TiE TYE 2020 grand-finalist runner-up team + own FuelADream campaign at 14 [press-verified] → then silence. Conversation-dependent ±1.5 |
 | — | ~~Rohan Nagpaul~~ | | ⛔ | — | — | — | **DO NOT DRAFT** — see CORRECTIONS file |
 
 ## INTELLIGENCE LOG — who is chasing whom
@@ -92,3 +92,10 @@ Every name a target gives you goes here. This map is worth more than another sof
 | 8 | Capital uses? Does unspent capital carry to scoreboard? | |
 | 9 | Post-draft trades — allowed? Fair price? | |
 | 10 | Pick number known before, or in the room? | |
+
+
+## LATE ADDITIONS — researched 9/9 (board v8, 45 players)
+| # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
+|---|---|---|---|---|---|---|---|---|
+| 30 | **Jilles Wildenbeest** | ★ | 7.0/1 | ☐ | ☐ | — | | Rotterdam transfer. Youth-council poll: 100+ respondents, ±2% validated, publicly presented [press-verified]. Why Babson · what did you run at Erasmus? |
+| 43 | **Justin Wu** | ★ | 5.0/1 | ☐ | ☐ | — | | **Zero footprint — the intro IS the dossier.** What did you do before Babson · what do you build · why this class? |

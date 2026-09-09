@@ -81,3 +81,9 @@ Not a slot list. Just one question: **have I ended up with four of the same pers
 - **R2 is a door decision:** count rounds on the wall diagram → 5 = Plan A (Mia R2, Omar R3, AJ R4, Kelly R5+$400K); 4 = Plan B (Omar R2, AJ R3, ladder).
 - **Buy-backs pre-priced:** Jeda $250→600K · AJ $50→200K · Omar $50→150K · others bargains only.
 - Messages: `outreach/DRAFT-DAY-MESSAGES.md`. Printable: `research/DRAFT-DAY-SHEET.pdf` v6.
+
+---
+## BOARD v8 — 9/9: THREE LATE ADDITIONS (45 players)
+- **Jilles Wildenbeest — 7.0/1 ★ — #30.** Rotterdam transfer [STATED]. At ~16: designed + ran a 100+ respondent municipal election poll, validated within ±2% of the 2018 result (CDA 0.3%), publicly presented [VERIFIED, Ermelos Weekblad 8-2-2022]. Methodologist-presenter, zero commercial record, invisible to every rival. `dossier-jilles-wildenbeest.md`.
+- **Hesham Babukhan — RE-DUG: 4.5 → 6.5/1 — #42 → #32.** TiE TYE Hyderabad 2020 grand-finalist runner-up team (Flobal) + own FuelADream campaign funding a year of meals for 20 kids at 14 [both press-verified]. Six silent years since — conversation-dependent ±1.5. `dossier-hesham-babukhan.md` (v2).
+- **Justin Wu — 5.0/1 ★ — #43.** Zero findable footprint; LinkedIn blocked + unindexed. Provisional (Yohaan treatment) — intro-dependent. Paste his profile to re-score. `dossier-justin-wu.md`.
