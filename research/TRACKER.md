@@ -97,5 +97,5 @@ Every name a target gives you goes here. This map is worth more than another sof
 ## LATE ADDITIONS — researched 9/9 (board v8, 45 players)
 | # | Name | ★ | D/S | Sent | Replied | Commit | Who else asked | The one thing to ask |
 |---|---|---|---|---|---|---|---|---|
-| 30 | **Jilles Wildenbeest** | ★ | 7.0/1 | ☑ | ☑ | **ON TEAM** | — | **DRAFTED/acquired by Ryan. Welcome call pending — script: `outreach/JILLES-CALL-PLAN.md`.** Poll headline call graded CORRECT vs official results. Get: why Babson · Rotterdam record · English comfort |
+| 30 | **Jilles Wildenbeest** | ★ | 7.0/1 | ☑ | ☑ | **ON TEAM** | — | **DRAFTED/acquired by Ryan. Welcome call pending — script: `outreach/JILLES-CALL-PLAN.md`.** Poll headline call graded CORRECT vs official results. Get: why Babson · **which Rotterdam school (EUR/RSM vs Hogeschool — let HIM name it)** + what he ran there · English comfort |
 | 43 | **Justin Wu** | ★ | 5.0/1 | ☐ | ☐ | — | | **Zero footprint — the intro IS the dossier.** What did you do before Babson · what do you build · why this class? |
