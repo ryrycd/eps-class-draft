@@ -65,3 +65,6 @@ The Jongerenraad poll ran in February 2022; the actual Ermelo municipal election
 
 ## Net effect on the file
 **Desire holds at 7.0 / Scarcity 1 — #30 unchanged — but the evidence quality just got teeth: this is now "the kid whose poll correctly called a historic election upset at ~16, then went dark."** For a class that is 70% researched pitches delivered under judgment, that origin story is on-brand. The open questions are unchanged and all conversation-dependent: why Babson, why now, what did he actually run in Rotterdam. If the answer is "a study-association board seat and a thesis," he's a 7.0; if it's "I ran events for 200 people," he's an 8 hiding in a Dutch newspaper archive.
+
+---
+**Third pass, 9/9 (pre-welcome-call): nothing further findable.** Searched regional press (De Stentor orbit), thesis repositories (RUG/UM/EUR patterns), sports clubs (Veluwe region), KVK-adjacent directories (Wildenbeest-Bosman remains unidentified), and US traces — all empty. **The record above is complete as it stands; the rest is conversation.** Call script: `outreach/JILLES-CALL-PLAN.md`. Status: **DRAFTED BY RYAN — on the team.**
